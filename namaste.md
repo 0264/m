@@ -1,4 +1,3 @@
-<span style="font-family:monospace">
  1 20 toe hold seated with David ........................ https://vimeo.com/13128664
 
  1 21 seated twist with David                             https://vimeo.com/13128300
@@ -477,4 +476,4 @@ https://vimeo.com/128276677
 https://vimeo.com/140254357
 https://vimeo.com/254746199
 https://vimeo.com/253916520
-https://vimeo.com/196114916</span>
+https://vimeo.com/196114916
