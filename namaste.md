@@ -1,12 +1,12 @@
  1 20 toe hold seated with David ........................ https://vimeo.com/13128664
 
- 1 21 seated twist with David                             https://vimeo.com/13128300
+ 1 21 seated twist with David ........................... https://vimeo.com/13128300
 
- 1 44 extended child pose with David                      https://vimeo.com/13130756
+ 1 44 extended child pose with David .................... https://vimeo.com/13130756
 
- 2 11 seated hip stretch with David                       https://vimeo.com/13127937
+ 2 11 seated hip stretch with David ..................... https://vimeo.com/13127937
 
- 2 27 one leg folded forward bend with David |pillow|     https://vimeo.com/13153816
+ 2 27 one leg folded forward bend with David . pillow ... https://vimeo.com/13153816
 
  2 32 eagle pose with David                               https://vimeo.com/13130251
 
