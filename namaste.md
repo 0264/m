@@ -20,30 +20,20 @@
 |13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
 |14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
 |15 06 | focus on core and low back with Rachel             | https://vimeo.com/155082780|
-|15 22 | yoga with David            | https://www.doyogawithme.com/content/office-yoga-ii|
+|15 22 |  | [office yoga with David](https://www.doyogawithme.com/content/office-yoga-ii)|
 |15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
 |15 44 | __after work yoga with Rachel__                    | https://vimeo.com/91051304 |
 |15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
-
-15 52 seated hand and wrist stretches with David         https://vimeo.com/182120878
-
-16 08 seated neck stretches with David                   https://vimeo.com/111533613
-
-16 22 bend and advanced binds with David |strap pillow|  https://vimeo.com/112958856
-
-17 39 sun rise slow flow with Melissa <<<<<<<<<<<<<<<<<< https://vimeo.com/200081746
-
-17 56 standing flow and twist with David                 https://vimeo.com/111564293
-
-18 42 morning slow flow with Satiya                      https://vimeo.com/188230830
-
-19 13 evening wind down with Josh https://doyogawithme.com/content/evening-wind-down
-
-19 17 arm balance power flow with Fiji |pillow|          https://vimeo.com/130555671
-
-19 19 seated leg and low back stretch with David <<<<<<< https://vimeo.com/182615304
-
-19 46 vinyasa for vitality with Fiji <<<<<<<<<<<<<<<<<<< https://vimeo.com/140254357
+|15 52 | seated hand and wrist stretches with David         | https://vimeo.com/182120878|
+|16 08 | seated neck stretches with David                   | https://vimeo.com/111533613|
+|16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
+|17 39 | __sun rise slow flow with Melissa__                | https://vimeo.com/200081746|
+|17 56 | standing flow and twist with David                 | https://vimeo.com/111564293|
+|18 42 | morning slow flow with Satiya                      | https://vimeo.com/188230830|
+|19 13 |      | [slow flow with Josh](https://doyogawithme.com/content/evening-wind-down)|
+|19 17 | arm balance power flow with Fiji - pillow          | https://vimeo.com/130555671|
+|19 19 | __seated leg and low back stretch with David__     | https://vimeo.com/182615304|
+|19 46 | __vinyasa for vitality with Fiji__                 | https://vimeo.com/140254357|
 
 19 51 after work yoga with Rachel                        https://vimeo.com/121058388
 
