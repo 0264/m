@@ -14,26 +14,16 @@
 | 9 39 | seated neck and shoulder stretches with David      | https://vimeo.com/14470372 |
 | 9 50 | slow flow, meditate; David and Satiya - pillow     | https://vimeo.com/184603406|
 |10 46 | create heat and focus on arm muscle! with Fiji     | https://vimeo.com/240932617|
-
-11 13 hands, wrists, arms with Erica                      https://vimeo.com/58200655
-
-11 41 shoulder and upper back with Erica                  https://vimeo.com/58200656
-
-12 53 stretch neck and shoulder with David |strap|        https://vimeo.com/14057532
-
-13 43 seated slow flow and restore with Satiya           https://vimeo.com/214109888
-
-14 49 slow stretch shoulder and spine with David |strap|  https://vimeo.com/14061311
-
-15 06 focus on core and low back with Rachel             https://vimeo.com/155082780
-
-15 22 yoga with David            https://www.doyogawithme.com/content/office-yoga-ii
-
-15 25 yoga therapy for neck and feet with Erica           https://vimeo.com/58212745
-
-15 44 after work yoga with Rachel <<<<<<<<<<<<<<<<<<<<<<< https://vimeo.com/91051304
-
-15 46 yoga for lower body with David |strap chair|        https://vimeo.com/81885273
+|11 13 | hands, wrists, arms with Erica                     | https://vimeo.com/58200655 |
+|11 41 | shoulder and upper back with Erica                 | https://vimeo.com/58200656 |
+|12 53 | stretch neck and shoulder with David - strap       | https://vimeo.com/14057532 |
+|13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
+|14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
+|15 06 | focus on core and low back with Rachel             | https://vimeo.com/155082780|
+|15 22 | yoga with David            | https://www.doyogawithme.com/content/office-yoga-ii|
+|15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
+|15 44 | __after work yoga with Rachel__                    | https://vimeo.com/91051304 |
+|15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
 
 15 52 seated hand and wrist stretches with David         https://vimeo.com/182120878
 
