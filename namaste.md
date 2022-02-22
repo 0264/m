@@ -3,28 +3,17 @@
 | 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
 | 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
 | 1 44 | extended child pose with David                     | https://vimeo.com/13130756 |
-
- 2 11 seated hip stretch with David _ _ _ _ _ _ _ _ _ _ _ https://vimeo.com/13127937
-
- 2 27 one leg folded forward bend with David _ pillow _ _ https://vimeo.com/13153816
-
- 2 32 eagle pose with David                               https://vimeo.com/13130251
-
- 2 45 head beyond knee pose with David                    https://vimeo.com/13133590
-
- 2 52 inverted v pose with David                          https://vimeo.com/13129482
-
- 3 03 Marichi pose, seated with David                     https://vimeo.com/13154895
-
- 5 07 leg stretches, resting on back with David |strap|   https://vimeo.com/13164788
-
- 7 47 sun salute with Crista                             https://vimeo.com/199919691
-
- 9 39 seated neck and shoulder stretches with David       https://vimeo.com/14470372
-
- 9 50 slow flow, meditate; David and Satiya |pillow|     https://vimeo.com/184603406
-
-10 46 create heat and focus on arm muscle! with Fiji     https://vimeo.com/240932617
+| 2 11 | seated hip stretch with David                      | https://vimeo.com/13127937 |
+| 2 27 | one leg folded forward bend with David - pillow    | https://vimeo.com/13153816 |
+| 2 32 | eagle pose with David                              | https://vimeo.com/13130251 |
+| 2 45 | head beyond knee pose with David                   | https://vimeo.com/13133590 |
+| 2 52 | inverted v pose with David                         | https://vimeo.com/13129482 |
+| 3 03 | Marichi pose, seated with David                    | https://vimeo.com/13154895 |
+| 5 07 | leg stretches, resting on back with David - strap  | https://vimeo.com/13164788 |
+| 7 47 | sun salute with Crista                             | https://vimeo.com/199919691|
+| 9 39 | seated neck and shoulder stretches with David      | https://vimeo.com/14470372 |
+| 9 50 | slow flow, meditate; David and Satiya - pillow     | https://vimeo.com/184603406|
+|10 46 | create heat and focus on arm muscle! with Fiji     | https://vimeo.com/240932617|
 
 11 13 hands, wrists, arms with Erica                      https://vimeo.com/58200655
 
