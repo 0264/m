@@ -34,16 +34,11 @@
 |19 17 | arm balance power flow with Fiji - pillow          | https://vimeo.com/130555671|
 |19 19 | __SEATED LEG AND LOW BACK STRETCH ... David__      | https://vimeo.com/182615304|
 |19 46 | __VINYASA FOR VITALITY ... FIJI__                  | https://vimeo.com/140254357|
-
-19 51 after work yoga with Rachel                        https://vimeo.com/121058388
-
-19 52 sun salutations with Melissa                       https://vimeo.com/109174450
-
-19 59 morning yoga flow with Rachel                      https://vimeo.com/136258366
-
-20 01 morning wake up and flow with Fiji <<<<<<<<<<<<<<< https://vimeo.com/198281418
-
-20 01 hatha yoga with Sarah Jane                         https://vimeo.com/174611606
+|19 51 | after work yoga with Rachel                        | https://vimeo.com/121058388|
+|19 52 | sun salutations with Melissa                       | https://vimeo.com/109174450|
+|19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
+|20 01 | __MORNING WAKE UP AND FLOW ... FIJI__              | https://vimeo.com/198281418|
+|20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
 
 20 02 slow flow ashtanga yoga sequence with Jeff         https://vimeo.com/250350874
 
