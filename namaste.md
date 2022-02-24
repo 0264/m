@@ -39,28 +39,17 @@
 |19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
 |20 01 | __MORNING WAKE UP AND FLOW ... FIJI__              | https://vimeo.com/198281418|
 |20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
-
-20 02 slow flow ashtanga yoga sequence with Jeff         https://vimeo.com/250350874
-
-20 35 hands arms shoulder stretch with David <<<<<<<<<<< https://vimeo.com/182477550
-
-20 38 yoga for runner post-run with Fiji <<<<<<<<<<<<<<<< https://vimeo.com/26623677
-
-20 56 move and stretch with David |strap|                 https://vimeo.com/14054968
-
-21 34 slow flow and balance poses with Melissa            https://vimeo.com/36525606
-
-21 38 deep stretches with Fiji                           https://vimeo.com/138860167
-
-21 50 happy hamstrings with Fiji <<<<<<<<<<<<<<<<<<<<<<<< https://vimeo.com/71550868
-
-21 52 low back and leg with David |strap bolster 8m 30s| https://vimeo.com/138163409
-
-22 08 yoga for runners pre-run with Fiji                  https://vimeo.com/26634653
-
-22 45 shoulder and arm strength with Melissa |pillow| <<< https://vimeo.com/36428350
-
-22 46 morning wake up flow not slow with Sarah Jane <<<< https://vimeo.com/199863587
+|20 02 | slow flow ashtanga yoga sequence with Jeff         | https://vimeo.com/250350874|
+|20 35 | __HANDS ARMS SHOULDER STRETCH ... David__          | https://vimeo.com/182477550|
+|20 38 | __YOGA FOR RUNNER POST-RUN ... FIJI__              | https://vimeo.com/26623677 |
+|20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
+|21 34 | slow flow and balance poses with Melissa           | https://vimeo.com/36525606 |
+|21 38 | deep stretches with Fiji                           | https://vimeo.com/138860167|
+|21 50 | __STRETCH HAMSTRINGS ... FIJI__                    | https://vimeo.com/71550868 |
+|21 52 | low back and leg with David - strap bolster 8m 30s | https://vimeo.com/138163409|
+|22 08 | __YOGA FOR RUNNERS PRE-RUN ... FIJI__              | https://vimeo.com/26634653 |
+|22 45 | __SHOULDER AND ARM STRENGTH ... Melissa__ - pillow | https://vimeo.com/36428350 |
+|22 46 | __MORNING WAKE UP FLOW NOT SLOW ... Sarah Jane__   | https://vimeo.com/199863587|
 
 22 48 slow sun salutations with David                    https://vimeo.com/217843142
 
