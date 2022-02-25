@@ -47,25 +47,17 @@
 |21 38 | deep stretches with Fiji                           | https://vimeo.com/138860167|
 |21 50 | __STRETCH HAMSTRINGS ... FIJI__                    | https://vimeo.com/71550868 |
 |21 52 | low back and leg with David - strap bolster 8m 30s | https://vimeo.com/138163409|
-|22 08 | __YOGA FOR RUNNERS PRE-RUN ... FIJI__              | https://vimeo.com/26634653 |
+|22 08 | __YOGA FOR RUNNER PRE-RUN ... FIJI__               | https://vimeo.com/26634653 |
 |22 45 | __SHOULDER AND ARM STRENGTH ... Melissa__ - pillow | https://vimeo.com/36428350 |
 |22 46 | __MORNING WAKE UP FLOW NOT SLOW ... Sarah Jane__   | https://vimeo.com/199863587|
-
-22 48 slow sun salutations with David                    https://vimeo.com/217843142
-
-23 01 create heat and stronger arms with Fiji <<<<<<<<<< https://vimeo.com/134311766
-
-23 33 slow flow standing mountain pose with Satiya       https://vimeo.com/250339948
-
-23 37 morning wake and move with Ron <<<<<<<<<<<<<<<<<<< https://vimeo.com/196930083
-
-23 41 neck shoulder wrists with David |strap|             https://vimeo.com/17230341
-
-23 47 strong core and arm balance with Fiji |block|      https://vimeo.com/221339254
-
-23 49 sweet stretches for runners with Fiji <<<<<<<<<<<<< https://vimeo.com/27568754
-
-24 22 rhythm + routine with Fiji https://doyogawithme.com/content/rhythm-and-routine
+|22 48 | slow sun salutations with David                    | https://vimeo.com/217843142|
+|23 01 | __CREATE HEAT AND STRONGER ARMS ... FIJI__         | https://vimeo.com/134311766|
+|23 33 | slow flow standing mountain pose with Satiya       | https://vimeo.com/250339948|
+|23 37 | __MORNING WAKE AND MOVE ... Ron__                  | https://vimeo.com/196930083|
+|23 41 | neck shoulder wrists with David  - strap           | https://vimeo.com/17230341 |
+|23 47 | strong core and arm balance with Fiji - block      | https://vimeo.com/221339254|
+|23 49 | __SWEET STRETCHES FOR RUNNER ... FIJI__            | https://vimeo.com/27568754 |
+|24 22 | |[rhythm + routine... FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
 
 24 38 slow flow and long holds with Sarah Jane Steele    https://vimeo.com/184207366
 
