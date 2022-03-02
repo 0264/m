@@ -57,13 +57,10 @@
 |23 41 | neck shoulder wrists with David  - strap           | https://vimeo.com/17230341 |
 |23 47 | strong core and arm balance with Fiji - block      | https://vimeo.com/221339254|
 |23 49 | __SWEET STRETCHES FOR RUNNER ... FIJI__            | https://vimeo.com/27568754 |
-|24 22 | |[rhythm + routine... FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
-
-24 38 slow flow and long holds with Sarah Jane Steele    https://vimeo.com/184207366
-
-24 42 slow flow and prepare for sleep with Sarah Holmes  https://vimeo.com/279348199
-
-                            https://www.doyogawithme.com/content/reclining-flow-rest
+|24 22 | |[rhythm + routine .. FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
+|24 38 | slow flow and long holds with Sarah Jane Steele    | https://vimeo.com/184207366|
+|24 42 | slow flow and prepare for sleep with Sarah Holmes  | https://vimeo.com/279348199|
+|24 42 | | [slow flow Sarah Holmes](https://doyogawithme.com/content/reclining-flow-rest)|
 
 25 13 flow to side crow with Rachel                      https://vimeo.com/137794750
 
@@ -290,6 +287,8 @@
 
                                          https://www.youtube.com/watch?v=qtt-nJacnw8
 
+https://www.doyogawithme.com/content/full-body-hatha-flow
+
 50 06 chakra flow with Fiji                              https://vimeo.com/240925813
 
 50 08 back bend from base with Fiji                       https://vimeo.com/72549569
@@ -299,6 +298,8 @@
 50 19 renew and restore with Fiji                        https://vimeo.com/160964458
 
 50 34 hatha yoga for self care with Melissa              https://vimeo.com/133761050
+
+https://www.doyogawithme.com/content/hatha-yoga-self-care-2
 
 50 35 chakra flow with Fiji                              https://vimeo.com/240918508
 
@@ -313,6 +314,8 @@
 53 43 flow with Rachel                                   https://vimeo.com/227587869
 
 54 50 stronger core and stretches with Melissa            https://vimeo.com/75230104
+
+https://www.doyogawithme.com/content/core-strength-and-stretch
 
 54 52 ocean yoga to restore with Melissa                  https://vimeo.com/37443329
 
