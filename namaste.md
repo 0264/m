@@ -47,42 +47,79 @@
 |15 44 | __AFTER WORK YOGA with Rachel__                    | https://vimeo.com/91051304 |
 |      |                                                    |                            |
 |15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
+|      |                                                    |                            |
 |15 52 | seated hand and wrist stretches with David         | https://vimeo.com/182120878|
+|      |                                                    |                            |
 |16 08 | seated neck stretches with David                   | https://vimeo.com/111533613|
+|      |                                                    |                            |
 |16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
-|17 39 | __SUN RISE SLOW FLOW ... Melissa__                 | https://vimeo.com/200081746|
+|      |                                                    |                            |
+|17 39 | __SUN RISE SLOW FLOW with Melissa__                | https://vimeo.com/200081746|
+|      |                                                    |                            |
 |17 56 | standing flow and twist with David                 | https://vimeo.com/111564293|
+|      |                                                    |                            |
 |18 42 | morning slow flow with Satiya                      | https://vimeo.com/188230830|
+|      |                                                    |                            |
 |19 13 |      | [slow flow with Josh](https://doyogawithme.com/content/evening-wind-down)|
-|19 17 | arm balance power flow with Fiji - pillow          | https://vimeo.com/130555671|
-|19 19 | __SEATED LEG AND LOW BACK STRETCH ... David__      | https://vimeo.com/182615304|
-|19 46 | __VINYASA FOR VITALITY ... FIJI__                  | https://vimeo.com/140254357|
+|      |                                                    |                            |
+|19 17 | arm balance power flow with FIJI - pillow          | https://vimeo.com/130555671|
+|      |                                                    |                            |
+|19 19 | __SEATED LEG AND LOW BACK STRETCH with David__     | https://vimeo.com/182615304|
+|      |                                                    |                            |
+|19 46 | __VINYASA FOR VITALITY with FIJI__                 | https://vimeo.com/140254357|
+|      |                                                    |                            |
 |19 51 | after work yoga with Rachel                        | https://vimeo.com/121058388|
+|      |                                                    |                            |
 |19 52 | sun salutations with Melissa                       | https://vimeo.com/109174450|
+|      |                                                    |                            |
 |19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
-|20 01 | __MORNING WAKE UP AND FLOW ... FIJI__              | https://vimeo.com/198281418|
+|      |                                                    |                            |
+|20 01 | __MORNING WAKE UP AND FLOW with FIJI__             | https://vimeo.com/198281418|
+|      |                                                    |                            |
 |20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
+|      |                                                    |                            |
 |20 02 | slow flow ashtanga yoga sequence with Jeff         | https://vimeo.com/250350874|
-|20 35 | __HANDS ARMS SHOULDER STRETCH ... David__          | https://vimeo.com/182477550|
-|20 38 | __YOGA FOR RUNNER POST-RUN ... FIJI__              | https://vimeo.com/26623677 |
+|      |                                                    |                            |
+|20 35 | __HANDS ARMS SHOULDER STRETCH with David__         | https://vimeo.com/182477550|
+|      |                                                    |                            |
+|20 38 | __YOGA FOR RUNNER POST-RUN with FIJI__             | https://vimeo.com/26623677 |
+|      |                                                    |                            |
 |20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
+|      |                                                    |                            |
 |21 34 | slow flow and balance poses with Melissa           | https://vimeo.com/36525606 |
-|21 38 | deep stretches with Fiji                           | https://vimeo.com/138860167|
-|21 50 | __STRETCH HAMSTRINGS ... FIJI__                    | https://vimeo.com/71550868 |
+|      |                                                    |                            |
+|21 38 | deep stretches with FIJI                           | https://vimeo.com/138860167|
+|      |                                                    |                            |
+|21 50 | __STRETCH HAMSTRINGS with FIJI__                   | https://vimeo.com/71550868 |
+|      |                                                    |                            |
 |21 52 | low back and leg with David - strap bolster 8m 30s | https://vimeo.com/138163409|
-|22 08 | __YOGA FOR RUNNER PRE-RUN ... FIJI__               | https://vimeo.com/26634653 |
-|22 45 | __SHOULDER AND ARM STRENGTH ... Melissa__ - pillow | https://vimeo.com/36428350 |
-|22 46 | __MORNING WAKE UP FLOW NOT SLOW ... Sarah Jane__   | https://vimeo.com/199863587|
+|      |                                                    |                            |
+|22 08 | __YOGA FOR RUNNER PRE-RUN with FIJI__              | https://vimeo.com/26634653 |
+|      |                                                    |                            |
+|22 45 | __SHOULDER AND ARM STRENGTH with Melissa__ - pillow| https://vimeo.com/36428350 |
+|      |                                                    |                            |
+|22 46 | __MORNING WAKE UP FLOW NOT SLOW with Sarah Jane__  | https://vimeo.com/199863587|
+|      |                                                    |                            |
 |22 48 | slow sun salutations with David                    | https://vimeo.com/217843142|
-|23 01 | __CREATE HEAT AND STRONGER ARMS ... FIJI__         | https://vimeo.com/134311766|
+|      |                                                    |                            |
+|23 01 | __CREATE HEAT AND STRONGER ARMS with FIJI__        | https://vimeo.com/134311766|
+|      |                                                    |                            |
 |23 33 | slow flow standing mountain pose with Satiya       | https://vimeo.com/250339948|
-|23 37 | __MORNING WAKE AND MOVE ... Ron__                  | https://vimeo.com/196930083|
+|      |                                                    |                            |
+|23 37 | __MORNING WAKE AND MOVE with Ron__                 | https://vimeo.com/196930083|
+|      |                                                    |                            |
 |23 41 | neck shoulder wrists with David  - strap           | https://vimeo.com/17230341 |
-|23 47 | strong core and arm balance with Fiji - block      | https://vimeo.com/221339254|
-|23 49 | __SWEET STRETCHES FOR RUNNER ... FIJI__            | https://vimeo.com/27568754 |
+|      |                                                    |                            |
+|23 47 | strong core and arm balance with FIJI - block      | https://vimeo.com/221339254|
+|      |                                                    |                            |
+|23 49 | __SWEET STRETCHES FOR RUNNER with FIJI__           | https://vimeo.com/27568754 |
+|      |                                                    |                            |
 |24 22 | |[rhythm + routine .. FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
+|      |                                                    |                            |
 |24 38 | slow flow and long holds with Sarah Jane Steele    | https://vimeo.com/184207366|
+|      |                                                    |                            |
 |24 42 | slow flow and prepare for sleep with Sarah Holmes  | https://vimeo.com/279348199|
+|      |                                                    |                            |
 |24 42 | | [slow flow Sarah Holmes](https://doyogawithme.com/content/reclining-flow-rest)|
 
 25 13 flow to side crow with Rachel                      https://vimeo.com/137794750
