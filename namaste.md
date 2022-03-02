@@ -3,27 +3,49 @@
 | 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
 |      |                                                    |                            |
 | 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
+|      |                                                    |                            |
 | 1 44 | extended child pose with David                     | https://vimeo.com/13130756 |
+|      |                                                    |                            |
 | 2 11 | seated hip stretch with David                      | https://vimeo.com/13127937 |
+|      |                                                    |                            |
 | 2 27 | one leg folded forward bend with David - pillow    | https://vimeo.com/13153816 |
+|      |                                                    |                            |
 | 2 32 | eagle pose with David                              | https://vimeo.com/13130251 |
+|      |                                                    |                            |
 | 2 45 | head beyond knee pose with David                   | https://vimeo.com/13133590 |
+|      |                                                    |                            |
 | 2 52 | inverted v pose with David                         | https://vimeo.com/13129482 |
+|      |                                                    |                            |
 | 3 03 | Marichi pose, seated with David                    | https://vimeo.com/13154895 |
+|      |                                                    |                            |
 | 5 07 | leg stretches, resting on back with David - strap  | https://vimeo.com/13164788 |
+|      |                                                    |                            |
 | 7 47 | sun salute with Crista                             | https://vimeo.com/199919691|
+|      |                                                    |                            |
 | 9 39 | seated neck and shoulder stretches with David      | https://vimeo.com/14470372 |
+|      |                                                    |                            |
 | 9 50 | slow flow, meditate; David and Satiya - pillow     | https://vimeo.com/184603406|
-|10 46 | create heat and focus on arm muscle! with Fiji     | https://vimeo.com/240932617|
+|      |                                                    |                            |
+|10 46 | create heat and focus on arm muscle! with FIJI     | https://vimeo.com/240932617|
+|      |                                                    |                            |
 |11 13 | hands, wrists, arms with Erica                     | https://vimeo.com/58200655 |
+|      |                                                    |                            |
 |11 41 | shoulder and upper back with Erica                 | https://vimeo.com/58200656 |
+|      |                                                    |                            |
 |12 53 | stretch neck and shoulder with David - strap       | https://vimeo.com/14057532 |
+|      |                                                    |                            |
 |13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
+|      |                                                    |                            |
 |14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
+|      |                                                    |                            |
 |15 06 | focus on core and low back with Rachel             | https://vimeo.com/155082780|
+|      |                                                    |                            |
 |15 22 |  | [office yoga with David](https://www.doyogawithme.com/content/office-yoga-ii)|
+|      |                                                    |                            |
 |15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
-|15 44 | __AFTER WORK YOGA ... Rachel__                     | https://vimeo.com/91051304 |
+|      |                                                    |                            |
+|15 44 | __AFTER WORK YOGA with Rachel__                    | https://vimeo.com/91051304 |
+|      |                                                    |                            |
 |15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
 |15 52 | seated hand and wrist stretches with David         | https://vimeo.com/182120878|
 |16 08 | seated neck stretches with David                   | https://vimeo.com/111533613|
