@@ -44,7 +44,7 @@
 |      |                                                    |                            |
 |15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
 |      |                                                    |                            |
-|15 44 | :zap: after work yoga with Rachel                  | https://vimeo.com/91051304 |
+|15 44 | :zap: after work yoga with Rachel &#9660;          | https://vimeo.com/91051304 |
 |      |                                                    |                            |
 |15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
 |      |                                                    |                            |
