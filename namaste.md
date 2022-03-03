@@ -44,7 +44,7 @@
 |      |                                                    |                            |
 |15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
 |      |                                                    |                            |
-|15 44 | `after work yoga with Rachel`                      | https://vimeo.com/91051304 |
+|15 44 | :zap: after work yoga with Rachel                  | https://vimeo.com/91051304 |
 |      |                                                    |                            |
 |15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
 |      |                                                    |                            |
@@ -127,14 +127,14 @@
 |25 15 | create heat and flow with Tracey                   | https://vimeo.com/174732366|
 |      |                                                    |                            |
 |26 32 | stretch IT band with David - strap wall block      | https://vimeo.com/14698987 |
-
-26 37 inspire the fire, stronger arms! with Fiji         https://vimeo.com/206652147
-
-26 47 slow flow for lower back with David |strap|        https://vimeo.com/196231487
-
-26 48 slow yoga for sleep with Sarah Jane                https://vimeo.com/250332010
-
-26 59 hips hamstring spine with David <<<<<<<<<<<<<<<<<<< https://vimeo.com/13236790
+|      |                                                    |                            |
+|26 37 | inspire the fire, stronger arms! with FIJI         | https://vimeo.com/206652147|
+|      |                                                    |                            |
+|26 47 | slow flow for lower back with David - strap        | https://vimeo.com/196231487|
+|      |                                                    |                            |
+|26 48 | slow yoga for sleep with Sarah Jane                | https://vimeo.com/250332010|
+|      |                                                    |                            |
+|26 59 | :zap: hips hamstring spine with David              | https://vimeo.com/13236790 |
 
 27 01 chair yoga with David                               https://vimeo.com/82303464
 
