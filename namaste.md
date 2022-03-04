@@ -152,16 +152,16 @@
 |      |                                                    |                            |
 |28 36 |                   | [yoga with FIJI](https://www.doyogawithme.com/yummy-30-yoga)|
 |      |                                                    |                            |
-
-28 36 yoga with Fiji                     https://www.youtube.com/watch?v=e-OWPACIMPM
-
-28 56 slow seated postures with David |pillows|          https://vimeo.com/217112618
-
-29 10 yoga for lower back with David                     https://vimeo.com/263227385
-
-29 27 seated slow flow for self care with Melissa        https://vimeo.com/133616675
-
-30 03 yoga challenge with Fiji           https://www.youtube.com/watch?v=0RPXFmA-Tv8
+|28 36 |                  | [yoga with FIJI](https://www.youtube.com/watch?v=e-OWPACIMPM)|
+|      |                                                    |                            |
+|28 56 | slow seated postures with David - pillows          | https://vimeo.com/217112618|
+|      |                                                    |                            |
+|29 10 | yoga for lower back with David                     | https://vimeo.com/263227385|
+|      |                                                    |                            |
+|29 27 | seated slow flow for self care with Melissa        | https://vimeo.com/133616675|
+|      |                                                    |                            |
+|30 03 |        | [yoga challenge with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
+|      |                                                    |                            |
 
 30 22 slow flow for the spine with Sarah Jane            https://vimeo.com/222297348
 
