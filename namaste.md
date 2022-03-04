@@ -1,6 +1,6 @@
-|      |                                                              |                            |
-| ---- | ------------------------------------------------------------ | -------------------------- |
-| 1 20 | toe hold seated with David                                   | https://vimeo.com/13128664 |
+|      |                                                    |                            |
+| ---- | -------------------------------------------------- | -------------------------- |
+| 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
 |      |                                                    |                            |
 | 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
 |      |                                                    |                            |
@@ -135,22 +135,23 @@
 |26 48 | slow yoga for sleep with Sarah Jane                | https://vimeo.com/250332010|
 |      |                                                    |                            |
 |26 59 | :zap: hips hamstring spine with David              | https://vimeo.com/13236790 |
-
-27 01 chair yoga with David                               https://vimeo.com/82303464
-
-27 08 Gratitude with Tracey    https://doyogawithme.com/content/gateway-to-gratitude
-
-27 12 move, open up, stretch with Rachel <<<<<<<<<<<<<<< https://vimeo.com/240331891
-
-27 15 stronger arms! with Anastasia |strap|              https://vimeo.com/174776714
-
-27 33 slow yoga with Sarah Jane                          https://vimeo.com/222280936
-
-27 52 seated slow move and stretch with Satiya           https://vimeo.com/273991189
-
-28 27 seated stretch hip leg spine with Satiya |pillow|  https://vimeo.com/159752410
-
-28 36 yoga with Fiji                      https://www.doyogawithme.com/yummy-30-yoga
+|      |                                                    |                            |
+|27 01 | chair yoga with David                              | https://vimeo.com/82303464 |
+|      |                                                    |                            |
+|27 08 | | [Gratitude with Tracey](https://doyogawithme.com/content/gateway-to-gratitude)|
+|      |                                                    |                            |
+|27 12 | :zap: move, open up, stretch with Rachel           | https://vimeo.com/240331891|
+|      |                                                    |                            |
+|27 15 | stronger arms! with Anastasia - strap              | https://vimeo.com/174776714|
+|      |                                                    |                            |
+|27 33 | slow yoga with Sarah Jane                          | https://vimeo.com/222280936|
+|      |                                                    |                            |
+|27 52 | seated slow move and stretch with Satiya           | https://vimeo.com/273991189|
+|      |                                                    |                            |
+|28 27 | seated stretch hip leg spine with Satiya - pillow  | https://vimeo.com/159752410|
+|      |                                                    |                            |
+|28 36 |                   | [yoga with FIJI](https://www.doyogawithme.com/yummy-30-yoga)|
+|      |                                                    |                            |
 
 28 36 yoga with Fiji                     https://www.youtube.com/watch?v=e-OWPACIMPM
 
