@@ -44,6 +44,21 @@ pad thai. rice noodles in water for 30 minutes. cook rice noodles in boiling wat
 brown rice
 tofu and broccoli with rice, Kay Chun recipe in NYT
 
+penne pasta with lemon infused vegetables
+whole grain penne rigate, 16 ounces
+olive oil, 6 tbs
+garlic, one clove minimum
+lemon zest, tbs
+red pepper flakes, tsp
+shiitake mushrooms, 16 ounces, quartered
+broccoli florets, 16 ounces
+sweet red pepper, diced
+fennel bulb, cut in strips
+flat leaf parsely, quarter cup, coarsely chopped
+ricotta salata cheese or feta cheese, 16 ounces
+
+broccoli and fennel in boiling salted water, 4 minutes, reserve water, cook penne in boiling salted water until near tender, drain and reserve water, while penne cooks, heat large skillet and add olive oil, saute garlic, lemon zest and red pepper flakes for a few minutes, do not brown garlic, add sweet red pepper and shiitakes, continue cooking until mushrooms are tender, add cooked broccoli and season to taste, if penne too dry, add reserved cooking water, portion in bowls, add grated or crumbled cheese
+
 oat nut pancakes. flour, oats, salt, baking powder, cinnamon, nutmeg, walnuts, pecans, milk, veg oil, maple syrup; in bowl one, 8 oz flour, 4 oz quick oats or oat flour, ts salt, two ts bake powder, ts cinnamon, ts nutmeg. add 4 oz crushed walnuts or pecans, broken in small pieces. mix. in bowl two, 300 mL cow/soy milk, tbs veg oil, tbs maple syrup or sugar, eggs. whisk. make well in dry ingredients and add combined wet ingredients. stir until combined. recipe adapted from Moosewood Restaurant New Classics
 
 pancakes. 8 oz flour, ts bake soda, ts salt, two tb sugar. four eggs, 8 oz cottage cheese, 100 mL milk, two tbs veg oil. combine dry and wet. cook on low heat.
@@ -97,6 +112,8 @@ https://cookieandkate.com/honey-whole-wheat-banana-bread/
 chocolate zucchini bread
 dark chocolate recipes
 
+book "VB6" vegan vegetarian Bittman - https://vegan.org - V vegan label symbol
+
 zucchini bread. vegan maple pecan zucchini bread
 https://www.gratefulgrazing.com/grateful-grazing/maple-pecan-zucchini-bread-vegan
 
@@ -115,6 +132,8 @@ https://twitter.com/nedsegal/status/1021894653656723456
 chocolate chip cookie recipe
 
 chocolate chip pancakes
+
+chewy earl grey sugar cookies nytimes.com
 
 pumpkin pie
 12 oz evaporated milk or half and half or heavy cream or substitute with 16 oz milk reduced in low boil
@@ -172,6 +191,9 @@ baked barley risotto with mushrooms and carrots
 https://cooking.nytimes.com/recipes/1020031-baked-barley-risotto-with-mushrooms-and-carrots
 
 https://lideylikes.com/farro-risotto-with-squash-and-sage-gremolata
+
+https://en.wikipedia.org/wiki/Cucurbita_moschata
+butternut squash
 
 https://www.splendidtable.org/story/2016/12/28/marinated-portobello-mushroom-sandwich
 "The Gourmet Kitchen: Recipes from the Creator of Savory Simple", Jennifer Farley
