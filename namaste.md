@@ -180,30 +180,26 @@
 |      |                                                    |                            |
 |33 13 | :zap: slow flow with Ron - pillow, strap           | https://vimeo.com/147066588|
 |      |                                                    |                            |
-
-33 17 establish stronger core with David                 https://vimeo.com/189874340
-
-33 20 half hour class for shoulders with David            https://vimeo.com/17624804
-
-33 27 yoga with Fiji                                     https://vimeo.com/106440999
-
-33 41 slow flow, grounded and rooted with Fiji           https://vimeo.com/202971704
-
-33 50 slow power flow with Guy...
-
-                           https://www.doyogawithme.com/content/slow-power-free-flow
-
-34 09 yoga for shoulders with Sarah Jane                 https://vimeo.com/156725592
-
-34 34 slow evening yoga for the spine with Tianne...
-
-                           https://www.doyogawithme.com/content/strong-healthy-spine
-
-34 38 slow stretches, extended shavasana with David      https://vimeo.com/155916286
-
-34 46 rise and shine, high energy with Fiji |block| <<<<< https://vimeo.com/98560546
-
-34 50 slow flow bend stretch with Melissa |block| <<<<<<< https://vimeo.com/40336788
+|33 17 | establish stronger core with David                 | https://vimeo.com/189874340|
+|      |                                                    |                            |
+|33 20 | half hour class for shoulders with David           | https://vimeo.com/17624804 |
+|      |                                                    |                            |
+|33 27 | yoga with FIJI                                     | https://vimeo.com/106440999|
+|      |                                                    |                            |
+|33 41 | slow flow, grounded and rooted with FIJI           | https://vimeo.com/202971704|
+|      |                                                    |                            |
+|33 50 | |[slow flow with Guy](https://www.doyogawithme.com/content/slow-power-free-flow)|
+|      |                                                    |                            |
+|34 09 | yoga for shoulders with Sarah Jane                 | https://vimeo.com/156725592|
+|      |                                                    |                            |
+|34 34 | | [spine with Tianne](https://www.doyogawithme.com/content/strong-healthy-spine)|
+|      |                                                    |                            |
+|34 38 | slow stretches, extended shavasana with David      | https://vimeo.com/155916286|
+|      |                                                    |                            |
+|34 46 | :zap: rise and shine, high energy with FIJI - block| https://vimeo.com/98560546 |
+|      |                                                    |                            |
+|34 50 | :zap: slow flow bend stretch with Melissa - block  | https://vimeo.com/40336788 |
+|      |                                                    |                            |
 
 35 28 shift perspective with Tracey                      https://vimeo.com/129902941
 
