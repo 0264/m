@@ -160,26 +160,26 @@
 |      |                                                    |                            |
 |29 27 | seated slow flow for self care with Melissa        | https://vimeo.com/133616675|
 |      |                                                    |                            |
-|30 03 |        | [yoga challenge with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
+|30 03 |   | [slow standing poses with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
 |      |                                                    |                            |
-
-30 22 slow flow for the spine with Sarah Jane            https://vimeo.com/222297348
-
-30 39 strengthen and lengthen with Anastasia <<<<<<<<<<<< https://vimeo.com/99794823
-
-31 36 core and arms with Rachel    https://doyogawithme.com/content/30-minutes-power
-
-32 07 stretch lower back with David |strap|              https://vimeo.com/266925551
-
-32 29 inner dancer with Tracey |pillow|                  https://vimeo.com/128877500
-
-32 39 flow for stretch after run or bike with Tracey     https://vimeo.com/148039556
-
-32 53 twist and slow stretches with Melissa              https://vimeo.com/155688285
-
-33 03 Ashtanga yoga with Jeff                            https://vimeo.com/247237141
-
-33 13 slow flow with Ron |pillow strap| <<<<<<<<<<<<<<<< https://vimeo.com/147066588
+|30 22 | slow flow for the spine with Sarah Jane            | https://vimeo.com/222297348|
+|      |                                                    |                            |
+|30 39 | :zap: strengthen and lengthen with Anastasia       | https://vimeo.com/99794823 |
+|      |                                                    |                            |
+|31 36 | | [core and arms with Rachel](https://doyogawithme.com/content/30-minutes-power)|
+|      |                                                    |                            |
+|32 07 | stretch lower back with David - strap              | https://vimeo.com/266925551|
+|      |                                                    |                            |
+|32 29 | inner dancer with Tracey - pillow                  | https://vimeo.com/128877500|
+|      |                                                    |                            |
+|32 39 | flow for stretch after run or bike with Tracey     | https://vimeo.com/148039556|
+|      |                                                    |                            |
+|32 53 | twist and slow stretches with Melissa              | https://vimeo.com/155688285|
+|      |                                                    |                            |
+|33 03 | Ashtanga yoga with Jeff                            | https://vimeo.com/247237141|
+|      |                                                    |                            |
+|33 13 | :zap: slow flow with Ron - pillow, strap           | https://vimeo.com/147066588|
+|      |                                                    |                            |
 
 33 17 establish stronger core with David                 https://vimeo.com/189874340
 
