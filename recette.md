@@ -27,6 +27,12 @@ peanuts, soba noodles with peanut oil
 
 peanut and bean soup, page 70, BEAN BY BEAN
 
+San Francisco style Vietnamese American Garlic Noodles
+"The Wok - Recipes and Techniques", J. Kenji Lopez-Alt
+pasta noodles, garlic, butter, fish sauce, oyster sauce, soy sauce, Parmesan cheese, broccoli
+
+broccoli recipes in New York Times
+
 pizza. flour, oil, salt, yeast, sugar, water, tomato sauce, tomato paste, oregano, mozzarella cheese; heat oven to 425 F. heat 8 oz water to 110 F and put in bowl. when hot to touch and not too hot then add ts sugar and two ts yeast. mix and let sit until bloom. put yeast mix in large bowl with ts salt, two tbs oil, 20 oz flour, and mix. knead dough! put bowl on warm surface, for dough to rise, at least for five minutes, covered with towel. roll dough to desired size and shape, make crust edge, cover edge with oil. put milled corn on bake pan. bake five minutes. add tomato paste, 8 oz tomato sauce, mozzarella cheese, tb oregano. bake 20 minutes, 425 F.
 
 quiche. eggs, flour, bake powder, salt and black pepper, nutmeg, thyme, oil or melted butter, milk, broccoli, pie crust, cheddar cheese; melt tbs butter. steam and cut two cups broccoli. grate 4 oz cheddar cheese. crack four eggs and whisk. mix 4 oz flour, ts bake powder, ts salt. add melted butter, 400 mL milk, and cheese to egg bowl. mix wet and dry. add broccoli. add salt and black pepper. consider adding nutmeg or thyme. pour in pie crust. bake 45 to 60 minutes, 375 F.
@@ -291,4 +297,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-
+=================================
