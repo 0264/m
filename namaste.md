@@ -210,24 +210,24 @@
 |      |                                                    |                            |
 |35 49 | vinyasa to exhilarate with Tracey                  | https://vimeo.com/169304383|
 |      |                                                    |                            |
-
-36 08 slow stretch with David |strap pillow bolster wall| https://vimeo.com/25751154
-
-36 08 move and twist with Ron     https://www.doyogawithme.com/content/freedom-wings
-
-36 12 birds of a feather with Fiji <<<<<<<<<<<<<<<<<<<<< https://vimeo.com/198289713
-
-36 19 bed time slow flow with Melissa                    https://vimeo.com/111166166
-
-36 30 lower back with Sarah Jane |strap|                 https://vimeo.com/149038526
-
-36 57 computer user class with David                      https://vimeo.com/16580644
-
-37 05 yoga for upper back with David |6m strap pillow|   https://vimeo.com/101369379
-
-37 09 slow back bends with Anastasia                     https://vimeo.com/236855148
-
-37 37 yoga with Tracey https://www.doyogawithme.com/content/reset-recalibrate-revive
+|36 08 | slow stretch with David - strap, pillows, wall     | https://vimeo.com/25751154 |
+|      |                                                    |                            |
+|36 08 |  | [move and twist with Ron](https://www.doyogawithme.com/content/freedom-wings)|
+|      |                                                    |                            |
+|36 12 | :zap: birds of a feather with FIJI                 | https://vimeo.com/198289713|
+|      |                                                    |                            |
+|36 19 | bed time slow flow with Melissa                    | https://vimeo.com/111166166|
+|      |                                                    |                            |
+|36 30 | lower back with Sarah Jane - strap                 | https://vimeo.com/149038526|
+|      |                                                    |                            |
+|36 57 | computer user class with David                     | https://vimeo.com/16580644 |
+|      |                                                    |                            |
+|37 05 | yoga for upper back with David - 6m strap, pillow  | https://vimeo.com/101369379|
+|      |                                                    |                            |
+|37 09 | slow back bends with Anastasia                     | https://vimeo.com/236855148|
+|      |                                                    |                            |
+|37 37 |  | [yoga with Tracey](https://doyogawithme.com/content/reset-recalibrate-revive)|
+|      |                                                    |                            |
 
 37 51 yoga with Fiji                                     https://vimeo.com/260063345
 
