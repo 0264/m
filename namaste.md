@@ -228,18 +228,18 @@
 |      |                                                    |                            |
 |37 37 |  | [yoga with Tracey](https://doyogawithme.com/content/reset-recalibrate-revive)|
 |      |                                                    |                            |
-
-37 51 yoga with Fiji                                     https://vimeo.com/260063345
-
-38 04 yoga with David                                    https://vimeo.com/196934222
-
-                                         https://www.youtube.com/watch?v=8DejcnrAhRA
-
-38 06 sun rise yoga with Melissa                         https://vimeo.com/131027707
-
-38 25 flow for shoulders with Anastasia                  https://vimeo.com/105307839
-
-38 42 yoga with Fiji                                     https://vimeo.com/254746199
+|37 51 | yoga with FIJI                                     | https://vimeo.com/260063345|
+|      |                                                    |                            |
+|38 03 |                 | [yoga with David](https://www.youtube.com/watch?v=8DejcnrAhRA)|
+|      |                                                    |                            |
+|38 04 | yoga with David                                    | https://vimeo.com/196934222|
+|      |                                                    |                            |
+|38 06 | sun rise yoga with Melissa                         | https://vimeo.com/131027707|
+|      |                                                    |                            |
+|38 25 | flow for shoulders with Anastasia                  | https://vimeo.com/105307839|
+|      |                                                    |                            |
+|38 42 | yoga with FIJI                                     | https://vimeo.com/254746199|
+|      |                                                    |                            |
 
 38 43 yoga with Fiji                                     https://vimeo.com/228843338
 
