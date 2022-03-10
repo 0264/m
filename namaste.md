@@ -240,26 +240,26 @@
 |      |                                                    |                            |
 |38 42 | yoga with FIJI                                     | https://vimeo.com/254746199|
 |      |                                                    |                            |
-
-38 43 yoga with Fiji                                     https://vimeo.com/228843338
-
-38 43 power flow with Fiji                               https://vimeo.com/213958584
-
-38 57 focused on Prana life force with Fiji              https://vimeo.com/260074147
-
-39 08 yoga with Fiji                                     https://vimeo.com/191071769
-
-39 28 back bends with Fiji                                https://vimeo.com/35556162
-
-39 33 rise to power with Fiji                            https://vimeo.com/136775920
-
-39 38 balances and binds with Fiji                       https://vimeo.com/242299919
-
-39 39 flow with Fiji                                     https://vimeo.com/122182133
-
-40 07 expand your horizon with Tracey                    https://vimeo.com/139755648
-
-40 31 happy feet and balance with Rachel <<<<<<<<<<<<<<<< https://vimeo.com/82018631
+|38 43 | yoga with FIJI                                     | https://vimeo.com/228843338|
+|      |                                                    |                            |
+|38 43 | power flow with FIJI                               | https://vimeo.com/213958584|
+|      |                                                    |                            |
+|38 57 | focused on Prana life force with FIJI              | https://vimeo.com/260074147|
+|      |                                                    |                            |
+|39 08 | yoga with FIJI                                     | https://vimeo.com/191071769|
+|      |                                                    |                            |
+|39 28 | back bends with FIJI                               | https://vimeo.com/35556162 |
+|      |                                                    |                            |
+|39 33 | rise to power with FIJI                            | https://vimeo.com/136775920|
+|      |                                                    |                            |
+|39 38 | balances and binds with FIJI                       | https://vimeo.com/242299919|
+|      |                                                    |                            |
+|39 39 | flow with FIJI                                     | https://vimeo.com/122182133|
+|      |                                                    |                            |
+|40 07 | expand your horizon with Tracey                    | https://vimeo.com/139755648|
+|      |                                                    |                            |
+|40 31 | :zap: happy feet and balance with Rachel           | https://vimeo.com/82018631 |
+|      |                                                    |                            |
 
 40 34 yoga with Fiji                                     https://vimeo.com/266429171
 

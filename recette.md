@@ -1,5 +1,7 @@
 vegetable soup; small macaroni shells, green beans, tomato, carrots, chickpeas or garbanzo beans, red kidney beans, garlic and onions, celery, potato, black pepper
 
+chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800 mL crushed or diced tomato, 32 oz water, 16 oz chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
+
 link NYT recipes to recette
 
 red bean salad
