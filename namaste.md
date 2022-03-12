@@ -270,18 +270,18 @@
 |      |                                                    |                            |
 |42 00 | :zap: slow extended holds with Sarah Jane - pillow | https://vimeo.com/171049915|
 |      |                                                    |                            |
-
-42 03 bed time yoga with Sarah Jane                      https://vimeo.com/199225832
-
-42 05 stretch hip flexor with Rachel                     https://vimeo.com/237208952
-
-42 29 stronger core and back with Anastasia              https://vimeo.com/210001747
-
-42 31 inner strength with Melissa                        https://vimeo.com/165734087
-
-42 32 twist with Fiji |block| <<<<<<<<<<<<<<<<<<<<<<<<<< https://vimeo.com/243959409
-
-43 04 yoga with Tracey                                   https://vimeo.com/243950737
+|42 03 | bed time yoga with Sarah Jane                      | https://vimeo.com/199225832|
+|      |                                                    |                            |
+|42 05 | stretch hip flexor with Rachel                     | https://vimeo.com/237208952|
+|      |                                                    |                            |
+|42 29 | stronger core and back with Anastasia              | https://vimeo.com/210001747|
+|      |                                                    |                            |
+|42 31 | inner strength with Melissa                        | https://vimeo.com/165734087|
+|      |                                                    |                            |
+|42 32 | :zap: twist with FIJI - block                      | https://vimeo.com/243959409|
+|      |                                                    |                            |
+|43 04 | yoga with Tracey                                   | https://vimeo.com/243950737|
+|      |                                                    |                            |
 
 43 10 chakra flow with Fiji                              https://vimeo.com/125963141
 
