@@ -262,14 +262,14 @@
 |      |                                                    |                            |
 |40 34 | electromagnetic force and the spaces in us, FIJI   | https://vimeo.com/266429171|
 |      |                                                    |                            |
-
-40 45 slow flow with Guy   https://doyogawithme.com/content/slow-flow-creating-space
-
-41 36 Ashtanga yoga with Jeff                            https://vimeo.com/247214065
-
-41 50 yoga for sciatica with David                       https://vimeo.com/154271371
-
-42 00 slow extended holds with Sarah Jane |pillow| <<<<< https://vimeo.com/171049915
+|40 45 | |[slow flow with Guy](https://doyogawithme.com/content/slow-flow-creating-space)|
+|      |                                                    |                            |
+|41 36 | Ashtanga yoga with Jeff                            | https://vimeo.com/247214065|
+|      |                                                    |                            |
+|41 50 | yoga for sciatica with David                       | https://vimeo.com/154271371|
+|      |                                                    |                            |
+|42 00 | :zap: slow extended holds with Sarah Jane - pillow | https://vimeo.com/171049915|
+|      |                                                    |                            |
 
 42 03 bed time yoga with Sarah Jane                      https://vimeo.com/199225832
 
