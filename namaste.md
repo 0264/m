@@ -282,113 +282,114 @@
 |      |                                                    |                            |
 |43 04 | yoga with Tracey                                   | https://vimeo.com/243950737|
 |      |                                                    |                            |
-
-43 10 chakra flow with Fiji                              https://vimeo.com/125963141
-
-43 48 yoga for better posture with Melissa               https://vimeo.com/167068402
-
-43 56 yoga for lower back with Fiji                      https://vimeo.com/214083396
-
-44 07 power yoga basics with Fiji                        https://vimeo.com/141105606
-
-44 53 power yoga with Ron                                https://vimeo.com/147073037
-
-45 04 seated whole body flow with David                   https://vimeo.com/34727879
-
-              https://www.doyogawithme.com/content/seated-whole-body-hatha-yoga-flow
-
-45 25 yoga with Sarah Jane                               https://vimeo.com/253911525
-
-45 27 flow with Melissa                                  https://vimeo.com/225686131
-
-45 33 power yoga twists with Katie                        https://vimeo.com/20106223
-
-45 47 I am my own tree with Crista  https://www.doyogawithme.com/content/my-own-tree
-
-46 31 yoga for whole body with Erica                      https://vimeo.com/58568215
-
-46 31 power yoga to motivate with Tracey                 https://vimeo.com/169330603
-
-46 46 vinyasa to rest with David                          https://vimeo.com/19881324
-
-                                   https://www.doyogawithme.com/content/evening-flow
-                                         https://www.youtube.com/watch?v=P3ICiNpIaDc
-
-47 03 yoga pilates fusion with Kim                        https://vimeo.com/44436108
-
-47 14 flow yoga to energize with Melissa                 https://vimeo.com/157894548
-
-47 32 hip hamstring low back with David <<<<<<<<<<<<<<<<< https://vimeo.com/35122022
-
-48 09 stability and mobility with Fiji                   https://vimeo.com/221323437
-
-48 44 foundations in flow with Fiji                       https://vimeo.com/19376421
-
-48 52 boundaries with Rachel                              https://vimeo.com/96113037
-
-48 57 deepening relaxation with Satiya                   https://vimeo.com/178224077
-
-49 03 hatha yoga for grounding with Melissa              https://vimeo.com/196114916
-
-49 09 challenge your body with David                      https://vimeo.com/20654426
-
-49 18 snail pose with Satiya                             https://vimeo.com/227573806
-
-49 35 gratitude with Tracey                              https://vimeo.com/212645744
-
-49 37 yoga challenge with Fiji                           https://vimeo.com/144069974
-
-49 42 muscle memory in power yoga practice with Fiji     https://vimeo.com/208592528
-
-49 43 gravity and grace with Ron                          https://vimeo.com/95808363
-
-                                         https://www.youtube.com/watch?v=qtt-nJacnw8
-
-https://www.doyogawithme.com/content/full-body-hatha-flow
-
-50 06 chakra flow with Fiji                              https://vimeo.com/240925813
-
-50 08 back bend from base with Fiji                       https://vimeo.com/72549569
-
-50 14 twisty twists with Crista                          https://vimeo.com/199757462
-
-50 19 renew and restore with Fiji                        https://vimeo.com/160964458
-
-50 34 hatha yoga for self care with Melissa              https://vimeo.com/133761050
-
-https://www.doyogawithme.com/content/hatha-yoga-self-care-2
-
-50 35 chakra flow with Fiji                              https://vimeo.com/240918508
-
-52 02 bow pose with Rachel                               https://vimeo.com/228923026
-
-52 19 stretch and strength with David                    https://vimeo.com/239827620
-
-52 43 yoga for spine and extended holds with Sarah Jane  https://vimeo.com/165393112
-
-53 32 align stabilize stretch with David                 https://vimeo.com/189453446
-
-53 43 flow with Rachel                                   https://vimeo.com/227587869
-
-54 50 stronger core and stretches with Melissa            https://vimeo.com/75230104
-
-https://www.doyogawithme.com/content/core-strength-and-stretch
-
-54 52 ocean yoga to restore with Melissa                  https://vimeo.com/37443329
-
-55 01 slow yoga with Sarah Holmes                        https://vimeo.com/211762347
-
-55 37 flow in to feeling with Fiji       https://www.youtube.com/watch?v=YMlIpd1sfn8
-
-57 01 balance and twist with Anastasia                    https://vimeo.com/51238544
-
-57 25 hips and lower back with Sarah Jane                https://vimeo.com/253916520
-
-57 26 connect to core with Fiji                           https://vimeo.com/67765930
-
-58 12 yoga for cyclists with David <<<<<<<<<<<<<<<<<<<<< https://vimeo.com/190592588
-
-                                  https://www.doyogawithme.com/content/yoga-cyclists
+|43 10 | chakra flow with FIJI                              | https://vimeo.com/125963141|
+|      |                                                    |                            |
+|43 48 | yoga for better posture with Melissa               | https://vimeo.com/167068402|
+|      |                                                    |                            |
+|43 56 | yoga for lower back with FIJI                      | https://vimeo.com/214083396|
+|      |                                                    |                            |
+|44 07 | power yoga basics with FIJI                        | https://vimeo.com/141105606|
+|      |                                                    |                            |
+|44 22 |         | [evening flow with David](https://www.youtube.com/watch?v=P3ICiNpIaDc)|
+|      |                                                    |                            |
+|44 53 | power yoga with Ron                                | https://vimeo.com/147073037|
+|      |                                                    |                            |
+|45 04 | seated whole body flow with David                  | https://vimeo.com/34727879 |
+|      |                                                    |                            |
+|45 04 | |[seat flow](https://doyogawithme.com/content/seated-whole-body-hatha-yoga-flow)|
+|      |                                                    |                            |
+|45 25 | yoga with Sarah Jane                               | https://vimeo.com/253911525|
+|      |                                                    |                            |
+|45 27 | flow with Melissa                                  | https://vimeo.com/225686131|
+|      |                                                    |                            |
+|45 33 | power yoga twists with Katie                       | https://vimeo.com/20106223 |
+|      |                                                    |                            |
+|45 47 |  | [I am my own tree with Crista](https://doyogawithme.com/content/my-own-tree) |
+|      |                                                    |                            |
+|46 31 | yoga for whole body with Erica                     | https://vimeo.com/58568215 |
+|      |                                                    |                            |
+|46 31 | power yoga to motivate with Tracey                 | https://vimeo.com/169330603|
+|      |                                                    |                            |
+|46 46 | vinyasa to rest with David                         | https://vimeo.com/19881324 |
+|      |                                                    |                            |
+|46 46 |   | [vinyasa to rest with David](https://doyogawithme.com/content/evening-flow) |
+|      |                                                    |                            |
+|47 03 | yoga pilates fusion with Kim                       | https://vimeo.com/44436108 |
+|      |                                                    |                            |
+|47 14 | flow yoga to energize with Melissa                 | https://vimeo.com/157894548|
+|      |                                                    |                            |
+|47 32 | :zap: hip hamstring low back with David <<<<<<<<<< | https://vimeo.com/35122022 |
+|      |                                                    |                            |
+|48 09 | stability and mobility with FIJI                   | https://vimeo.com/221323437|
+|      |                                                    |                            |
+|48 44 | foundations in flow with FIJI                      | https://vimeo.com/19376421 |
+|      |                                                    |                            |
+|48 52 | boundaries with Rachel                             | https://vimeo.com/96113037 |
+|      |                                                    |                            |
+|48 57 | deepening relaxation with Satiya                   | https://vimeo.com/178224077|
+|      |                                                    |                            |
+|49 03 | hatha yoga for grounding with Melissa              | https://vimeo.com/196114916|
+|      |                                                    |                            |
+|49 09 | challenge your body with David                     | https://vimeo.com/20654426 |
+|      |                                                    |                            |
+|49 18 | snail pose with Satiya                             | https://vimeo.com/227573806|
+|      |                                                    |                            |
+|49 35 | gratitude with Tracey                              | https://vimeo.com/212645744|
+|      |                                                    |                            |
+|49 37 | yoga challenge with FIJI                           | https://vimeo.com/144069974|
+|      |                                                    |                            |
+|49 42 | muscle memory in power yoga practice with FIJI     | https://vimeo.com/208592528|
+|      |                                                    |                            |
+|49 43 | gravity and grace with Ron                         | https://vimeo.com/95808363 |
+|      |                                                    |                            |
+|49 43 |                | [yoga with David](https://www.youtube.com/watch?v=qtt-nJacnw8) |
+|      |                                                    |                            |
+|49 43 |  | [yoga with Anastasia](https://doyogawithme.com/content/full-body-hatha-flow) |
+|      |                                                    |                            |
+|50 06 | chakra flow with FIJI                              | https://vimeo.com/240925813|
+|      |                                                    |                            |
+|50 08 | back bend from base with FIJI                      | https://vimeo.com/72549569 |
+|      |                                                    |                            |
+|50 14 | twisty twists with Crista                          | https://vimeo.com/199757462|
+|      |                                                    |                            |
+|50 19 | renew and restore with FIJI                        | https://vimeo.com/160964458|
+|      |                                                    |                            |
+|50 34 | hatha yoga for self care with Melissa              | https://vimeo.com/133761050|
+|      |                                                    |                            |
+|50 34 |  | [yoga with Melissa](https://doyogawithme.com/content/hatha-yoga-self-care-2) |
+|      |                                                    |                            |
+|50 35 | chakra flow with FIJI                              | https://vimeo.com/240918508|
+|      |                                                    |                            |
+|52 02 | bow pose with Rachel                               | https://vimeo.com/228923026|
+|      |                                                    |                            |
+|52 19 | stretch and strength with David                    | https://vimeo.com/239827620|
+|      |                                                    |                            |
+|52 43 | yoga for spine and extended holds with Sarah Jane  | https://vimeo.com/165393112|
+|      |                                                    |                            |
+|53 32 | align stabilize stretch with David                 | https://vimeo.com/189453446|
+|      |                                                    |                            |
+|53 43 | flow with Rachel                                   | https://vimeo.com/227587869|
+|      |                                                    |                            |
+|54 50 | stronger core and stretches with Melissa           | https://vimeo.com/75230104 |
+|      |                                                    |                            |
+|54 50 |    | [with Melissa](https://doyogawithme.com/content/core-strength-and-stretch) |
+|      |                                                    |                            |
+|54 52 | ocean yoga to restore with Melissa                 | https://vimeo.com/37443329 |
+|      |                                                    |                            |
+|55 01 | slow yoga with Sarah Holmes                        | https://vimeo.com/211762347|
+|      |                                                    |                            |
+|55 37 |   | [flow in to feeling with FIJI](https://www.youtube.com/watch?v=YMlIpd1sfn8) |
+|      |                                                    |                            |
+|57 01 | balance and twist with Anastasia                   | https://vimeo.com/51238544 |
+|      |                                                    |                            |
+|57 25 | hips and lower back with Sarah Jane                | https://vimeo.com/253916520|
+|      |                                                    |                            |
+|57 26 | connect to core with FIJI                          | https://vimeo.com/67765930 |
+|      |                                                    |                            |
+|58 12 | :zap: yoga for cyclists with David <<<<<<<<<<<<<<< | https://vimeo.com/190592588|
+|      |                                                    |                            |
+|58 12 | | [yoga for cyclists with David](https://doyogawithme.com/content/yoga-cyclists)|
+|      |                                                    |                            |
 
 58 24 wheel pose with Fiji                               https://vimeo.com/192216565
 
