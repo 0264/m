@@ -390,22 +390,22 @@
 |      |                                                    |                            |
 |58 12 | | [yoga for cyclists with David](https://doyogawithme.com/content/yoga-cyclists)|
 |      |                                                    |                            |
-
-58 24 wheel pose with Fiji                               https://vimeo.com/192216565
-
-58 31 yoga for athletes with Michelle                     https://vimeo.com/27871447
-
-58 54 power flow and twist with Fiji                      https://vimeo.com/43705755
-
-59 11 power to paradise with Rachel                      https://vimeo.com/127402902
-
-59 47 yoga on feet with Satiya                           https://vimeo.com/184416312
-
-60 42 hips and hamstring with Sarah Jane                 https://vimeo.com/149435803
-
-60 42 slow yoga with Anastasia                            https://vimeo.com/20611323
-
-61 39 butterfly practice Crista  https://doyogawithme.com/content/butterfly-practice
+|58 24 | wheel pose with FIJI                               | https://vimeo.com/192216565|
+|      |                                                    |                            |
+|58 31 | yoga for athletes with Michelle                    | https://vimeo.com/27871447 |
+|      |                                                    |                            |
+|58 54 | power flow and twist with FIJI                     | https://vimeo.com/43705755 |
+|      |                                                    |                            |
+|59 11 | power to paradise with Rachel                      | https://vimeo.com/127402902|
+|      |                                                    |                            |
+|59 47 | yoga on feet with Satiya                           | https://vimeo.com/184416312|
+|      |                                                    |                            |
+|60 42 | hips and hamstring with Sarah Jane                 | https://vimeo.com/149435803|
+|      |                                                    |                            |
+|60 42 | slow yoga with Anastasia                           | https://vimeo.com/20611323 |
+|      |                                                    |                            |
+|61 39 | |[butterfly practice Crista](https://doyogawithme.com/content/butterfly-practice)|
+|      |                                                    |                            |
 
 61 41 yoga for athletes with Fiji                        https://vimeo.com/153376118
 
