@@ -3,6 +3,7 @@ vegetable soup; small macaroni shells, green beans, tomato, carrots, chickpeas o
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800 mL crushed or diced tomato, 32 oz water, 16 oz chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
 
 link NYT recipes to recette
+Harira soup recipe, NYT Cooking
 
 red bean salad
 
@@ -145,6 +146,8 @@ chocolate chip pancakes
 
 chewy earl grey sugar cookies nytimes.com
 
+https://cooking.nytimes.com/recipes/1022767-m-and-m-cookies
+
 pumpkin pie
 12 oz evaporated milk or half and half or heavy cream or substitute with 16 oz milk reduced in low boil
 mix in bowl: 16 oz pumpkin puree, 6 oz sugar, cinnamon powder, nutmeg powder, ginger, cloves, sea salt
@@ -183,6 +186,7 @@ whole wheat bread: wheat flour, barley flour, water, sunflower olio, honey, salt
 
 Helen pineapple cookie recipe?
 
+original plum torte
 https://cooking.nytimes.com/recipes/3783-original-plum-torte
 
 boil large pot of salted water, add 22 oz frozen tortellini from Whole Foods, stir/cook 5 minutes, drain and rinse in cool water, in jar add 2 oz olive oil, 3 tbs red wine vinegar, 2 garlic clove, tbs oregano, salt and pepper, cover with lid and shake, in large bowl mix tortellini with 4 oz pepperoncini pepper, 8 oz tomato, red onion slices, 32 oz spinach. add parsley leaves, basil leaves, and dressing from jar.
@@ -213,6 +217,8 @@ organic whole grain yellow milled corn, all purpose flour, sugar, baking soda, o
 combine 16 oz corn, 8 oz flour, 4 oz sugar, ts bake soda in bowl. whisk two eggs in separate bowl. add 500 mL milk and 100 mL oil (or melted butter) to eggs. mix wet with dry. add more milk if necessary, to make smooth batter. put batter in greased pan or muffin cups. bake 20 minutes, 375 F.
 
 spicy bean chili with corn bread
+
+NYT Cooking recipes, vegetarian skillet chili
 
 Quinoa and Black Bean Chili
 https://www.goya.com/en/recipes/quinoa-and-black-bean-chili
@@ -301,4 +307,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-=================================
+======================================================
