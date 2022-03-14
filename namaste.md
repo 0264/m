@@ -404,40 +404,40 @@
 |      |                                                    |                            |
 |60 42 | slow yoga with Anastasia                           | https://vimeo.com/20611323 |
 |      |                                                    |                            |
-|61 39 | |[butterfly practice Crista](https://doyogawithme.com/content/butterfly-practice)|
+|61 39 | |[opening practice, Crista](https://doyogawithme.com/content/butterfly-practice)|
 |      |                                                    |                            |
-
-61 41 yoga for athletes with Fiji                        https://vimeo.com/153376118
-
-61 53 yoga for the spine with Anastasia                  https://vimeo.com/193263846
-
-62 24 yoga for shoulders and arms with Fiji               https://vimeo.com/82303463
-
-63 18 prana pulse power flow with Tianne                  https://vimeo.com/59744414
-
-63 25 deep hip flow with Melissa                         https://vimeo.com/225692315
-
-63 38 shoulder neck sequence with David |strap block|     https://vimeo.com/21368863
-
-64 59 slow restore equilibrium with David |start at 17m|  https://vimeo.com/49525658
-
-65 48 progress to head stand with Fiji                    https://vimeo.com/62434103
-
-66 05 whole body flow with David                          https://vimeo.com/19578198
-
-66 21 full body slow flow with Melissa                   https://vimeo.com/257805064
-
-67 53 power yoga flow with Fiji                           https://vimeo.com/50034162
-
-68 18 natarajasana with Shivani                           https://vimeo.com/32127692
-
-68 20 power yoga class with Ron                           https://vimeo.com/75365909
-
-68 40 slow flow with Satiya                              https://vimeo.com/276116414
-
-68 45 hips with Rachel                                    https://vimeo.com/74967847
-
-69 15 yoga with Crista                                   https://vimeo.com/266433809
+|61 41 | yoga for athletes with FIJI                        | https://vimeo.com/153376118|
+|      |                                                    |                            |
+|61 53 | yoga for the spine with Anastasia                  | https://vimeo.com/193263846|
+|      |                                                    |                            |
+|62 24 | yoga for shoulders and arms with FIJI              | https://vimeo.com/82303463 |
+|      |                                                    |                            |
+|63 18 | prana pulse power flow with Tianne                 | https://vimeo.com/59744414 |
+|      |                                                    |                            |
+|63 25 | deep hip flow with Melissa                         | https://vimeo.com/225692315|
+|      |                                                    |                            |
+|63 38 | shoulder neck sequence with David - strap, block   | https://vimeo.com/21368863 |
+|      |                                                    |                            |
+|64 59 | slow restore equilibrium with David - start at 17m | https://vimeo.com/49525658 |
+|      |                                                    |                            |
+|65 48 | progress to head stand with FIJI                   | https://vimeo.com/62434103 |
+|      |                                                    |                            |
+|66 05 | whole body flow with David                         | https://vimeo.com/19578198 |
+|      |                                                    |                            |
+|66 21 | full body slow flow with Melissa                   | https://vimeo.com/257805064|
+|      |                                                    |                            |
+|67 53 | power yoga flow with FIJI                          | https://vimeo.com/50034162 |
+|      |                                                    |                            |
+|68 18 | natarajasana with Shivani                          | https://vimeo.com/32127692 |
+|      |                                                    |                            |
+|68 20 | power yoga class with Ron                          | https://vimeo.com/75365909 |
+|      |                                                    |                            |
+|68 40 | slow flow with Satiya                              | https://vimeo.com/276116414|
+|      |                                                    |                            |
+|68 45 | hips with Rachel                                   | https://vimeo.com/74967847 |
+|      |                                                    |                            |
+|69 15 | yoga with Crista                                   | https://vimeo.com/266433809|
+|      |                                                    |                            |
 
 70 12 flow with Fiji                                      https://vimeo.com/57763075
 
