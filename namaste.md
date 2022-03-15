@@ -36,6 +36,8 @@
 |      |                                                    |                            |
 |13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
 |      |                                                    |                            |
+|14 35 | yoga with Crista                                   | https://vimeo.com/186502370|
+|      |                                                    |                            |
 |14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
 |      |                                                    |                            |
 |15 06 | focus on core and low back with Rachel             | https://vimeo.com/155082780|
@@ -89,6 +91,8 @@
 |21 34 | slow flow and balance poses with Melissa           | https://vimeo.com/36525606 |
 |      |                                                    |                            |
 |21 38 | deep stretches with FIJI                           | https://vimeo.com/138860167|
+|      |                                                    |                            |
+|21 47 | balance and back bends with FIJI                   | https://vimeo.com/128276677|
 |      |                                                    |                            |
 |21 50 | :zap: stretch hamstrings with FIJI                 | https://vimeo.com/71550868 |
 |      |                                                    |                            |
@@ -248,7 +252,11 @@
 |      |                                                    |                            |
 |39 08 | yoga with FIJI                                     | https://vimeo.com/191071769|
 |      |                                                    |                            |
+|39 10 | flow to restore with Tianne                        | https://vimeo.com/34615329 |
+|      |                                                    |                            |
 |39 28 | back bends with FIJI                               | https://vimeo.com/35556162 |
+|      |                                                    |                            |
+|39 28 | back bending from base intermediate yoga with FIJI | https://vimeo.com/26729461 |
 |      |                                                    |                            |
 |39 33 | rise to power with FIJI                            | https://vimeo.com/136775920|
 |      |                                                    |                            |
@@ -283,6 +291,8 @@
 |43 04 | yoga with Tracey                                   | https://vimeo.com/243950737|
 |      |                                                    |                            |
 |43 10 | chakra flow with FIJI                              | https://vimeo.com/125963141|
+|      |                                                    |                            |
+|43 41 | evening flow to restore with Tianne                | https://vimeo.com/34545462 |
 |      |                                                    |                            |
 |43 48 | yoga for better posture with Melissa               | https://vimeo.com/167068402|
 |      |                                                    |                            |
@@ -438,48 +448,27 @@
 |      |                                                    |                            |
 |69 15 | yoga with Crista                                   | https://vimeo.com/266433809|
 |      |                                                    |                            |
-
-70 12 flow with Fiji                                      https://vimeo.com/57763075
-
-71 46 power yoga for balance with Ron                     https://vimeo.com/68907083
-
-73 45 sacred expansion with Ron                           https://vimeo.com/89184989
-
-75 23 basic flow with Fiji                                https://vimeo.com/47313860
-
-75 41 sun rise flow yoga class with Fiji and friends      https://vimeo.com/22619614
-
-77 23 sukha yoga with Tracey                              https://vimeo.com/54749667
-
-77 54 yoga for hips with Michelle                         https://vimeo.com/31388263
-
-80 18 power flow with Fiji                                https://vimeo.com/44436107
-
-80 29 breathe and move with David                         https://vimeo.com/21724090
-
-81 41 restore balance with David                          https://vimeo.com/50475683
-
-105 31 restore the body with David                        https://vimeo.com/53295560
-
-106 29 flow for courage with Tracey                       https://vimeo.com/67007304
-
-https://vimeo.com/26729461
-https://vimeo.com/72549569
-https://vimeo.com/67765930
-https://vimeo.com/35556162
-https://vimeo.com/35122022
-https://vimeo.com/34727879
-https://vimeo.com/34615329
-https://vimeo.com/34545462
-https://vimeo.com/191071769
-https://vimeo.com/190592588
-https://vimeo.com/189874340
-https://vimeo.com/188230830
-https://vimeo.com/186502370
-https://vimeo.com/213958584
-https://vimeo.com/212645744
-https://vimeo.com/128276677
-https://vimeo.com/140254357
-https://vimeo.com/254746199
-https://vimeo.com/253916520
-https://vimeo.com/196114916
+|70 12 | flow with FIJI                                     | https://vimeo.com/57763075 |
+|      |                                                    |                            |
+|71 46 | power yoga for balance with Ron                    | https://vimeo.com/68907083 |
+|      |                                                    |                            |
+|73 45 | sacred expansion with Ron                          | https://vimeo.com/89184989 |
+|      |                                                    |                            |
+|75 23 | basic flow with FIJI                               | https://vimeo.com/47313860 |
+|      |                                                    |                            |
+|75 41 | sun rise flow yoga class with FIJI and friends     | https://vimeo.com/22619614 |
+|      |                                                    |                            |
+|77 23 | sukha yoga with Tracey                             | https://vimeo.com/54749667 |
+|      |                                                    |                            |
+|77 54 | yoga for hips with Michelle                        | https://vimeo.com/31388263 |
+|      |                                                    |                            |
+|80 18 | power flow with FIJI                               | https://vimeo.com/44436107 |
+|      |                                                    |                            |
+|80 29 | breathe and move with David                        | https://vimeo.com/21724090 |
+|      |                                                    |                            |
+|81 41 | restore balance with David                         | https://vimeo.com/50475683 |
+|      |                                                    |                            |
+|105 31| restore the body with David                        | https://vimeo.com/53295560 |
+|      |                                                    |                            |
+|106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
+|      |                                                    |                            |
