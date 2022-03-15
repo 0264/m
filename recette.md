@@ -86,6 +86,9 @@ black beans sauteed. saute one diced onion in olive oil for a few minutes, add m
 squash with black beans. spaghetti squash, olive oil, red onion, red pepper, black beans, sweet corn, chili powder, cilantro, lime juice, sea salt.
 https://www.wholefoodsmarket.com/recipes/spicy-spaghetti-squash-black-beans
 
+https://www.eatingwell.com/recipe/277838/feta-kale-pear-salad/
+https://extension.umass.edu/nutrition/recipes/kale-and-feta-salad
+
 kale, lemon juice, olive olio, soy sauce, salt and pepper, garlic
 
 https://www.seriouseats.com/spaghetti-squash-with-sausage-kale-and-sun-dried-tomatoes-recipe
@@ -121,7 +124,7 @@ https://cookieandkate.com/honey-whole-wheat-banana-bread/
 chocolate zucchini bread
 dark chocolate recipes
 
-soda bread. flour, sugar, salt, bake powder, bake soda, raisins, caraway seeds, butter, buttermilk, egg. in bowl one, mix 1.5 c buttermilk with egg and ts baking soda. in bowl two, mix 4 c flour, .3 c sugar, ts salt, ts bake powder. cut in one stick butter with blender or hands. stir in 1 c raisins, tbs caraway seeds. mix bowl one with bowl two. make cross on top before you put in oven. bake 60 minutes, 375 F. Irish soda bread in oven with caraway and raisins.
+soda bread. flour, sugar, salt, bake powder, bake soda, raisins, caraway seeds, butter, buttermilk, egg. in bowl one, mix 1.5 c buttermilk with egg and ts baking soda. in bowl two, mix 4 c flour, .3 c sugar, ts salt, ts bake powder. cut in 0.5 c [one stick] butter with blender or hands. stir in 1 c raisins, tbs caraway seeds. mix bowl one with bowl two. make cross on top before you put in oven. bake 60 minutes, 375 F. Irish soda bread in oven with caraway and raisins.
 
 book "VB6" vegan vegetarian Bittman - https://vegan.org - V vegan label symbol
 
@@ -137,7 +140,7 @@ https://www.kingarthurbaking.com/recipes/sourdough-banana-bread-recipe
 https://www.kingarthurbaking.com/recipes/crunchy-whole-grain-chocolate-chip-cookies-recipe
 https://www.nytimes.com/2022/02/11/dining/chocolate-chips-baking.html
 
-butter two bake sheets, in large bowl mix 8 oz sugar, 4 oz butter, salt tsp, vanilla tsp, almond extract tsp, cider or white vinegar tsp, and bake soda tsp, add one egg and mix to combine, mix in 16 oz all purpose flour and 16 oz chocolate chips, refrigerate, spoon balls of dough on to prepared bake sheets, bake 12 minutes, 375 F
+butter two bake sheets, in large bowl mix 8 oz sugar, 0.5 c butter, salt tsp, vanilla tsp, almond extract tsp, cider or white vinegar tsp, and bake soda tsp, add one egg and mix to combine, mix in 16 oz all purpose flour and 16 oz chocolate chips, refrigerate, spoon balls of dough on to prepared bake sheets, bake 12 minutes, 375 F
 
 https://twitter.com/nedsegal/status/1021894653656723456
 chocolate chip cookie recipe
@@ -226,7 +229,7 @@ black beans, water, salt
 
 wind mills, mill stones, grind stones, corn muffins, corn pancakes, corn breads, corn flour
 
-skillet corn bread. mix 16 oz milled corn and 12 oz buttermilk in bowl. let sit 30 minutes. heat cast iron skillet in oven at 425 F. add in bowl: 8 oz yogurt, two eggs, 2 oz melted butter, two tbs sugar, two ts bake powder, ts bake soda, ts salt. place two tbs butter in skillet and swirl until melted. pour batter in skillet. bake 25 minutes, 375 F.
+skillet corn bread. mix 16 oz milled corn and 12 oz buttermilk in bowl. let sit 30 minutes. heat cast iron skillet in oven at 425 F. add in bowl: 8 oz yogurt, two eggs, 0.3 c melted butter, two tbs sugar, two ts bake powder, ts bake soda, ts salt. place two tbs butter in skillet and swirl until melted. pour batter in skillet. bake 25 minutes, 375 F.
 
 https://lynnecurry.com/2017/05/poblano-corn-potato-black-bean-burrito/
 
@@ -286,6 +289,10 @@ ideas... brussels sprouts, bean soup, sweet potato fries, catfish with collard g
 
 ? basil leaf, tomato, mozzarella cheese
 
+https://www.foodandwine.com/recipes/crunchy-vietnamese-chicken-salad
+
+Vietnamese cabbage salad recipe; NYT recipe; crunchy Vietnamese cabbage salad with pan seared tofu
+
 pancakes recipe, squash fritter recipe, sweet potato biscuits recipe
 
 boiled egg
@@ -307,4 +314,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-======================================================
+==============================================================================================
