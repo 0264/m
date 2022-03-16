@@ -83,6 +83,8 @@ tomato soup with sausage, beans, pasta. two sausage links, no case, on medium he
 
 black beans sauteed. saute one diced onion in olive oil for a few minutes, add minced garlic clove, add 16 oz black beans, 100 mL broth or water, crushed tomato or tomato paste, ts cumin, ts chili powder, ts smoked paprika, salt. simmer for 20 minutes. add more water, if too dry, serve with fresh cilantro.
 
+tortilla or burrito recipes
+
 squash with black beans. spaghetti squash, olive oil, red onion, red pepper, black beans, sweet corn, chili powder, cilantro, lime juice, sea salt.
 https://www.wholefoodsmarket.com/recipes/spicy-spaghetti-squash-black-beans
 
@@ -126,7 +128,7 @@ dark chocolate recipes
 
 soda bread. flour, sugar, salt, bake powder, bake soda, raisins, caraway seeds, butter, buttermilk, egg. in bowl one, mix 1.5 c buttermilk with egg and ts baking soda. in bowl two, mix 4 c flour, .3 c sugar, ts salt, ts bake powder. cut in 0.5 c [one stick] butter with blender or hands. stir in 1 c raisins, tbs caraway seeds. mix bowl one with bowl two. make cross on top before you put in oven. bake 60 minutes, 375 F. Irish soda bread in oven with caraway and raisins.
 
-book "VB6" vegan vegetarian Bittman - https://vegan.org - V vegan label symbol
+book "VB6" vegan vegetarian Bittman - https://vegan.org - V vegan label symbol - zero waste
 
 zucchini bread. vegan maple pecan zucchini bread
 https://www.gratefulgrazing.com/grateful-grazing/maple-pecan-zucchini-bread-vegan
@@ -148,6 +150,7 @@ chocolate chip cookie recipe
 chocolate chip pancakes
 
 chewy earl grey sugar cookies nytimes.com
+https://en.wikipedia.org/wiki/bergamot_orange
 
 https://cooking.nytimes.com/recipes/1022767-m-and-m-cookies
 
@@ -159,6 +162,8 @@ bake 15 minutes, 425 F. bake 40 minutes, 350 F. cool pie before serve.
 
 muffins, sunflower seeds, use recipe for whole grain blueberry muffins in nytimes
 https://cooking.nytimes.com/tag/sunflower%20seeds
+
+rye muffins. in bowl one, mix 1 c rye flour, 1 c oat flour, 1 tbs bake powder, ts salt, two ts cinnamon. in bowl two, mix two eggs, 0.3 c oil, ts vanilla, 0.5 c honey, 0.7 c buttermilk. combine bowls. add 0.5 c raisins. fill muffin cups. bake 12-15 minutes, 375 F.
 
 super hero muffin recipe; almond flour, oats, raisins or currants, walnuts, zucchini, carrots, apple, three eggs, butter, maple syrup, baking soda, cinnamon, nutmeg
 https://runfasteatslow.com/blogs/news/superhero-muffins
@@ -314,4 +319,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-==============================================================================================
+======================================
