@@ -56,7 +56,7 @@
 |      |                                                    |                            |
 |16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
 |      |                                                    |                            |
-|17 39 | :zap: sun rise slow flow with Melissa              | https://vimeo.com/200081746|
+|17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<< | https://vimeo.com/200081746|
 |      |                                                    |                            |
 |17 56 | standing flow and twist with David                 | https://vimeo.com/111564293|
 |      |                                                    |                            |
@@ -66,9 +66,9 @@
 |      |                                                    |                            |
 |19 17 | arm balance power flow with FIJI - pillow          | https://vimeo.com/130555671|
 |      |                                                    |                            |
-|19 19 | :zap: seated leg and low back stretch with David   | https://vimeo.com/182615304|
+|19 19 | :zap: seated leg + low back stretch with David <<< | https://vimeo.com/182615304|
 |      |                                                    |                            |
-|19 46 | :zap: vinyasa for vitality with FIJI               | https://vimeo.com/140254357|
+|19 46 | :zap: vinyasa for vitality with FIJI <<<<<<<<<<<<< | https://vimeo.com/140254357|
 |      |                                                    |                            |
 |19 51 | after work yoga with Rachel                        | https://vimeo.com/121058388|
 |      |                                                    |                            |
@@ -76,15 +76,15 @@
 |      |                                                    |                            |
 |19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
 |      |                                                    |                            |
-|20 01 | :zap: morning wake up and flow with FIJI           | https://vimeo.com/198281418|
+|20 01 | :zap: morning wake up and flow with FIJI <<<<<<<<< | https://vimeo.com/198281418|
 |      |                                                    |                            |
 |20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
 |      |                                                    |                            |
 |20 02 | slow flow ashtanga yoga sequence with Jeff         | https://vimeo.com/250350874|
 |      |                                                    |                            |
-|20 35 | :zap: hands arms shoulder stretch with David       | https://vimeo.com/182477550|
+|20 35 | :zap: hands arms shoulder stretch with David <<<<< | https://vimeo.com/182477550|
 |      |                                                    |                            |
-|20 38 | :zap: yoga for runner post-run with FIJI           | https://vimeo.com/26623677 |
+|20 38 | :zap: yoga for runner post-run with FIJI <<<<<<<<< | https://vimeo.com/26623677 |
 |      |                                                    |                            |
 |20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
 |      |                                                    |                            |
@@ -94,29 +94,29 @@
 |      |                                                    |                            |
 |21 47 | balance and back bends with FIJI                   | https://vimeo.com/128276677|
 |      |                                                    |                            |
-|21 50 | :zap: stretch hamstrings with FIJI                 | https://vimeo.com/71550868 |
+|21 50 | :zap: stretch hamstrings with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/71550868 |
 |      |                                                    |                            |
 |21 52 | low back and leg with David - strap bolster 8m 30s | https://vimeo.com/138163409|
 |      |                                                    |                            |
 |22 08 | :zap: yoga for runner pre-run with FIJI            | https://vimeo.com/26634653 |
 |      |                                                    |                            |
-|22 45 | :zap: shoulder, arm strength with Melissa - pillow | https://vimeo.com/36428350 |
+|22 45 | :zap: arm strength with Melissa - pillow <<<<<<<<< | https://vimeo.com/36428350 |
 |      |                                                    |                            |
-|22 46 | :zap: morning wake up flow not slow with Sarah Jane| https://vimeo.com/199863587|
+|22 46 | :zap: morning flow not slow with Sarah Jane <<<<<< | https://vimeo.com/199863587|
 |      |                                                    |                            |
 |22 48 | slow sun salutations with David                    | https://vimeo.com/217843142|
 |      |                                                    |                            |
-|23 01 | :zap: create heat and stronger arms with FIJI      | https://vimeo.com/134311766|
+|23 01 | :zap: create heat and stronger arms with FIJI <<<< | https://vimeo.com/134311766|
 |      |                                                    |                            |
 |23 33 | slow flow standing mountain pose with Satiya       | https://vimeo.com/250339948|
 |      |                                                    |                            |
-|23 37 | :zap: morning wake and move with Ron               | https://vimeo.com/196930083|
+|23 37 | :zap: morning wake and move with Ron <<<<<<<<<<<<< | https://vimeo.com/196930083|
 |      |                                                    |                            |
 |23 41 | neck shoulder wrists with David  - strap           | https://vimeo.com/17230341 |
 |      |                                                    |                            |
 |23 47 | strong core and arm balance with FIJI - block      | https://vimeo.com/221339254|
 |      |                                                    |                            |
-|23 49 | :zap: sweet stretches for runner with FIJI         | https://vimeo.com/27568754 |
+|23 49 | :zap: sweet stretches for runner with FIJI <<<<<<< | https://vimeo.com/27568754 |
 |      |                                                    |                            |
 |24 22 | |[rhythm routine with FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
 |      |                                                    |                            |
@@ -138,13 +138,13 @@
 |      |                                                    |                            |
 |26 48 | slow yoga for sleep with Sarah Jane                | https://vimeo.com/250332010|
 |      |                                                    |                            |
-|26 59 | :zap: hips hamstring spine with David              | https://vimeo.com/13236790 |
+|26 59 | :zap: hips hamstring spine with David <<<<<<<<<<<< | https://vimeo.com/13236790 |
 |      |                                                    |                            |
 |27 01 | chair yoga with David                              | https://vimeo.com/82303464 |
 |      |                                                    |                            |
 |27 08 | | [Gratitude with Tracey](https://doyogawithme.com/content/gateway-to-gratitude)|
 |      |                                                    |                            |
-|27 12 | :zap: move, open up, stretch with Rachel           | https://vimeo.com/240331891|
+|27 12 | :zap: move, open up, stretch with Rachel <<<<<<<<< | https://vimeo.com/240331891|
 |      |                                                    |                            |
 |27 15 | stronger arms! with Anastasia - strap              | https://vimeo.com/174776714|
 |      |                                                    |                            |
@@ -168,7 +168,7 @@
 |      |                                                    |                            |
 |30 22 | slow flow for the spine with Sarah Jane            | https://vimeo.com/222297348|
 |      |                                                    |                            |
-|30 39 | :zap: strengthen and lengthen with Anastasia       | https://vimeo.com/99794823 |
+|30 39 | :zap: strengthen and lengthen with Anastasia <<<<< | https://vimeo.com/99794823 |
 |      |                                                    |                            |
 |31 36 | | [core and arms with Rachel](https://doyogawithme.com/content/30-minutes-power)|
 |      |                                                    |                            |
@@ -182,7 +182,7 @@
 |      |                                                    |                            |
 |33 03 | Ashtanga yoga with Jeff                            | https://vimeo.com/247237141|
 |      |                                                    |                            |
-|33 13 | :zap: slow flow with Ron - pillow, strap           | https://vimeo.com/147066588|
+|33 13 | :zap: slow flow with Ron - pillow, strap <<<<<<<<< | https://vimeo.com/147066588|
 |      |                                                    |                            |
 |33 17 | establish stronger core with David                 | https://vimeo.com/189874340|
 |      |                                                    |                            |
@@ -202,7 +202,7 @@
 |      |                                                    |                            |
 |34 46 | :zap: rise and shine, high energy with FIJI - block| https://vimeo.com/98560546 |
 |      |                                                    |                            |
-|34 50 | :zap: slow flow bend stretch with Melissa - block  | https://vimeo.com/40336788 |
+|34 50 | :zap: slow flow stretch with Melissa - block <<<<< | https://vimeo.com/40336788 |
 |      |                                                    |                            |
 |35 28 | shift perspective with Tracey                      | https://vimeo.com/129902941|
 |      |                                                    |                            |
@@ -218,7 +218,7 @@
 |      |                                                    |                            |
 |36 08 |  | [move and twist with Ron](https://www.doyogawithme.com/content/freedom-wings)|
 |      |                                                    |                            |
-|36 12 | :zap: birds of a feather with FIJI                 | https://vimeo.com/198289713|
+|36 12 | :zap: birds of a feather with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/198289713|
 |      |                                                    |                            |
 |36 19 | bed time slow flow with Melissa                    | https://vimeo.com/111166166|
 |      |                                                    |                            |
@@ -266,7 +266,7 @@
 |      |                                                    |                            |
 |40 07 | expand your horizon with Tracey                    | https://vimeo.com/139755648|
 |      |                                                    |                            |
-|40 31 | :zap: happy feet and balance with Rachel           | https://vimeo.com/82018631 |
+|40 31 | :zap: happy feet and balance with Rachel <<<<<<<<< | https://vimeo.com/82018631 |
 |      |                                                    |                            |
 |40 34 | electromagnetic force and the spaces in us, FIJI   | https://vimeo.com/266429171|
 |      |                                                    |                            |
@@ -276,7 +276,7 @@
 |      |                                                    |                            |
 |41 50 | yoga for sciatica with David                       | https://vimeo.com/154271371|
 |      |                                                    |                            |
-|42 00 | :zap: slow extended holds with Sarah Jane - pillow | https://vimeo.com/171049915|
+|42 00 | :zap: slow extended holds, Sarah Jane - pillow <<< | https://vimeo.com/171049915|
 |      |                                                    |                            |
 |42 03 | bed time yoga with Sarah Jane                      | https://vimeo.com/199225832|
 |      |                                                    |                            |
@@ -286,7 +286,7 @@
 |      |                                                    |                            |
 |42 31 | inner strength with Melissa                        | https://vimeo.com/165734087|
 |      |                                                    |                            |
-|42 32 | :zap: twist with FIJI - block                      | https://vimeo.com/243959409|
+|42 32 | :zap: twist with FIJI - block <<<<<<<<<<<<<<<<<<<< | https://vimeo.com/243959409|
 |      |                                                    |                            |
 |43 04 | yoga with Tracey                                   | https://vimeo.com/243950737|
 |      |                                                    |                            |
