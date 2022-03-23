@@ -104,6 +104,8 @@ plant based burger, black beans, or lentils, or chickpeas
 
 https://www.bbcgoodfood.com/recipes/chickpea-coriander-burgers
 
+lentil stew. heat olive oil in large pot. add one diced onion and four cloves minced garlic. add two diced celery stalks and two diced carrots. add one diced red pepper, one diced green bell pepper, one diced zucchini and one diced egg plant. add salt and black pepper. add ts chili powder, ts red pepper flakes, tbs cumin, two ts smoked paprika. mix in 2 c lentils. add 1 c red wine, 2 c water, 6 c crushed or diced tomato. heat to boil. reduce heat and simmer, 40 minutes. stir. add more water if needed. mix in cooked beans. simmer, 15 minutes. serve with cilantro.
+
 linguine with asparagus. asparagus, linguine, Pecorino Romano, black pepper, olive oil. cut asparagus in one inch pieces, cook pasta in salted boiling water for 12 minutes, stir, add asparagus to pasta when 5 minutes remaining in cook time; make sauce in large bowl: 12 oz grated cheese, whisk in 4 oz cooking water, tbs pepper, 2 tbs oil. drain pasta water and mix in bowl with sauce.
 
 cook asparagus in boiling water for three minutes, mix in bowl: bow tie farfalle pasta with feta cheese, one red bell pepper, one yellow bell pepper, one cup small tomato, olive olio, red wine vinegar
@@ -283,6 +285,8 @@ hummus, with green olives cut in small pieces
 turkey leg. marinate in water with salt and sugar. bake 60 minutes, 400 F.
 https://cooking.nytimes.com/recipes/1013590-roasted-turkey-drumsticks-with-star-anise-and-soy-sauce
 turkey soup, celery, carrots, parsnips, onions, rosemary, gravy, bones
+
+baked potato slices with rosemary and olive oil
 
 https://ndncollective.org/decolonizing-thanksgiving-and-reviving-indigenous-relationships-to-food
 https://www.independentri.com/view_from_swamptown/article_c8813d68-4c9e-11ec-b4e7-6b3553758151.html
