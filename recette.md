@@ -53,6 +53,8 @@ pad thai. rice noodles in water for 30 minutes. cook rice noodles in boiling wat
 brown rice
 tofu and broccoli with rice, Kay Chun recipe in NYT
 
+bread crumbs, Parmesan cheese, anchovy, oil of olives, spaghetti
+
 penne pasta with lemon infused vegetables
 whole grain penne rigate, 16 ounces
 olive oil, 6 tbs
@@ -211,6 +213,9 @@ brown butter
 
 chocolate chip cookie bar recipe; King Arthur Flour
 
+barley salad recipe; barley, celery root and mushroom salad with scallion vinaigrette
+https://www.nytimes.com/2012/03/07/dining/barley-celery-root-and-mushroom-salad-recipe.html
+
 baked barley risotto with mushrooms and carrots
 https://cooking.nytimes.com/recipes/1020031-baked-barley-risotto-with-mushrooms-and-carrots
 
@@ -270,6 +275,8 @@ smoothies
 
 run fast eat slow granola
 run_fast_eat_slow_Ginger_molasses_Granola.PNG
+https://cooking.nytimes.com/recipes/1014414-granola
+^ oats, oat bran, coconut chips, almonds, pecans, cashews, dried fruits, honey
 
 sesame seeds, tahini
 hummus, chickpeas, tahini sesame seeds, garlic cloves, salt
@@ -294,9 +301,17 @@ https://www.independentri.com/view_from_swamptown/article_c8813d68-4c9e-11ec-b4e
 
 ideas... brussels sprouts, bean soup, sweet potato fries, catfish with collard greens, capers, corn grits
 
+https://www.earlymorningfarm.com/bacon-brussels-sprouts/
+brussels sprouts and bacon at earlymorningfarm.com
+brussels sprouts, bacon pieces, apple cider vinegar, black pepper, salt
+
+halved brussels sprouts with maitake mushrooms
+
 ? salad with crumbled feta cheese, chickpeas, olives, spinach leaf, lemon juice, basil
 
 ? basil leaf, tomato, mozzarella cheese
+
+? crab cakes with lions mane mushroom as substitute for crab
 
 https://www.foodandwine.com/recipes/crunchy-vietnamese-chicken-salad
 

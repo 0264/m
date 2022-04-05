@@ -56,6 +56,8 @@
 |      |                                                    |                            |
 |16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
 |      |                                                    |                            |
+|16 28 | sun salute with Tracey                             | https://vimeo.com/131774878|
+|      |                                                    |                            |
 |17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<< | https://vimeo.com/200081746|
 |      |                                                    |                            |
 |17 56 | standing flow and twist with David                 | https://vimeo.com/111564293|
