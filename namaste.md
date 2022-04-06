@@ -56,7 +56,7 @@
 |      |                                                    |                            |
 |16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
 |      |                                                    |                            |
-|16 28 | sun salute with Tracey                             | https://vimeo.com/131774878|
+|16 28 | sun salute continuous flow not slow with Tracey    | https://vimeo.com/131774878|
 |      |                                                    |                            |
 |17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<< | https://vimeo.com/200081746|
 |      |                                                    |                            |
@@ -164,7 +164,7 @@
 |      |                                                    |                            |
 |29 10 | yoga for lower back with David                     | https://vimeo.com/263227385|
 |      |                                                    |                            |
-|29 27 | seated slow flow for self care with Melissa        | https://vimeo.com/133616675|
+|29 27 | seated slow flow for sleep with Melissa            | https://vimeo.com/133616675|
 |      |                                                    |                            |
 |30 03 |   | [slow standing poses with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
 |      |                                                    |                            |
