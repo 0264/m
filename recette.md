@@ -4,6 +4,7 @@ chickpea soup. heat olive oil in large pot. add one diced onion and six cloves m
 
 link NYT recipes to recette
 Harira soup recipe, NYT Cooking
+kimchi pancake recipe, NYT Cooking
 
 red bean salad
 
@@ -49,6 +50,11 @@ arugula and cashew pesto, grow arugula in garden
 bibimbap with sesame oil and beer @ericjoonho @nytimes @nytfood
 
 pad thai. rice noodles in water for 30 minutes. cook rice noodles in boiling water for 5 minutes, drain and coat with vegetable oil. mix tbs tamarind paste in 2 oz hot water. add tbs brown sugar. stir fry four garlic cloves with tofu for 3 minutes. whisk two eggs and add to stir fry, 30 seconds. add noodles, tamarind paste, 3 tbs fish sauce, 2 tbs soy sauce, and crushed chili pepper to stir fry. cook 5 minutes. add mung bean sprouts and scallions. cook 1 minute. serve with roasted peanuts, cilantro, lime slices.
+
+pad thai. garlic, tofu, eggs, noodles, peanuts, bean sprouts, lime
+http://www.npr.org/2011/05/10/136176692/pad-thai-thai-fried-noodles
+
+braise: fry lightly and then stew slowly in closed container
 
 brown rice
 tofu and broccoli with rice, Kay Chun recipe in NYT
@@ -138,6 +144,8 @@ zucchini bread. vegan maple pecan zucchini bread
 https://www.gratefulgrazing.com/grateful-grazing/maple-pecan-zucchini-bread-vegan
 
 https://www.kingarthurbaking.com/recipes/old-fashioned-date-nut-bread-recipe
+
+sour dough no knead bread recipe, NYT, bake bread
 
 https://www.kingarthurbaking.com/recipes/collections/sourdough-discard-recipes
 
