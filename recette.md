@@ -37,6 +37,8 @@ pasta noodles, garlic, butter, fish sauce, oyster sauce, soy sauce, Parmesan che
 
 broccoli recipes in New York Times
 
+roasted egg plant pizza recipe in New York Times, try with ricotta cheese?
+
 pizza. flour, oil, salt, yeast, sugar, water, tomato sauce, tomato paste, oregano, mozzarella cheese; heat oven to 425 F. heat 8 oz water to 110 F and put in bowl. when hot to touch and not too hot then add ts sugar and two ts yeast. mix and let sit until bloom. put yeast mix in large bowl with ts salt, two tbs oil, 20 oz flour, and mix. knead dough! put bowl on warm surface, for dough to rise, at least for five minutes, covered with towel. roll dough to desired size and shape, make crust edge, cover edge with oil. put milled corn on bake pan. bake five minutes. add tomato paste, 8 oz tomato sauce, mozzarella cheese, tb oregano. bake 20 minutes, 425 F.
 
 quiche. eggs, flour, bake powder, salt and black pepper, nutmeg, thyme, oil or melted butter, milk, broccoli, pie crust, cheddar cheese; melt tbs butter. steam and cut two cups broccoli. grate 4 oz cheddar cheese. crack four eggs and whisk. mix 4 oz flour, ts bake powder, ts salt. add melted butter, 400 mL milk, and cheese to egg bowl. mix wet and dry. add broccoli. add salt and black pepper. consider adding nutmeg or thyme. pour in pie crust. bake 45 to 60 minutes, 375 F.
@@ -49,9 +51,9 @@ arugula and cashew pesto, grow arugula in garden
 
 bibimbap with sesame oil and beer @ericjoonho @nytimes @nytfood
 
-pad thai. rice noodles in water for 30 minutes. cook rice noodles in boiling water for 5 minutes, drain and coat with vegetable oil. mix tbs tamarind paste in 2 oz hot water. add tbs brown sugar. stir fry four garlic cloves with tofu for 3 minutes. whisk two eggs and add to stir fry, 30 seconds. add noodles, tamarind paste, 3 tbs fish sauce, 2 tbs soy sauce, and crushed chili pepper to stir fry. cook 5 minutes. add mung bean sprouts and scallions. cook 1 minute. serve with roasted peanuts, cilantro, lime slices.
+pad thai. place rice noodles in water, 30 minutes. cook rice noodles in boiling water, 5 minutes, drain and coat with oil. mix tbs tamarind paste in 2 oz hot water. add tbs brown sugar. stir fry four garlic cloves with tofu for 3 minutes. whisk two eggs and add to stir fry, 30 seconds. add noodles or rice, tamarind paste, 3 tbs fish sauce, 2 tbs soy sauce, and crushed chili pepper to stir fry. cook 5 minutes. add mung bean sprouts, and scallions. cook 1 minute. serve with roasted peanuts, cilantro, lime slices.
 
-pad thai. garlic, tofu, eggs, noodles, peanuts, bean sprouts, lime
+pad thai. garlic, tofu, eggs, noodles, peanuts, bean sprouts, lime; can substitute rice for noodles
 http://www.npr.org/2011/05/10/136176692/pad-thai-thai-fried-noodles
 
 braise: fry lightly and then stew slowly in closed container
@@ -125,6 +127,8 @@ olive oil or butter, aged cheese, parsley, black pepper
 https://cooking.nytimes.com/recipes/1019684-garlic-bread
 
 flat bread dough
+
+walnut banana chocolate oat cookie, "Banana Everything Cookies", recipe in NYT Cooking
 
 banana breads, crackly banana bread with millet
 https://smittenkitchen.com/2012/09/crackly-banana-bread
