@@ -28,8 +28,6 @@
 |      |                                                    |                            |
 |10 46 | create heat and focus on arm muscle! with FIJI     | https://vimeo.com/240932617|
 |      |                                                    |                            |
-|11 13 | hands, wrists, arms with Erica                     | https://vimeo.com/58200655 |
-|      |                                                    |                            |
 |11 41 | shoulder and upper back with Erica                 | https://vimeo.com/58200656 |
 |      |                                                    |                            |
 |12 53 | stretch neck and shoulder with David - strap       | https://vimeo.com/14057532 |
