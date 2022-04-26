@@ -268,7 +268,7 @@
 |      |                                                    |                            |
 |40 31 | :zap: happy feet and balance with Rachel <<<<<<<<< | https://vimeo.com/82018631 |
 |      |                                                    |                            |
-|40 34 | electromagnetic force and the spaces in us, FIJI   | https://vimeo.com/266429171|
+|40 34 | forces and spaces in us, with FIJI                 | https://vimeo.com/266429171|
 |      |                                                    |                            |
 |40 45 | |[slow flow with Guy](https://doyogawithme.com/content/slow-flow-creating-space)|
 |      |                                                    |                            |
