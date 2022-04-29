@@ -43,6 +43,8 @@ pizza. flour, oil, salt, yeast, sugar, water, tomato sauce, tomato paste, oregan
 
 quiche. eggs, flour, bake powder, salt and black pepper, nutmeg, thyme, oil or melted butter, milk, broccoli, pie crust, cheddar cheese; melt tbs butter. steam and cut two cups broccoli. grate 4 oz cheddar cheese. crack four eggs and whisk. mix 4 oz flour, ts bake powder, ts salt. add melted butter, 400 mL milk, and cheese to egg bowl. mix wet and dry. add broccoli. add salt and black pepper. consider adding nutmeg or thyme. pour in pie crust. bake 45 to 60 minutes, 375 F.
 
+learn how to make and bake pie shells, pie crusts
+
 https://www.chelseagreen.com/2021/make-a-foraged-immune-boosting-pesto-for-spring
 basil pesto...
 https://cooking.nytimes.com/recipes/2653-basic-pesto
@@ -147,6 +149,7 @@ book "VB6" vegan vegetarian Bittman - https://vegan.org - V vegan label symbol -
 zucchini bread. vegan maple pecan zucchini bread
 https://www.gratefulgrazing.com/grateful-grazing/maple-pecan-zucchini-bread-vegan
 
+date breads
 https://www.kingarthurbaking.com/recipes/old-fashioned-date-nut-bread-recipe
 
 sour dough no knead bread recipe, NYT, bake bread
@@ -178,6 +181,11 @@ bake 15 minutes, 425 F. bake 40 minutes, 350 F. cool pie before serve.
 
 muffins, sunflower seeds, use recipe for whole grain blueberry muffins in nytimes
 https://cooking.nytimes.com/tag/sunflower%20seeds
+
+https://www.williams-sonoma.com/recipe/blackberry-muffins.html
+bake muffins
+
+https://cooking.nytimes.com/recipes/1022577-triple-ginger-muffins
 
 rye muffins. in bowl one, mix 1 c rye flour, 1 c oat flour, 1 tbs bake powder, ts salt, two ts cinnamon. in bowl two, mix two eggs, 0.3 c oil, ts vanilla, 0.5 c honey, 0.7 c buttermilk. combine bowls. add 0.5 c raisins. fill muffin cups. bake 12-15 minutes, 375 F.
 
@@ -227,6 +235,8 @@ chocolate chip cookie bar recipe; King Arthur Flour
 
 barley salad recipe; barley, celery root and mushroom salad with scallion vinaigrette
 https://www.nytimes.com/2012/03/07/dining/barley-celery-root-and-mushroom-salad-recipe.html
+
+https://cooking.nytimes.com/recipes/1023051-spring-barley-soup
 
 baked barley risotto with mushrooms and carrots
 https://cooking.nytimes.com/recipes/1020031-baked-barley-risotto-with-mushrooms-and-carrots
@@ -353,4 +363,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-===============================
+================================================================================
