@@ -2,6 +2,8 @@ vegetable soup; small macaroni shells, green beans, tomato, carrots, chickpeas o
 
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800 mL crushed or diced tomato, 32 oz water, 16 oz chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
 
+miso soup, one pot miso soup, saute medium size onion in olive oil. add 8 oz thin sliced carrots or cabbage, saute, add 16 oz broth or water, can add tofu here, cover, simmer, 4 minutes, add two tbs miso, stir, simmer, 10 minutes
+
 link NYT recipes to recette
 Harira soup recipe, NYT Cooking
 kimchi pancake recipe, NYT Cooking
@@ -17,6 +19,9 @@ broth vegetable, water, carrots, celery, onions, leeks, tomato, mushrooms, garli
 
 carrot and onion soup, from Lappe, Diet For Small Planet
 http://abacus.bates.edu/acad/depts/biobook/vegetarian.pdf
+
+roasted carrots with carrot top pesto
+https://www.bonappetit.com/recipe/roasted-carrots-with-carrot-top-pesto
 
 black bean and corn salad. black beans, corn kernels, red onion slices, red bell pepper, lime juice, cilantro leaves, rice vinegar, salt and black pepper, olive oil
 https://www.wholefoodsmarket.com/recipe/sweet-corn-and-black-bean-salad
@@ -36,6 +41,14 @@ San Francisco style Vietnamese American Garlic Noodles
 pasta noodles, garlic, butter, fish sauce, oyster sauce, soy sauce, Parmesan cheese, broccoli
 
 broccoli recipes in New York Times
+
+https://www.smithsonianmag.com/travel/naples-pizza-original-fast-food-180976992
+^ Francesco Lastrucci
+
+phyllo pizza. phyllo dough, Parmesan cheese, mozzarella cheese, butter, olive oil, basil, thyme, oregano, red onion, zucchini, roma tomatoes, yellow bell pepper, Kalamata olives
+
+cherry tomato phyllo pizza at bonappetit.com
+https://www.bonappetit.com/recipe/phyllo-pizza-with-smoked-mozzarella-and-cherry-tomatoes
 
 roasted egg plant pizza recipe in New York Times, try with ricotta cheese?
 
@@ -130,6 +143,13 @@ https://cooking.nytimes.com/recipes/1019684-garlic-bread
 
 flat bread dough
 
+parsley biscuits
+all purpose flour, bake powder, bake soda, sea salt, butter, Pecorino or Parmesan cheese, scallions, parsley, buttermilk or whole milk, egg
+heat oven to 425 F. stir 16 oz flour, two ts bake powder, ts bake soda, ts salt in bowl. work in 4 oz butter, until crumbly. add 8 oz grated cheese, three minced scallions, two tbs parsley, 8 oz milk and stir. knead dough! form rough dough. make small ball shapes, and place on bake sheet. lightly whisk egg with ts water, brush each ball with egg liquid. bake 12 minutes, until light brown. mangiare!
+
+parsley pecorino biscuits at smittenkitchen.com
+https://smittenkitchen.com/2015/11/parsley-pecorino-biscuits/
+
 walnut banana chocolate oat cookie, "Banana Everything Cookies", recipe in NYT Cooking
 
 banana breads, crackly banana bread with millet
@@ -172,6 +192,10 @@ chewy earl grey sugar cookies nytimes.com
 https://en.wikipedia.org/wiki/bergamot_orange
 
 https://cooking.nytimes.com/recipes/1022767-m-and-m-cookies
+
+molasses sugar cookies
+flour, bake soda, salt, clove, ginger, cinnamon, butter, sugar, molasses, egg
+melt 4 oz butter and let cool. mix 16 oz flour, two ts bake soda, ts salt, ts clove, ts ginger, ts cinnamon in bowl. whisk egg then add 4 oz sugar and 2 oz molasses. combine wet and dry. add melted butter. shape in small balls. press each ball down to make cookie shape. bake 375 F, 8 minutes.
 
 pumpkin pie
 12 oz evaporated milk or half and half or heavy cream or substitute with 16 oz milk reduced in low boil
@@ -217,6 +241,8 @@ bread with peanut butter, honey, sunflower seeds, banana slices, cinnamon
 whole wheat bread: wheat flour, barley flour, water, sunflower olio, honey, salt and yeast
 
 Helen pineapple cookie recipe?
+
+https://en.wikipedia.org/wiki/pizzelle
 
 original plum torte
 https://cooking.nytimes.com/recipes/3783-original-plum-torte
@@ -292,6 +318,10 @@ https://www.ediblebrooklyn.com/2018/vinegar-revival-harry-rosenblum/
 https://www.loveandlemons.com/pickled-jalapenos
 marinade ... from espanol "marinada", pickle in brine
 
+pickled carrots and radishes
+carrots, radishes, apple cider vinegar, sugar, salt, cumin seeds, caraway seeds, yellow mustard seeds, garlic powder, onion powder
+cut carrots and radishes to small bite size pieces. combine 24 oz vinegar, 8 oz sugar, 2 oz salt, ts cumin seeds, ts caraway seeds, ts yellow mustard seeds, ts garlic powder, and ts onion powder in large pan. heat to simmer, stir, until salt and sugar dissolve. add carrots and radishes, heat to boil. cook 5 minutes, then set off heat until cool. when cooler, use slotted spoon to move vegetables from pan to glass jar, and fill jar with enough pan liquid to cover vegetables. store at 37 F.
+
 A smoothie is a thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.
 smoothies
 
@@ -299,6 +329,8 @@ run fast eat slow granola
 run_fast_eat_slow_Ginger_molasses_Granola.PNG
 https://cooking.nytimes.com/recipes/1014414-granola
 ^ oats, oat bran, coconut chips, almonds, pecans, cashews, dried fruits, honey
+
+over night oats, oats, maple syrup, cinnamon, milk, pecans
 
 sesame seeds, tahini
 hummus, chickpeas, tahini sesame seeds, garlic cloves, salt
