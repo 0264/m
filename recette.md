@@ -129,6 +129,18 @@ plant based burger, black beans, or lentils, or chickpeas
 
 https://www.bbcgoodfood.com/recipes/chickpea-coriander-burgers
 
+couscous vegan stew with chickpeas, zucchini and pepper
+https://www.twincities.com/2019/07/04/how-cooking-for-charity-made-me-a-better-cook-at-home/
+Julia Turshen
+
+zucchini with couscous, olive oil, zucchini, onion, water, lime juice, curry powder, ground cumin, salt, black pepper, whole wheat couscous, carrot, slivered almonds
+
+http://www.eatingwell.com/recipes/curried_zucchini_couscous.html
+http://www.justapinch.com/recipes/side/vegetable/curried-zucchini-couscous.html
+http://www.foodnetwork.com/recipes/crispy-whole-trout-with-curried-zucchini-couscous-recipe.html
+http://www.foodandwine.com/recipes/chicken-and-zucchini-couscous
+http://www.foodandwine.com/recipes/couscous-salad-with-zucchini-and-roasted-almonds
+
 lentil stew. heat olive oil in large pot. add one diced onion and four cloves minced garlic. add two diced celery stalks and two diced carrots. add one diced red pepper, one diced green bell pepper, one diced zucchini and one diced egg plant. add salt and black pepper. add ts chili powder, ts red pepper flakes, tbs cumin, two ts smoked paprika. mix in 2 c lentils. add 1 c red wine, 2 c water, 6 c crushed or diced tomato. heat to boil. reduce heat and simmer, 40 minutes. stir. add more water if needed. mix in cooked beans. simmer, 15 minutes. serve with cilantro.
 
 linguine with asparagus. asparagus, linguine, Pecorino Romano, black pepper, olive oil. cut asparagus in one inch pieces, cook pasta in salted boiling water for 12 minutes, stir, add asparagus to pasta when 5 minutes remaining in cook time; make sauce in large bowl: 12 oz grated cheese, whisk in 4 oz cooking water, tbs pepper, 2 tbs oil. drain pasta water and mix in bowl with sauce.
@@ -149,6 +161,8 @@ heat oven to 425 F. stir 16 oz flour, two ts bake powder, ts bake soda, ts salt 
 
 parsley pecorino biscuits at smittenkitchen.com
 https://smittenkitchen.com/2015/11/parsley-pecorino-biscuits/
+
+https://en.wikipedia.org/wiki/biscotti
 
 walnut banana chocolate oat cookie, "Banana Everything Cookies", recipe in NYT Cooking
 
