@@ -1,3 +1,5 @@
+recipes for plant based diet
+
 vegetable soup; small macaroni shells, green beans, tomato, carrots, chickpeas or garbanzo beans, red kidney beans, garlic and onions, celery, potato, black pepper
 
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800 mL crushed or diced tomato, 32 oz water, 16 oz chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
@@ -22,6 +24,10 @@ http://abacus.bates.edu/acad/depts/biobook/vegetarian.pdf
 
 roasted carrots with carrot top pesto
 https://www.bonappetit.com/recipe/roasted-carrots-with-carrot-top-pesto
+
+bean stew. heat two tbs olive oil in large pan. saute diced yellow onion. add garlic cloves, ts cumin, two ts oregano, ts smoked paprika, ts chipotle powder. saute one minute, then add three tbs tomato paste, mix well. add 16 oz diced tomato, tbs soy sauce, 2 oz water. simmer 15 minutes, add water if too dry. add sea salt and black pepper. add 24 oz beans. serve with cilantro and jalapeno.
+
+greens and beans. two cans cannellini beans, white beans, two bags of escarole, blanch escarole, heat oil to fry garlic and butter, add escarole, add beans, slowly add chicken stock to cover, let sit until cool and thicker, 20 minutes, recipe from Tom
 
 black bean and corn salad. black beans, corn kernels, red onion slices, red bell pepper, lime juice, cilantro leaves, rice vinegar, salt and black pepper, olive oil
 https://www.wholefoodsmarket.com/recipe/sweet-corn-and-black-bean-salad
@@ -104,7 +110,8 @@ https://www.eater.com/22736419/red-beans-and-rice-mexican-chorizo-recipe-ryan-sh
 
 https://en.wikipedia.org/wiki/pico_de_gallo
 
-tomato soup with sausage, beans, pasta. two sausage links, no case, on medium heat in large pan. cook 3 minutes. add sliced onion, green pepper, garlic cloves. cook 3 minutes. add 16 oz cooked cannellini beans, 24 oz tomato, broth (one liter). heat to boil. add 16 oz ditalini pasta. simmer 7 minutes, until pasta cooked.
+tomato soup with sausage, beans, pasta
+start medium heat on large pan and add two sausage links, do not keep skins. cook 3 minutes. add sliced onions, green pepper, garlic cloves. cook 3 minutes. add 16 oz cooked cannellini beans, 24 oz tomato, 34 oz broth. heat to boil. add 16 oz ditalini pasta. simmer 7 minutes, until pasta cooked.
 
 black beans sauteed. saute one diced onion in olive oil for a few minutes, add minced garlic clove, add 16 oz black beans, 100 mL broth or water, crushed tomato or tomato paste, ts cumin, ts chili powder, ts smoked paprika, salt. simmer for 20 minutes. add more water, if too dry, serve with fresh cilantro.
 
@@ -140,6 +147,8 @@ http://www.justapinch.com/recipes/side/vegetable/curried-zucchini-couscous.html
 http://www.foodnetwork.com/recipes/crispy-whole-trout-with-curried-zucchini-couscous-recipe.html
 http://www.foodandwine.com/recipes/chicken-and-zucchini-couscous
 http://www.foodandwine.com/recipes/couscous-salad-with-zucchini-and-roasted-almonds
+
+sauteed cauliflower. cut cauliflower, pulse in food processor, until rice size pieces. saute onion with shallot, garlic cloves, in olive oil. add cauliflower, sea salt and black pepper. add lime juice, cilantro. mix and saute until tender.
 
 lentil stew. heat olive oil in large pot. add one diced onion and four cloves minced garlic. add two diced celery stalks and two diced carrots. add one diced red pepper, one diced green bell pepper, one diced zucchini and one diced egg plant. add salt and black pepper. add ts chili powder, ts red pepper flakes, tbs cumin, two ts smoked paprika. mix in 2 c lentils. add 1 c red wine, 2 c water, 6 c crushed or diced tomato. heat to boil. reduce heat and simmer, 40 minutes. stir. add more water if needed. mix in cooked beans. simmer, 15 minutes. serve with cilantro.
 
@@ -289,6 +298,12 @@ butternut squash
 https://www.splendidtable.org/story/2016/12/28/marinated-portobello-mushroom-sandwich
 "The Gourmet Kitchen: Recipes from the Creator of Savory Simple", Jennifer Farley
 
+brown butter polenta recipe from Hans Butler at cporganics.com - butter, onion, water, polenta, thyme, bay leaf, salt, pepper, could substitute water with chicken stock
+http://www.cporganics.com/blog/recipe
+
+brown butter polenta recipe from Catherine Newman at benandbirdy
+http://benandbirdy.blogspot.com/2017/03/brown-butter-polenta.html
+
 corn bread
 organic whole grain yellow milled corn, all purpose flour, sugar, baking soda, oil or butter, eggs, milk
 combine 16 oz corn, 8 oz flour, 4 oz sugar, ts bake soda in bowl. whisk two eggs in separate bowl. add 500 mL milk and 100 mL oil (or melted butter) to eggs. mix wet with dry. add more milk if necessary, to make smooth batter. put batter in greased pan or muffin cups. bake 20 minutes, 375 F.
@@ -356,6 +371,11 @@ chickpeas, garlic, lemon juice, cumin or smoked paprika, sesame seeds, olive oil
 garlic cloves and 100 mL water in blender, pulse, add 16 oz garbanzo beans, two tbs tahini sesame paste, lemon juice, ts tamari, ts cumin, ts coriander, ts cayenne, blend until smooth. serve with parsley.
 
 hummus, with green olives cut in small pieces
+
+tabbouleh
+https://www.wholefoodsmarket.com/recipes/hemp-seed-tabbouleh
+https://www.nutiva.com/kitchen/hempseed-tabbouleh-salad/
+^ dead link to tabbouleh salad at nutiva.com
 
 turkey leg. marinate in water with salt and sugar. bake 60 minutes, 400 F.
 https://cooking.nytimes.com/recipes/1013590-roasted-turkey-drumsticks-with-star-anise-and-soy-sauce
