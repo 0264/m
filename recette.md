@@ -338,6 +338,8 @@ https://www.bonappetit.com/recipe/creamy-one-pot-pasta-with-peas-and-mint
 
 https://cooking.nytimes.com/recipes/1017392-pasta-primavera-with-asparagus-and-peas
 
+saute green peas with red onions, butter, lemon juice, salt and black pepper
+
 Lemon Tahini Cabbage Slaw
 https://cooking.nytimes.com/recipes/1022215-lemon-tahini-slaw
 
@@ -431,4 +433,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-================================================================================
+========================
