@@ -47,6 +47,7 @@ San Francisco style Vietnamese American Garlic Noodles
 pasta noodles, garlic, butter, fish sauce, oyster sauce, soy sauce, Parmesan cheese, broccoli
 
 broccoli recipes in New York Times
+broccoli with fresno chile, garlic cloves, anchovies, salt and lemon
 
 https://www.smithsonianmag.com/travel/naples-pizza-original-fast-food-180976992
 ^ Francesco Lastrucci
@@ -83,6 +84,8 @@ braise: fry lightly and then stew slowly in closed container
 
 brown rice
 tofu and broccoli with rice, Kay Chun recipe in NYT
+
+https://www.nytimes.com/2022/02/25/dining/weeknight-rice-recipes.html
 
 bread crumbs, Parmesan cheese, anchovy, oil of olives, spaghetti
 
@@ -177,6 +180,9 @@ https://en.wikipedia.org/wiki/biscotti
 
 walnut banana chocolate oat cookie, "Banana Everything Cookies", recipe in NYT Cooking
 
+cranberry and orange quick bread
+heat oven to 350 F. butter loaf pan 8 x 4 inches. in bowl one, mix 12 oz all purpose flour, 4 oz whole wheat flour, ts bake powder, ts bake soda, ts salt, orange zest. in bowl two, mix 2 eggs, 4 oz oil, 4 oz yogurt, 4 oz orange juice. mix bowls one and two. add 12 oz cranberries. bake 45-55 minutes, test with wood skewer to see if cooked completely.
+
 banana breads, crackly banana bread with millet
 https://smittenkitchen.com/2012/09/crackly-banana-bread
 use honey, bake bread
@@ -205,6 +211,7 @@ https://www.kingarthurbaking.com/recipes/sourdough-banana-bread-recipe
 
 https://www.kingarthurbaking.com/recipes/crunchy-whole-grain-chocolate-chip-cookies-recipe
 https://www.nytimes.com/2022/02/11/dining/chocolate-chips-baking.html
+salted butter, honey, eggs, wheat flour, chocolate chips, bake soda
 
 butter two bake sheets, in large bowl mix 8 oz sugar, 0.5 c butter, salt tsp, vanilla tsp, almond extract tsp, cider or white vinegar tsp, and bake soda tsp, add one egg and mix to combine, mix in 16 oz all purpose flour and 16 oz chocolate chips, refrigerate, spoon balls of dough on to prepared bake sheets, bake 12 minutes, 375 F
 
@@ -277,6 +284,7 @@ boil large pot of salted water, add 22 oz frozen tortellini from Whole Foods, st
 one pot pasta with spinach and sausage, Yasmin Fahr, NYTimes
 
 beet slaw with pistachio and raisins, in book "Six Seasons"
+beet salad
 
 avocado, cucumber, and mint soup, in book "Soup For Syria"
 
@@ -433,4 +441,4 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-========================
+=====
