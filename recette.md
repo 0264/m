@@ -209,6 +209,10 @@ https://www.kingarthurbaking.com/recipes/collections/sourdough-discard-recipes
 
 https://www.kingarthurbaking.com/recipes/sourdough-banana-bread-recipe
 
+https://www.kingarthurbaking.com/recipes/sourdough-starter-recipe
+
+https://en.wikipedia.org/wiki/sourdough
+
 https://www.kingarthurbaking.com/recipes/crunchy-whole-grain-chocolate-chip-cookies-recipe
 https://www.nytimes.com/2022/02/11/dining/chocolate-chips-baking.html
 salted butter, honey, eggs, wheat flour, chocolate chips, bake soda
@@ -319,6 +323,8 @@ organic whole grain yellow milled corn, all purpose flour, sugar, baking soda, o
 combine 16 oz corn, 8 oz flour, 4 oz sugar, ts bake soda in bowl. whisk two eggs in separate bowl. add 500 mL milk and 100 mL oil (or melted butter) to eggs. mix wet with dry. add more milk if necessary, to make smooth batter. put batter in greased pan or muffin cups. bake 20 minutes, 375 F.
 
 spicy bean chili with corn bread
+
+green beans and corn bread
 
 NYT Cooking recipes, vegetarian skillet chili
 
