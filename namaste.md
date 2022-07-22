@@ -32,6 +32,8 @@
 |      |                                                    |                            |
 |12 53 | stretch neck and shoulder with David - strap       | https://vimeo.com/14057532 |
 |      |                                                    |                            |
+|13 11 |                    | [Guy Friswell](https://www.youtube.com/watch?v=UxFhUj2h1KU)|
+|      |                                                    |                            |
 |13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
 |      |                                                    |                            |
 |14 35 | yoga with Crista                                   | https://vimeo.com/186502370|
@@ -108,6 +110,8 @@
 |      |                                                    |                            |
 |23 01 | :zap: create heat and stronger arms with FIJI <<<< | https://vimeo.com/134311766|
 |      |                                                    |                            |
+|23 14 |                    | [Guy Friswell](https://www.youtube.com/watch?v=ve2moLlx1XY)|
+|      |                                                    |                            |
 |23 33 | slow flow standing mountain pose with Satiya       | https://vimeo.com/250339948|
 |      |                                                    |                            |
 |23 37 | :zap: morning wake and move with Ron <<<<<<<<<<<<< | https://vimeo.com/196930083|
@@ -117,6 +121,8 @@
 |23 47 | strong core and arm balance with FIJI - block      | https://vimeo.com/221339254|
 |      |                                                    |                            |
 |23 49 | :zap: sweet stretches for runner with FIJI <<<<<<< | https://vimeo.com/27568754 |
+|      |                                                    |                            |
+|24 11 |                    | [Guy Friswell](https://www.youtube.com/watch?v=r9TlN5NYMhA)|
 |      |                                                    |                            |
 |24 22 | |[rhythm routine with FIJI](https://doyogawithme.com/content/rhythm-and-routine)|
 |      |                                                    |                            |
@@ -152,6 +158,8 @@
 |      |                                                    |                            |
 |27 52 | seated slow move and stretch with Satiya           | https://vimeo.com/273991189|
 |      |                                                    |                            |
+|28 07 |                    | [Guy Friswell](https://www.youtube.com/watch?v=hwKAYjo8Mlw)|
+|      |                                                    |                            |
 |28 27 | seated stretch hip leg spine with Satiya - pillow  | https://vimeo.com/159752410|
 |      |                                                    |                            |
 |28 36 |                   | [yoga with FIJI](https://www.doyogawithme.com/yummy-30-yoga)|
@@ -164,11 +172,15 @@
 |      |                                                    |                            |
 |29 27 | seated slow flow for sleep with Melissa            | https://vimeo.com/133616675|
 |      |                                                    |                            |
+|29 37 |                    | [Guy Friswell](https://www.youtube.com/watch?v=jUUGLkJrgMo)|
+|      |                                                    |                            |
 |30 03 |   | [slow standing poses with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
 |      |                                                    |                            |
 |30 22 | slow flow for the spine with Sarah Jane            | https://vimeo.com/222297348|
 |      |                                                    |                            |
 |30 39 | :zap: strengthen and lengthen with Anastasia <<<<< | https://vimeo.com/99794823 |
+|      |                                                    |                            |
+|30 43 |                    | [Guy Friswell](https://www.youtube.com/watch?v=JljQ-bep1d0)|
 |      |                                                    |                            |
 |31 36 | | [core and arms with Rachel](https://doyogawithme.com/content/30-minutes-power)|
 |      |                                                    |                            |
@@ -217,6 +229,8 @@
 |36 08 | slow stretch with David - strap, pillows, wall     | https://vimeo.com/25751154 |
 |      |                                                    |                            |
 |36 08 |  | [move and twist with Ron](https://www.doyogawithme.com/content/freedom-wings)|
+|      |                                                    |                            |
+|36 08 |         | [move and twist with Ron](https://www.youtube.com/watch?v=tPiNhvwtazQ)|
 |      |                                                    |                            |
 |36 12 | :zap: birds of a feather with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/198289713|
 |      |                                                    |                            |
@@ -278,7 +292,7 @@
 |      |                                                    |                            |
 |42 00 | :zap: slow extended holds, Sarah Jane - pillow <<< | https://vimeo.com/171049915|
 |      |                                                    |                            |
-|42 03 | bed time yoga with Sarah Jane                      | https://vimeo.com/199225832|
+|42 03 | bed time yoga with Sarah Jane - pillow, bolster    | https://vimeo.com/199225832|
 |      |                                                    |                            |
 |42 05 | stretch hip flexor with Rachel                     | https://vimeo.com/237208952|
 |      |                                                    |                            |
@@ -307,6 +321,8 @@
 |45 04 | seated whole body flow with David                  | https://vimeo.com/34727879 |
 |      |                                                    |                            |
 |45 04 | |[seat flow](https://doyogawithme.com/content/seated-whole-body-hatha-yoga-flow)|
+|      |                                                    |                            |
+|45 05 |                    | [Guy Friswell](https://www.youtube.com/watch?v=PQoa3iXOrt8)|
 |      |                                                    |                            |
 |45 25 | yoga with Sarah Jane                               | https://vimeo.com/253911525|
 |      |                                                    |                            |
@@ -339,6 +355,8 @@
 |48 57 | deepening relaxation with Satiya                   | https://vimeo.com/178224077|
 |      |                                                    |                            |
 |49 03 | hatha yoga for grounding with Melissa              | https://vimeo.com/196114916|
+|      |                                                    |                            |
+|49 03 |                    | [Guy Friswell](https://www.youtube.com/watch?v=W8Yx-4Eh0YQ)|
 |      |                                                    |                            |
 |49 09 | challenge your body with David                     | https://vimeo.com/20654426 |
 |      |                                                    |                            |
