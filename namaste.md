@@ -72,7 +72,7 @@
 |      |                                                    |                            |
 |19 46 | :zap: vinyasa for vitality with FIJI <<<<<<<<<<<<< | https://vimeo.com/140254357|
 |      |                                                    |                            |
-|19 51 | after work yoga with Rachel                        | https://vimeo.com/121058388|
+|19 51 | quick flow, end slow, after work yoga with Rachel  | https://vimeo.com/121058388|
 |      |                                                    |                            |
 |19 52 | sun salutations with Melissa                       | https://vimeo.com/109174450|
 |      |                                                    |                            |
@@ -190,7 +190,7 @@
 |      |                                                    |                            |
 |32 07 | stretch lower back with David - strap              | https://vimeo.com/266925551|
 |      |                                                    |                            |
-|32 28 | activated asana | [FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
+|32 28 | :zap: activated asana | [FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
 |      |                                                    |                            |
 |32 29 | inner dancer with Tracey - pillow                  | https://vimeo.com/128877500|
 |      |                                                    |                            |
