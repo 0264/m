@@ -1,7 +1,7 @@
 recipes for plant based diet
 lunch ideas...
 bread + hummus + black pepper + carrot + avocado + cucumber + paper bag + banana + prunes + nuts + apple
-bread with peanut butter, honey, sunflower seeds, banana slices, raisins, cinnamon
+bread with peanut butter, honey, sunflower seeds, banana slices, raisins, cinnamon in brown bag
 
 vegetable soup; small macaroni shells, green beans, tomato, carrots, leeks, chickpeas or garbanzo beans, red kidney beans, garlic and onions, celery, potato, black pepper, sea salt
 
@@ -98,6 +98,10 @@ pad thai. place rice noodles in water, 30 minutes. cook rice noodles in boiling 
 pad thai. garlic, tofu, eggs, noodles, peanuts, bean sprouts, lime; can substitute rice for noodles
 http://www.npr.org/2011/05/10/136176692/pad-thai-thai-fried-noodles
 
+The mung bean is a plant species in the legume family.
+
+https://tworedbowls.com/2022/01/26/supreme-soy-sauce-chow-mein
+
 braise: fry lightly and then stew slowly in closed container
 
 brown rice
@@ -117,7 +121,7 @@ red pepper flakes, tsp
 shiitake mushrooms, 16 ounces, quartered
 broccoli florets, 16 ounces
 sweet red pepper, diced
-fennel bulb, cut in strips
+fennel bulb, cut in small pieces
 flat leaf parsely, quarter cup, coarsely chopped
 ricotta salata cheese or feta cheese, 16 ounces
 
@@ -187,6 +191,7 @@ https://www.nytimes.com/2022/10/05/dining/cauliflower-soup.html
 cauliflower soup, Melissa Clark
 
 NYT cooking has several recipes for lentils.
+https://cooking.nytimes.com/search?q=lentils
 
 lentil stew. heat olive oil in large pot. add one diced onion and four cloves minced garlic. add two diced celery stalks and two diced carrots. add one diced red pepper, one diced green bell pepper, one diced zucchini and one diced egg plant. add salt and black pepper. add ts chili powder, ts red pepper flakes, tbs cumin, two ts smoked paprika. mix in 2 c lentils. add 1 c red wine, 2 c water, 6 c crushed or diced tomato. heat to boil. reduce heat and simmer, 40 minutes. stir. add more water if needed. mix in cooked beans. simmer, 15 minutes. serve with cilantro.
 
@@ -299,6 +304,8 @@ bake 15 minutes, 425 F. bake 40 minutes, 350 F. cool pie before serve.
 muffins, sunflower seeds, use recipe for whole grain blueberry muffins in nytimes, wheat flour, corn flour...
 https://cooking.nytimes.com/tag/sunflower%20seeds
 
+blueberry muffins, eggs, bake powder
+
 https://www.kingarthurbaking.com/recipes/carrot-muffins-recipe
 
 https://www.williams-sonoma.com/recipe/blackberry-muffins.html
@@ -373,6 +380,7 @@ farro and lentils with onions, NYT recipe box
 
 https://en.wikipedia.org/wiki/Cucurbita_moschata
 butternut squash
+https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html
 
 https://www.splendidtable.org/story/2016/12/28/marinated-portobello-mushroom-sandwich
 "The Gourmet Kitchen: Recipes from the Creator of Savory Simple", Jennifer Farley
@@ -387,10 +395,98 @@ corn bread
 organic whole grain yellow milled corn, all purpose flour, sugar, baking soda, oil or butter, eggs, milk
 combine 16 oz corn, 8 oz flour, 4 oz sugar, ts bake soda in bowl. whisk two eggs in separate bowl. add 500 mL milk and 100 mL oil (or melted butter) to eggs. mix wet with dry. add more milk if necessary, to make smooth batter. put batter in greased pan or muffin cups. bake 20 minutes, 375 F.
 
+corn bread. organic whole grain yellow corn meal flour, all purpose flour, sugar, bake soda, oil or melted butter, eggs, milk. combine 16 oz corn flour, 8 oz wheat flour, 4 oz sugar, ts bake soda in bowl. whisk two eggs in separate bowl. add 16 oz milk and 4 oz oil (or butter) to eggs. mix wet with dry. add more milk if necessary, to make smooth batter. transfer batter to greased pan or muffin cups. bake 20 minutes, 375 F.
+
 spicy bean chili with corn bread
 
 green beans and corn bread
+====================================================================================================
+corn bread
+http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
+^ August 2009
+http://www.peterandrewryan.com/baking/2009/01/corn-bread/
+^ January 2009
 
+corn bread
+Martha Rose Shulman, November 2009
+http://www.nytimes.com/2009/11/17/health/nutrition/17recipehealth.html
+
+vegan corn bread from GreenStar... organic cornmeal, soy milk, whole wheat flour, canola oil, maple syrup, sugar, apple cider vinegar, baking powder, sea salt
+
+September 2008, Bittman
+http://dinersjournal.blogs.nytimes.com/2008/09/26/recipe-of-the-day-cornbread/
+
+http://gothamist.com/2005/06/01/gothamist_cooks_kind_of_by_the_book_angelica_kitchens_cornbread.php
+http://domesticdharma.blogspot.com/2011/01/cookies-and-angelica-cornbread.html
+http://www.amateurgourmet.com/2006/01/where_do_vegeta.html
+http://hadleyholistics.wordpress.com/2009/01/23/angelica-cornbread/
+http://www.theidproject.org/blog/patrick-groneman/2010/08/03/inner-insight-angelica-cornbread-recipe
+http://newyork.seriouseats.com/2009/08/byob-of-the-week-angelica-kitchen-vegetarian-east-village-nyc.html
+http://angelicakitchen.com
+
+http://www.cooklocal.com/2010/02/12/cast-iron-garlic-and-cheese-cornbread/
+It was adapted, partly, from what looks like an interesting book, "The Cast Iron Skillet Cookbook: Recipes for the Best Pan in Your Kitchen", by Seattle based author Sharon Kramis.
+
+November 2009
+http://www.bonappetit.com/recipe/cornbread-with-bacon-crust
+
+http://www.seriouseats.com/recipes/2014/11/cheddar-bacon-scallion-cornbread-recipe.html
+
+http://www.eatboutique.com/2012/11/16/bacon-cheddar-cornbread/
+
+http://www.washingtonpost.com/pb/recipes/poblano-bacon-and-cheddar-skillet-corn-bread/13861/
+
+http://chubbyvegetarian.blogspot.com/2012/03/smoked-cheddar-and-jalapeno-cornbread.html
+The Chubby Vegetarian: 100 Inspired Vegetable Recipes for the Modern Table
+Justin Fox Burks and Amy Lawrence
+
+
+http://www.chattavore.com/2012/06/30/jalapeno-and-smoked-cheddar-cornbread/
+
+http://www.evilshenanigans.com/2009/05/chipotle-gouda-cornbread/
+
+http://www.seductioninthekitchen.com/2013/12/pacific-foods-bacon-green-onion-and.html
+
+http://www.creative-culinary.com/smoked-gouda-with-bacon-macaroni-and-cheese/
+
+http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
+
+http://eggsonsunday.wordpress.com/recipe-index/
+
+cornmeal, corn bread
+http://gianfortefarm.com/three-layer-corn-bread/
+
+The Corn Bread Matters Most - Sam Sifton
+http://www.nytimes.com/2012/04/01/magazine/the-corn-bread-matters-most.html
+http://www.nytimes.com/2012/04/01/magazine/east-coast-grill-corn-bread.html
+http://www.nytimes.com/2012/04/01/magazine/honey-with-red-pepper-flakes.html
+
+Corn Bread
+
+http://www.cooklocal.com/2010/02/12/cast-iron-garlic-and-cheese-cornbread/
+corn bread with garlic and cheese
+February 2010
+
+http://www.kingarthurflour.com/recipes/cornbread-recipe
+
+http://www.kingarthurflour.com/recipes/cornbread-recipe
+
+http://en.wikipedia.org/wiki/Cornbread
+
+http://www.bing.com/search?q=smitten+kitchen+corn+bread
+
+The Bread Baker's Apprentice: Mastering the Art of Extraordinary Bread
+
+http://www.100daysofrealfood.com/2014/02/18/recipe-skillet-cornbread/
+
+http://www.cooklocal.com/2010/02/12/cast-iron-garlic-and-cheese-cornbread/
+
+http://www.nytimes.com/2013/09/18/dining/going-vegan-if-only-for-a-day.html
+
+http://www.peterandrewryan.com/baking/2009/01/corn-bread/
+
+
+====================================================================================================
 NYT Cooking recipes, vegetarian skillet chili
 
 Quinoa and Black Bean Chili
@@ -479,12 +575,13 @@ put garlic cloves and 100mL water in blender, pulse, add 400mL garbanzo beans, t
 
 hummus, with green olives cut in small pieces
 
-^ more notes, ff hummus in /Users/monacell/2019
+https://cooking.nytimes.com/search?q=hummus
 
 tabbouleh
 https://www.wholefoodsmarket.com/recipes/hemp-seed-tabbouleh
 https://www.nutiva.com/kitchen/hempseed-tabbouleh-salad/
 ^ dead link to tabbouleh salad at nutiva.com
+https://cooking.nytimes.com/search?q=tabbouleh
 
 turkey leg. marinate in water with salt and sugar. bake 60 minutes, 400 F.
 https://cooking.nytimes.com/recipes/1013590-roasted-turkey-drumsticks-with-star-anise-and-soy-sauce
@@ -545,5 +642,5 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-==================================
+================
 
