@@ -13,7 +13,12 @@ red kidney beans soaked over night in cold water, covered. pour soaking water ou
 
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800 mL crushed or diced tomato, 32 oz water, 16 oz chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
 
+chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800mL crushed or diced tomato, one liter water, one liter chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
+
 miso soup, one pot miso soup, saute medium size onion in olive oil. add 8 oz thin sliced carrots or cabbage, saute, add 16 oz broth or water, can add tofu here, cover, simmer, 4 minutes, add two tbs miso, stir, simmer, 10 minutes
+
+soup...
+https://www.nytimes.com/recipes/1015426/onion-soup-gratin-and-eacute-e-with-cider.html
 
 link NYT recipes to recette
 Harira soup recipe, NYT Cooking
@@ -227,6 +232,8 @@ https://smittenkitchen.com/2015/11/parsley-pecorino-biscuits/
 
 https://en.wikipedia.org/wiki/biscotti
 
+chocolate mousse?
+
 chocolate brownies with walnuts
 
 walnut banana chocolate oat cookie, "Banana Everything Cookies", recipe in NYT Cooking
@@ -306,6 +313,8 @@ https://cooking.nytimes.com/tag/sunflower%20seeds
 
 blueberry muffins, eggs, bake powder
 
+https://www.kingarthurbaking.com/recipes/tahini-and-coconut-muffins-recipe
+
 https://www.kingarthurbaking.com/recipes/carrot-muffins-recipe
 
 https://www.williams-sonoma.com/recipe/blackberry-muffins.html
@@ -353,7 +362,7 @@ boil large pot of salted water, add 22 oz frozen tortellini from Whole Foods, st
 
 one pot pasta with spinach and sausage, Yasmin Fahr, NYTimes
 
-make pockets, flour pockets, use brush to coat pocket half one with oil olive, add filling of spinach, parsley, black pepper, crushed red pepper, blue cheese or feta cheese, cover filling with pocket half two and press press press, until pocket seals, coat pocket outside with oil olive, use rolling pin (and muscle) to roll out dough for more pockets, cook on ridged cast iron on stove top
+make pockets, flour pockets, use brush to coat pocket half one with oil olive, add filling of spinach, parsley, black pepper, crushed red pepper, blue cheese or feta cheese, cover filling with pocket half two and press press press, until pocket seals, coat pocket outside with oil olive, use rolling pin to roll out dough for more pockets, cook on ridged cast iron on stove top
 
 beet slaw with pistachio and raisins, in book "Six Seasons"
 beet salad
@@ -373,6 +382,8 @@ https://cooking.nytimes.com/recipes/1023051-spring-barley-soup
 
 baked barley risotto with mushrooms and carrots
 https://cooking.nytimes.com/recipes/1020031-baked-barley-risotto-with-mushrooms-and-carrots
+
+https://cooking.nytimes.com/recipes/1023361-risotto
 
 https://lideylikes.com/farro-risotto-with-squash-and-sage-gremolata
 
@@ -400,7 +411,10 @@ corn bread. organic whole grain yellow corn meal flour, all purpose flour, sugar
 spicy bean chili with corn bread
 
 green beans and corn bread
-====================================================================================================
+
+https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
+
+===========
 corn bread
 http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
 ^ August 2009
@@ -615,6 +629,8 @@ https://www.foodandwine.com/recipes/crunchy-vietnamese-chicken-salad
 
 Vietnamese cabbage salad recipe; NYT recipe; crunchy Vietnamese cabbage salad with pan seared tofu
 
+cabbage stir fry, NYT recipes, garlic and ginger, red pepper flakes, star anise, soy sauce, rice wine or sherry wine, oil peanuts, carrots, chives, cabbage, serve with rice or noodles
+
 pancakes recipe, squash fritter recipe, sweet potato biscuits recipe
 
 boiled egg
@@ -642,5 +658,5 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-================
+==============
 
