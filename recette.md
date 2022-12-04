@@ -3,6 +3,8 @@ lunch ideas...
 bread + hummus + black pepper + carrot + avocado + cucumber + paper bag + banana + prunes + nuts + apple
 bread with peanut butter, honey, sunflower seeds, banana slices, raisins, cinnamon in brown bag
 
+https://cooking.nytimes.com/recipe-box/all/highly-rated
+
 vegetable soup; small macaroni shells, green beans, tomato, carrots, leeks, chickpeas or garbanzo beans, red kidney beans, garlic and onions, celery, potato, black pepper, sea salt
 
 vegetable soup with red kidney beans, tomato, macaroni
@@ -416,7 +418,7 @@ green beans and corn bread
 
 https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
 
-===========
+====================
 corn bread
 http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
 ^ August 2009
