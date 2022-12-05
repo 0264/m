@@ -88,6 +88,8 @@
 |      |                                                    |                            |
 |20 38 | :zap: yoga for runner post-run with FIJI <<<<<<<<< | https://vimeo.com/26623677 |
 |      |                                                    |                            |
+|20 38 | * REVIEW     | [morning flow with Josh](https://youtube.com/watch?v=nEdm88qIHRc)|
+|      |                                                    |                            |
 |20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
 |      |                                                    |                            |
 |21 34 | slow flow and balance poses with Melissa           | https://vimeo.com/36525606 |
@@ -109,6 +111,8 @@
 |22 48 | slow sun salutations with David                    | https://vimeo.com/217843142|
 |      |                                                    |                            |
 |23 01 | :zap: create heat and stronger arms with FIJI <<<< | https://vimeo.com/134311766|
+|      |                                                    |                            |
+|23 06 | yoga with Melissa | [slow morning yoga](https://youtube.com/watch?v=HVwffh9hE7k)|
 |      |                                                    |                            |
 |23 14 |                    | [Guy Friswell](https://www.youtube.com/watch?v=ve2moLlx1XY)|
 |      |                                                    |                            |
@@ -254,7 +258,9 @@
 |      |                                                    |                            |
 |37 51 | posture, foundations, twists, ohm with FIJI        | https://vimeo.com/260063345|
 |      |                                                    |                            |
-|38 06 | sun rise yoga with Melissa                         | https://vimeo.com/131027707|
+|38 06 | sun rise yoga with Melissa * REVIEW                | https://vimeo.com/131027707|
+|      |                                                    |                            |
+|38 06 |                       | [sun rise yoga](https://youtube.com/watch?v=eaO6DKNcMKk)|
 |      |                                                    |                            |
 |38 25 | flow for shoulders with Anastasia                  | https://vimeo.com/105307839|
 |      |                                                    |                            |
@@ -320,7 +326,7 @@
 |      |                                                    |                            |
 |44 53 | power yoga with Ron                                | https://vimeo.com/147073037|
 |      |                                                    |                            |
-|45 04 | seated whole body flow with David                  | https://vimeo.com/34727879 |
+|45 04 | seated whole body stretch with David - strap       | https://vimeo.com/34727879 |
 |      |                                                    |                            |
 |45 04 |                                                  | https://youtu.be/xK7iPuDbf-M |
 |      |                                                    |                            |
@@ -426,7 +432,7 @@
 |      |                                                    |                            |
 |58 24 | wheel pose with FIJI                               | https://vimeo.com/192216565|
 |      |                                                    |                            |
-|58 31 | yoga for athletes with Michelle                    | https://vimeo.com/27871447 |
+|58 31 | yoga for athletes with Michelle * REVIEW           | https://vimeo.com/27871447 |
 |      |                                                    |                            |
 |58 54 | power flow and twist with FIJI                     | https://vimeo.com/43705755 |
 |      |                                                    |                            |
@@ -440,7 +446,7 @@
 |      |                                                    |                            |
 |61 39 | |[opening practice, Crista](https://doyogawithme.com/content/butterfly-practice)|
 |      |                                                    |                            |
-|61 41 | yoga for athletes with FIJI                        | https://vimeo.com/153376118|
+|61 41 | yoga for athletes with FIJI * REVIEW               | https://vimeo.com/153376118|
 |      |                                                    |                            |
 |61 53 | yoga for the spine with Anastasia                  | https://vimeo.com/193263846|
 |      |                                                    |                            |

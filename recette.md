@@ -503,8 +503,7 @@ http://www.nytimes.com/2013/09/18/dining/going-vegan-if-only-for-a-day.html
 
 http://www.peterandrewryan.com/baking/2009/01/corn-bread/
 
-
-====================================================================================================
+========================================================
 NYT Cooking recipes, vegetarian skillet chili
 
 Quinoa and Black Bean Chili
@@ -524,6 +523,7 @@ black rice, in separate pan
 
 coconut milk
 https://www.vitamix.com/us/en_us/recipes/coconut-milk
+https://cooking.nytimes.com/search?q=coconut
 
 https://mintersfarm.com/roasted-okra/
 
