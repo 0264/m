@@ -138,7 +138,7 @@
 |      |                                                    |                            |
 |25 13 | flow to side crow with Rachel                      | https://vimeo.com/137794750|
 |      |                                                    |                            |
-|25 15 | create heat and flow with Tracey                   | https://vimeo.com/174732366|
+|25 15 | :zap: create heat and flow with Tracey <<<<<<<<<<< | https://vimeo.com/174732366|
 |      |                                                    |                            |
 |26 32 | stretch IT band with David - strap wall block      | https://vimeo.com/14698987 |
 |      |                                                    |                            |
