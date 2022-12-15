@@ -42,7 +42,7 @@
 |      |                                                    |                            |
 |15 06 | focus on core! and low back with Rachel            | https://vimeo.com/155082780|
 |      |                                                    |                            |
-|15 22 |seated posture, desk/office worker|[with David](https://doyogawithme.com/content/office-yoga-ii)|
+|15 22 |seated posture, desk worker|[with David](https://doyogawithme.com/content/office-yoga-ii)|
 |      |                                                    |                            |
 |15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
 |      |                                                    |                            |
@@ -178,7 +178,7 @@
 |      |                                                    |                            |
 |29 27 | seated slow flow for sleep with Melissa            | https://vimeo.com/133616675|
 |      |                                                    |                            |
-|29 37 | stretch and strengthen hatha yoga | [Guy Friswell](https://youtube.com/watch?v=jUUGLkJrgMo)|
+|29 37 | stretching hatha yoga | [Guy Friswell](https://youtube.com/watch?v=jUUGLkJrgMo)|
 |      |                                                    |                            |
 |30 03 |   | [slow standing poses with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
 |      |                                                    |                            |
@@ -194,7 +194,7 @@
 |      |                                                    |                            |
 |32 07 | stretch lower back with David - strap              | https://vimeo.com/266925551|
 |      |                                                    |                            |
-|32 28 | :zap: activated asana | [FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
+|32 28 | :zap: activated | [FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
 |      |                                                    |                            |
 |32 29 | inner dancer with Tracey - pillow                  | https://vimeo.com/128877500|
 |      |                                                    |                            |
@@ -502,4 +502,3 @@
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
 |      |                                                    |                            |
-| | | [runner yoga](https://doyogawithme.com/programs/yoga-runners-improve-flexibility-and-performance)|
