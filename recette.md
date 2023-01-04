@@ -31,6 +31,8 @@ red bean salad
 
 macaroni shells, tomato, onions, basil
 
+https://cooking.nytimes.com/search?q=kale
+
 Quick Tomato, White Bean and Kale Soup Recipe, NYT
 
 https://www.nytimes.com/article/vegetarian-soup-stew-recipes-fall.html
@@ -51,6 +53,8 @@ black bean and corn salad. black beans, corn kernels, red onion slices, red bell
 https://www.wholefoodsmarket.com/recipe/sweet-corn-and-black-bean-salad
 
 corn and black beans, red bell pepper, garlic cloves, shallot or red onions, salt and cayenne pepper, olive oil and lime juice, cilantro, avocado
+
+white fish + oregano + salt + pepper + paprika
 
 oven baked fish with lemon juice, butter, herbs, black pepper
 
@@ -178,6 +182,11 @@ https://www.bbcgoodfood.com/recipes/chickpea-coriander-burgers
 https://www.bbcgoodfood.com/recipes/vegan-meatballs
 black beans
 
+http://inspiralized.com/2014/07/01/vegan-lemongrass-thai-green-curry-soup-with-zucchini-noodles
+http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup
+https://www.ming.com/food-and-wine/recipes/season-1/lemongrass-coconut-chicken-soup.htm
+http://chefmichaelsmith.com/recipe/thai-coconut-curry-soup/
+
 couscous vegan stew with chickpeas, zucchini and pepper
 https://www.twincities.com/2019/07/04/how-cooking-for-charity-made-me-a-better-cook-at-home/
 Julia Turshen
@@ -290,6 +299,10 @@ salted butter, honey, eggs, wheat flour, chocolate chips, bake soda
 
 butter two bake sheets, in large bowl mix 8 oz sugar, 0.5 c butter, salt tsp, vanilla tsp, almond extract tsp, cider or white vinegar tsp, and bake soda tsp, add one egg and mix to combine, mix in 16 oz all purpose flour and 16 oz chocolate chips, refrigerate, spoon balls of dough on to prepared bake sheets, bake 12 minutes, 375 F
 
+cookies. heat oven to 375 F. mix 16 oz all purpose flour, ts bake soda and ts salt. separately, mix two sticks butter, 6 oz sugar, 6 oz brown sugar. add two ts vanilla and two eggs. combine bowls. mix in 10 oz chocolate chips, 8 oz walnuts or pecans. form balls, place on greased bake sheet. bake 10 minutes, 375 F.
+
+cookies. mix 8 oz sugar, 8 oz brown sugar, one stick butter, 2 oz tahini in bowl. add egg and two ts vanilla. separately, mix 10 oz flour, ts bake soda, ts salt. combine bowls. mix in 16 oz chocolate chips and two tbs sesame seeds. chill 4 hours or over night. form balls. place on greased bake sheet spaced two inches apart. bake between 9 and 12 minutes, 325 F.
+
 https://twitter.com/nedsegal/status/1021894653656723456
 chocolate chip cookie recipe
 
@@ -305,6 +318,8 @@ flour, bake soda, salt, clove, ginger, cinnamon, butter, sugar, molasses, egg
 melt 4 oz butter and let cool. mix 16 oz flour, two ts bake soda, ts salt, ts clove, ts ginger, ts cinnamon in bowl. whisk egg then add 4 oz sugar and 2 oz molasses. combine wet and dry. add melted butter. shape in small balls. press each ball down to make cookie shape. bake 375 F, 8 minutes.
 
 https://www.kingarthurbaking.com/recipes/crisp-molasses-cookies-recipe
+
+ginger cookies, mix one stick butter, 4 oz brown sugar, 2 oz molasses, ts vanilla in bowl. whisk in one egg. in bowl two, mix 16 oz flour, ts ginger powder, ts bake powder, ts cinnamon, ts nutmeg and ts salt. combine bowls. chill at least one hour or over night. heat oven to 350 F. lightly flour work surface. roll out dough to 1/4 inch thick and cut out cookies. transfer cookies to paper lined bake sheet and space 1 inch apart. bake 10 or 12 minutes. store in container. wfm.com/recipes
 
 pumpkin pie
 12 oz evaporated milk or half and half or heavy cream or substitute with 16 oz milk reduced in low boil
@@ -358,6 +373,7 @@ whole wheat bread: wheat flour, barley flour, water, sunflower olio, honey, salt
 Helen pineapple cookie recipe?
 
 https://en.wikipedia.org/wiki/pizzelle
+waffle cookies
 
 original plum torte
 https://cooking.nytimes.com/recipes/3783-original-plum-torte
@@ -391,11 +407,14 @@ https://cooking.nytimes.com/recipes/1023361-risotto
 
 https://lideylikes.com/farro-risotto-with-squash-and-sage-gremolata
 
+https://smittenkitchen.com/2012/10/butternut-squash-salad-with-farro-and-pepitas
+
 farro and lentils with onions, NYT recipe box
 
 https://en.wikipedia.org/wiki/Cucurbita_moschata
 butternut squash
 https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html
+http://kitchen.nutiva.com/raw-butternut-squash-carrot-soup-recipe
 
 https://www.splendidtable.org/story/2016/12/28/marinated-portobello-mushroom-sandwich
 "The Gourmet Kitchen: Recipes from the Creator of Savory Simple", Jennifer Farley
@@ -417,8 +436,11 @@ spicy bean chili with corn bread
 green beans and corn bread
 
 https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread
+brown butter corn bread in cast iron skillet
 
-====================
+mix 16 oz cornmeal with 12 oz butter milk in large bowl. let sit for 30 - 45 minutes. preheat 10 inch cast iron skillet in oven at 425 F. mix 8 oz yogurt or sour cream with two eggs, 4 oz melted butter, two ts bake powder, ts salt, ts bake soda. combine bowls. butter skillet. add prepared mix to skillet. bake 25 minutes, 375 F. bobsredmill.com
+
+===
 corn bread
 http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
 ^ August 2009
@@ -503,7 +525,7 @@ http://www.nytimes.com/2013/09/18/dining/going-vegan-if-only-for-a-day.html
 
 http://www.peterandrewryan.com/baking/2009/01/corn-bread/
 
-========================================================
+===
 NYT Cooking recipes, vegetarian skillet chili
 
 Quinoa and Black Bean Chili
@@ -557,6 +579,7 @@ https://www.nytimes.com/2022/07/14/world/europe/france-mustard-shortage-dijon.ht
 A smoothie is a thick, smooth drink of fresh fruit pureed with milk, yogurt, or ice cream.
 smoothies
 https://www.vitamix.com/us/en_us/articles/power-packed-smoothie-recipes
+smoothie, milk coconuts, blackberries or blueberries, plant based protein powder
 
 make iced tea and use freezer for cooling
 
@@ -565,6 +588,13 @@ run_fast_eat_slow_Ginger_molasses_Granola.PNG
 https://cooking.nytimes.com/recipes/1014414-granola
 ^ oats, oat bran, coconut chips, almonds, pecans, cashews, dried fruits, honey
 
+organic pistachio mulberry granola with whole rolled oats, agave syrup, sunflower seeds, palm fruit oils, pistachios, sesame seeds, coconuts, mulberries, raisins, sea salt
+
+pecan currant granola "Three Flowers", organic rolled oats, coconuts, honey, pecans, walnuts, currants, canola oils, well water, vanillas, cinnamon
+
+Coconut Granola Bars, October 2011
+http://www.nytimes.com/2011/10/07/health/nutrition/07recipehealth.html
+
 over night oats, oats, maple syrup, cinnamon, milk, pecans
 
 https://www.nytimes.com/1983/01/05/garden/the-flavor-of-the-brown-bag-way-of-life.html
@@ -572,7 +602,7 @@ January 1983, Samuel G. Freedman
 
 pine nuts, sesame seeds, tahini
 hummus, chickpeas, tahini sesame seeds, garlic cloves, salt
-hummus, blender, 3 oz tahini + 4 oz water + 2 oz lemon juice + 4 garlic cloves + salt + paprika + two tbs parsley + tbs olive oil + 16 oz cooked chick peas
+hummus, blender, 3 oz tahini + 4 oz water + 2 oz lemon or lime juice + 4 garlic cloves + salt + paprika + two tbs parsley + tbs olive oil + 16 oz cooked chick peas
 
 https://www.audubon.org/news/mark-bittman-recipe-hummus-pita-and-greens
 chickpeas, garlic, lemon juice, cumin or smoked paprika, sesame seeds, olive oil
@@ -662,5 +692,5 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-==============
+===================================
 
