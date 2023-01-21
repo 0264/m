@@ -3,7 +3,7 @@ lunch ideas...
 bread + hummus + black pepper + carrot + avocado + cucumber + paper bag + banana + prunes + nuts + apple
 bread with peanut butter, honey, sunflower seeds, banana slices, raisins, cinnamon in brown bag
 
-https://cooking.nytimes.com/recipe-box/all/highly-rated
+https://cooking.nytimes.com/recipe-box/all/highly_rated
 
 vegetable soup; small macaroni shells, green beans, tomato, carrots, leeks, chickpeas or garbanzo beans, red kidney beans, garlic and onions, celery, potato, black pepper, sea salt
 
@@ -18,6 +18,8 @@ chickpea soup. heat olive oil in large pot. add one diced onion and six cloves m
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800mL crushed or diced tomato, one liter water, one liter chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
 
 miso soup, one pot miso soup, saute medium size onion in olive oil. add 8 oz thin sliced carrots or cabbage, saute, add 16 oz broth or water, can add tofu here, cover, simmer, 4 minutes, add two tbs miso, stir, simmer, 10 minutes
+
+https://cooking.nytimes.com/recipes/1023790-carrot-leek-soup-with-miso
 
 soup...
 https://www.nytimes.com/recipes/1015426/onion-soup-gratin-and-eacute-e-with-cider.html
@@ -141,6 +143,8 @@ broccoli and fennel in boiling salted water, 4 minutes, reserve water, cook penn
 oat nut pancakes. flour, oats, salt, baking powder, cinnamon, nutmeg, walnuts, pecans, milk, veg oil, maple syrup; in bowl one, 8 oz flour, 4 oz quick oats or oat flour, ts salt, two ts bake powder, ts cinnamon, ts nutmeg. add 4 oz crushed walnuts or pecans, broken in small pieces. mix. in bowl two, 300 mL cow/soy milk, tbs veg oil, tbs maple syrup or sugar, eggs. whisk. make well in dry ingredients and add combined wet ingredients. stir until combined. recipe adapted from Moosewood Restaurant New Classics
 
 pancakes. 8 oz flour, ts bake soda, ts salt, two tb sugar. four eggs, 8 oz cottage cheese, 100 mL milk, two tbs veg oil. combine dry and wet. cook on low heat.
+
+https://www.kingarthurbaking.com/recipes/classic-sourdough-waffles-or-pancakes-recipe
 
 brown butter beans with lemon and pesto
 https://www.nytimes.com/2021/02/12/dining/beans-brown-butter-recipe.html
@@ -692,5 +696,5 @@ three cups ........... 24 oz
 
 ts .... tea spoon
 tbs ... table spoon
-===================================
+
 

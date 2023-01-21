@@ -104,6 +104,8 @@
 |      |                                                    |                            |
 |22 08 | :zap: yoga for runner pre-run with FIJI            | https://vimeo.com/26634653 |
 |      |                                                    |                            |
+|22 29 | power yoga to wake up with Crista                  | https://vimeo.com/168710172|
+|      |                                                    |                            |
 |22 45 | :zap: arm strength with Melissa - pillow <<<<<<<<< | https://vimeo.com/36428350 |
 |      |                                                    |                            |
 |22 46 | :zap: morning flow not slow with Sarah Jane <<<<<< | https://vimeo.com/199863587|
@@ -399,6 +401,8 @@
 |50 34 |  | [yoga with Melissa](https://doyogawithme.com/content/hatha-yoga-self-care-2) |
 |      |                                                    |                            |
 |50 35 | chakra flow with FIJI                              | https://vimeo.com/240918508|
+|      |                                                    |                            |
+|50 54 | open your hips and fly with Crista                 | https://vimeo.com/167377808|
 |      |                                                    |                            |
 |52 02 | bow pose with Rachel                               | https://vimeo.com/228923026|
 |      |                                                    |                            |
