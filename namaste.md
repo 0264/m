@@ -78,7 +78,7 @@
 |      |                                                    |                            |
 |19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
 |      |                                                    |                            |
-|20 01 | :zap: morning wake up and flow with FIJI <<<<<<<<< | https://vimeo.com/198281418|
+|20 01 | :zap: morning wake up and flow, not slow, with FIJI| https://vimeo.com/198281418|
 |      |                                                    |                            |
 |20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
 |      |                                                    |                            |
