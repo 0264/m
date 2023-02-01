@@ -88,7 +88,7 @@
 |      |                                                    |                            |
 |20 38 | :zap: yoga for runner post-run with FIJI <<<<<<<<< | https://vimeo.com/26623677 |
 |      |                                                    |                            |
-|20 38 | * REVIEW     | [morning flow with Josh](https://youtube.com/watch?v=nEdm88qIHRc)|
+|20 38 | morning slow flow with Josh            |[youtu.be](https://youtu.be/nEdm88qIHRc)|
 |      |                                                    |                            |
 |20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
 |      |                                                    |                            |
