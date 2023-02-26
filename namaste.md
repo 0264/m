@@ -70,7 +70,7 @@
 |      |                                                    |                            |
 |19 19 | :zap: seated leg + low back stretch with David <<< | https://vimeo.com/182615304|
 |      |                                                    |                            |
-|19 46 | :zap: vinyasa for vitality with FIJI <<<<<<<<<<<<< | https://vimeo.com/140254357|
+|19 46 | :zap: vigorous vinyasa for vitality with FIJI <<<< | https://vimeo.com/140254357|
 |      |                                                    |                            |
 |19 51 | quick flow, end slow, after work yoga with Rachel  | https://vimeo.com/121058388|
 |      |                                                    |                            |
@@ -212,7 +212,7 @@
 |      |                                                    |                            |
 |33 20 | half hour class for shoulders with David           | https://vimeo.com/17624804 |
 |      |                                                    |                            |
-|33 27 | yoga with FIJI                                     | https://vimeo.com/106440999|
+|33 27 | post natal yoga and back to the mat with FIJI      | https://vimeo.com/106440999|
 |      |                                                    |                            |
 |33 41 | slow flow, grounded and rooted with FIJI           | https://vimeo.com/202971704|
 |      |                                                    |                            |
