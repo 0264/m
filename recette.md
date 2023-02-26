@@ -9,6 +9,8 @@ vegetable soup; small macaroni shells, green beans, tomato, carrots, leeks, chic
 
 vegetable soup with red kidney beans, tomato, macaroni
 
+soup with green beans, zucchini and tomato, garlic and red kidney beans, and elbow macaroni
+
 ^ recette.PDF marker
 
 red kidney beans soaked over night in cold water, covered. pour soaking water out and add fresh water. cook on low heat for 90 minutes. add onions, bell pepper, garlic cloves, salt. cook on low heat. add tomato sauce. cook on low heat. serve beans over rice.
@@ -17,12 +19,33 @@ chickpea soup. heat olive oil in large pot. add one diced onion and six cloves m
 
 chickpea soup. heat olive oil in large pot. add one diced onion and six cloves minced garlic. add three diced celery stalks and two diced carrots. stir, cook. add ts cinnamon, ts cumin, ts cayenne pepper, ts sweet paprika. mix and cook. add 800mL crushed or diced tomato, one liter water, one liter chickpeas. mix. add more water if necessary. heat to boil then reduce heat and simmer. move off heat. mix in two hand fulls of spinach and serve with black pepper, salt and olive oil.
 
+https://cooking.nytimes.com/recipes/1020874-lablabi-tunision-chickpea-soup
+
 miso soup, one pot miso soup, saute medium size onion in olive oil. add 8 oz thin sliced carrots or cabbage, saute, add 16 oz broth or water, can add tofu here, cover, simmer, 4 minutes, add two tbs miso, stir, simmer, 10 minutes
+
+https://cooking.nytimes.com/recipes/1023468-miso-soup
+
+https://cooking.nytimes.com/recipes/1022862-brothy-thai-curry-with-silken-tofu-and-herbs
+
+https://cooking.nytimes.com/recipes/1018985-winter-squash-and-wild-mushroom-curry
 
 https://cooking.nytimes.com/recipes/1023790-carrot-leek-soup-with-miso
 
+split pea soup
+https://cooking.nytimes.com/recipes/1019881-split-pea-soup
+
+https://cooking.nytimes.com/recipes/1023009-creamy-broccoli-soup
+
+vegetable soup with onions, carrots, celery, kale
+https://www.isabeleats.com/winter-kale-vegetable-soup
+
+https://ediblenashville.ediblecommunities.com/recipes/peanut-butter-miso-cookies
+https://cooking.nytimes.com/recipes/1020538-peanut-butter-miso-cookies
+
 soup...
 https://www.nytimes.com/recipes/1015426/onion-soup-gratin-and-eacute-e-with-cider.html
+
+https://cooking.nytimes.com/recipes/1023801-caldo-verde-potato-and-greens-soup-with-sausage
 
 link NYT recipes to recette
 Harira soup recipe, NYT Cooking
@@ -41,15 +64,24 @@ https://www.nytimes.com/article/vegetarian-soup-stew-recipes-fall.html
 broth vegetable, water, carrots, celery, onions, leeks, tomato, mushrooms, garlic and sea salt
 peppers, parsley
 
+https://cooking.nytimes.com/recipes/1015198-fresh-and-wild-mushroom-stew
+
 carrot and onion soup, from Lappe, Diet For Small Planet
 http://abacus.bates.edu/acad/depts/biobook/vegetarian.pdf
 
 roasted carrots with carrot top pesto
 https://www.bonappetit.com/recipe/roasted-carrots-with-carrot-top-pesto
 
+roasted carrots with peanuts, recipe from Melissa Clark [cooking.nytimes.com]
+
 bean stew. heat two tbs olive oil in large pan. saute diced yellow onion. add garlic cloves, ts cumin, two ts oregano, ts smoked paprika, ts chipotle powder. saute one minute, then add three tbs tomato paste, mix well. add 16 oz diced tomato, tbs soy sauce, 2 oz water. simmer 15 minutes, add water if too dry. add sea salt and black pepper. add 24 oz beans. serve with cilantro and jalapeno.
 
 greens and beans. two cans cannellini beans, white beans, two bags of escarole, blanch escarole, heat oil to fry garlic and butter, add escarole, add beans, slowly add chicken stock to cover, let sit until cool and thicker, 20 minutes, recipe from Tom
+
+https://cooking.nytimes.com/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens
+
+white beans with pecorino and pancetta
+https://cooking.nytimes.com/recipes/1023867-creamy-white-beans-with-pecorino-and-pancetta
 
 black bean and corn salad. black beans, corn kernels, red onion slices, red bell pepper, lime juice, cilantro leaves, rice vinegar, salt and black pepper, olive oil
 https://www.wholefoodsmarket.com/recipe/sweet-corn-and-black-bean-salad
@@ -59,6 +91,8 @@ corn and black beans, red bell pepper, garlic cloves, shallot or red onions, sal
 white fish + oregano + salt + pepper + paprika
 
 oven baked fish with lemon juice, butter, herbs, black pepper
+
+https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake
 
 oven baked sweet potato with walnut oil and salt
 
@@ -79,6 +113,10 @@ snow peas, mushrooms, scallions, oil sesame, sesame seeds, red pepper flakes, so
 broccoli recipes in New York Times
 broccoli with fresno chile, garlic cloves, anchovies, salt and lemon
 
+https://cooking.nytimes.com/recipes/1022870-tofu-and-broccoli-fried-rice
+
+https://cooking.nytimes.com/recipes/1020273-baked-rice-with-white-beans-leek-and-lemon
+
 https://www.smithsonianmag.com/travel/naples-pizza-original-fast-food-180976992
 ^ Francesco Lastrucci
 
@@ -94,6 +132,8 @@ pizza. flour, oil, salt, yeast, sugar, water, tomato sauce, tomato paste, oregan
 pizza pie recipe; warm 6 oz water to 130 F. add tbs sugar and two tbs yeast. mix. let yeast bloom for 10 minutes. in mixing bowl add 8 oz white flour, 6 oz whole wheat flour, 2 oz rye flour, 8 oz sour dough starter, two tbs olive oil and one tbs salt. mix and add bloomed yeast. mix. add more flour until dough not sticking to hands. knead dough for 10 minutes. coat with olive oil. cover bowl with tented wet towel and set in warm place. rise up! roll out dough on sheet pan with olive oil and coarse ground corn. bake 7 minutes, 425 F. add vegetables, cheese, spices. bake 17 minutes.
 
 quiche. eggs, flour, bake powder, salt and black pepper, nutmeg, thyme, oil or melted butter, milk, broccoli, pie crust, cheddar cheese; melt tbs butter. steam and cut two cups broccoli. grate 4 oz cheddar cheese. crack four eggs and whisk. mix 4 oz flour, ts bake powder, ts salt. add melted butter, 400 mL milk, and cheese to egg bowl. mix wet and dry. add broccoli. add salt and black pepper. consider adding nutmeg or thyme. pour in pie crust. bake 45 to 60 minutes, 375 F.
+
+http://glutenfreegoddess.blogspot.com/2006/02/roasted-vegetable-frittata.html
 
 learn how to make and bake pie shells, pie crusts
 
@@ -122,6 +162,8 @@ tofu and broccoli with rice, Kay Chun recipe in NYT
 recipes for brown rice?
 
 https://www.nytimes.com/2022/02/25/dining/weeknight-rice-recipes.html
+
+https://cooking.nytimes.com/recipes/1020529-creamy-chickpea-pasta-with-spinach-and-rosemary
 
 bread crumbs, Parmesan cheese, anchovy, oil of olives, spaghetti
 
@@ -167,7 +209,9 @@ tortilla or burrito recipes
 squash with black beans. spaghetti squash, oil olive, red onion, red pepper, black beans, sweet corn, chili powder, cilantro, lime juice, sea salt.
 https://www.wholefoodsmarket.com/recipes/spicy-spaghetti-squash-black-beans
 
-https://www.eatingwell.com/recipe/277838/feta-kale-pear-salad/
+https://cooking.nytimes.com/recipes/1023687-roasted-honey-nut-squash-and-chickpeas-with-hot-honey
+
+https://www.eatingwell.com/recipe/277838/feta-kale-pear-salad
 https://extension.umass.edu/nutrition/recipes/kale-and-feta-salad
 
 kale, lemon juice, olive olio, soy sauce, salt and pepper, garlic
@@ -177,7 +221,7 @@ https://www.seriouseats.com/spaghetti-squash-with-sausage-kale-and-sun-dried-tom
 https://www.wholefoodsmarket.com/recipes/turmeric-spiced-shakshuka-delicata-squash
 
 black bean burger with sweet potato
-https://minimalistbaker.com/sweet-potato-black-bean-burger/
+https://minimalistbaker.com/sweet-potato-black-bean-burger
 
 plant based burger, black beans, or lentils, or chickpeas
 
@@ -189,7 +233,7 @@ black beans
 http://inspiralized.com/2014/07/01/vegan-lemongrass-thai-green-curry-soup-with-zucchini-noodles
 http://www.bonappetit.com/recipe/tom-kha-gai-chicken-coconut-soup
 https://www.ming.com/food-and-wine/recipes/season-1/lemongrass-coconut-chicken-soup.htm
-http://chefmichaelsmith.com/recipe/thai-coconut-curry-soup/
+http://chefmichaelsmith.com/recipe/thai-coconut-curry-soup
 
 couscous vegan stew with chickpeas, zucchini and pepper
 https://www.twincities.com/2019/07/04/how-cooking-for-charity-made-me-a-better-cook-at-home/
@@ -205,20 +249,30 @@ http://www.foodnetwork.com/recipes/crispy-whole-trout-with-curried-zucchini-cous
 http://www.foodandwine.com/recipes/chicken-and-zucchini-couscous
 http://www.foodandwine.com/recipes/couscous-salad-with-zucchini-and-roasted-almonds
 
+cornmeal crusted zucchini fries
+http://blog.julesglutenfree.com/2011/06/fried-zucchini
+
 sauteed cauliflower. cut cauliflower, pulse in food processor, until rice size pieces. saute onion with shallot, garlic cloves, in olive oil. add cauliflower, sea salt and black pepper. add lime juice, cilantro. mix and saute until tender.
 
-https://www.nytimes.com/2022/10/05/dining/cauliflower-soup.html
 cauliflower soup, Melissa Clark
+https://www.nytimes.com/2022/10/05/dining/cauliflower-soup.html
+
+roasted cauliflower soup, recipe from Yasmin Khan [cooking.nytimes.com]
 
 NYT cooking has several recipes for lentils.
 https://cooking.nytimes.com/search?q=lentils
 
 lentil stew. heat olive oil in large pot. add one diced onion and four cloves minced garlic. add two diced celery stalks and two diced carrots. add one diced red pepper, one diced green bell pepper, one diced zucchini and one diced egg plant. add salt and black pepper. add ts chili powder, ts red pepper flakes, tbs cumin, two ts smoked paprika. mix in 2 c lentils. add 1 c red wine, 2 c water, 6 c crushed or diced tomato. heat to boil. reduce heat and simmer, 40 minutes. stir. add more water if needed. mix in cooked beans. simmer, 15 minutes. serve with cilantro.
 
+https://cooking.nytimes.com/recipes/1016062-red-lentil-soup
+
 "dal", dried legumes, peas, lentils, beans, and soups made with
 https://www.lentils.org/recipe/orzo-lentil-feta-salad
 https://www.lentils.org/recipe/german-lentils-spatzle-plate
 https://cooking24h.com/2022/01/15/spaetzle-and-lentils-story-how-to-make/
+
+chickpea stew with orzo and mustard greens or spinach
+https://cooking.nytimes.com/recipes/1015767-chickpea-stew-with-orzo-and-mustard-greens
 
 linguine with asparagus. asparagus, linguine, Pecorino Romano, black pepper, olive oil. cut asparagus in one inch pieces, cook pasta in salted boiling water for 12 minutes, stir, add asparagus to pasta when 5 minutes remaining in cook time; make sauce in large bowl: 12 oz grated cheese, whisk in 4 oz cooking water, tbs pepper, 2 tbs oil. drain pasta water and mix in bowl with sauce.
 
@@ -226,6 +280,8 @@ cook asparagus in boiling water for three minutes, mix in bowl: bow tie farfalle
 
 kale chips with chile and lime; heat oven to 350 F. cut kale to bite size pieces. mix kale with olive oil and salt in large bowl. bake kale until leaves are crisp, 20 minutes. let cool to room temperature. add lime zeste, chile powder or garlic powder, sea salt. Melissa Clark.
 https://cooking.nytimes.com/recipes/12152-crisp-kale-chips-with-chile-and-lime
+
+https://www.wholefoodsmarket.com/recipes/oven-roasted-kale
 
 olive oil or butter, aged cheese, parsley, black pepper
 https://cooking.nytimes.com/recipes/1019684-garlic-bread
@@ -409,16 +465,20 @@ https://cooking.nytimes.com/recipes/1020031-baked-barley-risotto-with-mushrooms-
 
 https://cooking.nytimes.com/recipes/1023361-risotto
 
+https://cooking.nytimes.com/recipes/1021287-baked-risotto-with-greens-and-peas
+
 https://lideylikes.com/farro-risotto-with-squash-and-sage-gremolata
 
 https://smittenkitchen.com/2012/10/butternut-squash-salad-with-farro-and-pepitas
 
 farro and lentils with onions, NYT recipe box
+https://cooking.nytimes.com/recipes/1021869-farro-and-lentils-with-jammy-onions
 
 https://en.wikipedia.org/wiki/Cucurbita_moschata
 butternut squash
 https://www.nytimes.com/2022/10/12/magazine/lasagna-pie-recipe.html
 http://kitchen.nutiva.com/raw-butternut-squash-carrot-soup-recipe
+https://cooking.nytimes.com/recipes/1023539-butternut-squash-soup
 
 https://www.splendidtable.org/story/2016/12/28/marinated-portobello-mushroom-sandwich
 "The Gourmet Kitchen: Recipes from the Creator of Savory Simple", Jennifer Farley
@@ -428,6 +488,8 @@ http://www.cporganics.com/blog/recipe
 
 brown butter polenta recipe from Catherine Newman at benandbirdy
 http://benandbirdy.blogspot.com/2017/03/brown-butter-polenta.html
+
+https://cooking.nytimes.com/recipes/1021828-creamy-vegan-polenta
 
 corn bread
 organic whole grain yellow milled corn, all purpose flour, sugar, baking soda, oil or butter, eggs, milk
@@ -444,7 +506,7 @@ brown butter corn bread in cast iron skillet
 
 mix 16 oz cornmeal with 12 oz butter milk in large bowl. let sit for 30 - 45 minutes. preheat 10 inch cast iron skillet in oven at 425 F. mix 8 oz yogurt or sour cream with two eggs, 4 oz melted butter, two ts bake powder, ts salt, ts bake soda. combine bowls. butter skillet. add prepared mix to skillet. bake 25 minutes, 375 F. bobsredmill.com
 
-===
+======================
 corn bread
 http://eggsonsunday.wordpress.com/2009/08/02/bba-10-cornbread/
 ^ August 2009
@@ -529,12 +591,16 @@ http://www.nytimes.com/2013/09/18/dining/going-vegan-if-only-for-a-day.html
 
 http://www.peterandrewryan.com/baking/2009/01/corn-bread/
 
-===
+====
 NYT Cooking recipes, vegetarian skillet chili
 
 Quinoa and Black Bean Chili
 https://www.goya.com/en/recipes/quinoa-and-black-bean-chili
 black beans, water, salt
+
+https://cooking.nytimes.com/recipes/1023843-quinoa-and-broccoli-spoon-salad
+
+https://cooking.nytimes.com/recipes/1013615-quinoa-pancakes
 
 wind mills, mill stones, grind stones, corn muffins, corn pancakes, corn breads, corn flour
 
@@ -553,6 +619,8 @@ https://cooking.nytimes.com/search?q=coconut
 
 https://mintersfarm.com/roasted-okra/
 
+https://eggsonsunday.wordpress.com/2008/05/28/spring-pea-soup/
+
 https://www.washingtonpost.com/recipes/basic-field-peas/14189/
 4 cups shelled field peas, 4 cups water, 6 okra pods, sea salt
 
@@ -561,6 +629,10 @@ https://www.bonappetit.com/recipe/creamy-one-pot-pasta-with-peas-and-mint
 https://cooking.nytimes.com/recipes/1017392-pasta-primavera-with-asparagus-and-peas
 
 saute green peas with red onions, butter, lemon juice, salt and black pepper
+
+October 2009, Mini Shell Pasta With Creamy Smoked Bacon and Peas
+http://www.nytimes.com/2009/10/11/magazine/11food-rex002.html
+bacon, pasta, peas, heavy cream, lemon, Parmesan
 
 Lemon Tahini Cabbage Slaw
 https://cooking.nytimes.com/recipes/1022215-lemon-tahini-slaw
@@ -584,6 +656,7 @@ A smoothie is a thick, smooth drink of fresh fruit pureed with milk, yogurt, or 
 smoothies
 https://www.vitamix.com/us/en_us/articles/power-packed-smoothie-recipes
 smoothie, milk coconuts, blackberries or blueberries, plant based protein powder
+acai bowls and smoothies, blend with bananas and water, eat with berries and granola
 
 make iced tea and use freezer for cooling
 
@@ -649,6 +722,8 @@ saute bacon and onions, add green peas, make quiche
 
 ideas... brussels sprouts, bean soup, sweet potato fries, catfish with collard greens, capers, corn grits
 
+https://cooking.nytimes.com/recipes/1023846-brussels-sprouts-caesar-salad
+
 https://www.earlymorningfarm.com/bacon-brussels-sprouts/
 brussels sprouts and bacon at earlymorningfarm.com
 brussels sprouts, bacon pieces, apple cider vinegar, black pepper, salt
@@ -676,6 +751,8 @@ boiled egg
 https://en.wikipedia.org/wiki/blue_catfish
 
 boil 24 oz water and salt. add 8 oz cornmeal slowly and whisk. lower heat to simmer. allow grits to thicken. stir in 4 oz milk and two tbs butter, and grated cheese. season with black pepper and more salt to taste. keep on lowest heat possible until you eat.
+
+https://cooking.nytimes.com/recipes/1022941-grits-and-greens
 
 https://cooking.nytimes.com/search?q=kay+chun
 
