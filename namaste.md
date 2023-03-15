@@ -244,6 +244,8 @@
 |      |                                                    |                            |
 |36 08 |         | [move and twist with Ron](https://www.youtube.com/watch?v=tPiNhvwtazQ)|
 |      |                                                    |                            |
+|36 10 | moon dance with FIJI                               | https://vimeo.com/807743622|
+|      |                                                    |                            |
 |36 12 | :zap: birds of a feather with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/198289713|
 |      |                                                    |                            |
 |36 19 | bed time slow flow with Melissa                    | https://vimeo.com/111166166|
@@ -505,6 +507,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                            |
-|      |                                                    |                            |
-|      |                                                    |                            |
+|      |                                                    |                  |
