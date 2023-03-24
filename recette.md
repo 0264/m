@@ -1,0 +1,2 @@
+soda bread. flour, sugar, salt, bake powder, bake soda, raisins, caraway seeds, butter, buttermilk, egg. in bowl one, mix 1.5 c buttermilk with egg and ts baking soda. in bowl two, mix 4 c flour, .3 c sugar, ts salt, ts bake powder. cut in 0.5 c [one stick] butter with blender or hands. stir in 1 c raisins, tbs caraway seeds. mix bowl one with bowl two. make cross on top before you put in oven. bake 60 minutes, 375 F. Irish soda bread in oven with caraway and raisins.
+
