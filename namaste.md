@@ -112,7 +112,7 @@
 |      |                                                    |                            |
 |22 48 | slow sun salutations with David                    | https://vimeo.com/217843142|
 |      |                                                    |                            |
-|23 01 | :zap: create heat and stronger arms with FIJI <<<< | https://vimeo.com/134311766|
+|23 01 |:zap: vigorous, create heat and stronger arms, FIJI | https://vimeo.com/134311766|
 |      |                                                    |                            |
 |23 06 | yoga with Melissa | [slow morning yoga](https://youtube.com/watch?v=HVwffh9hE7k)|
 |      |                                                    |                            |
@@ -509,4 +509,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                            |
+|      |                                                    |                                    |
