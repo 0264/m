@@ -416,7 +416,7 @@
 |      |                                                    |                            |
 |53 43 | flow with Rachel                                   | https://vimeo.com/227587869|
 |      |                                                    |                            |
-|53 43 | | [prepare for birth](https://doyogawithme.com/content/prenatal-preparing-birth)|
+|53 43 ||[prepare for birth](https://www.doyogawithme.com/content/prenatal-preparing-birth)|
 |      |                                                    |                            |
 |54 50 | stronger core and stretches with Melissa           | https://vimeo.com/75230104 |
 |      |                                                    |                            |
@@ -509,4 +509,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                                    |
+|      |                                                    |                                  |
