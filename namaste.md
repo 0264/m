@@ -44,7 +44,7 @@
 |      |                                                    |                            |
 |15 22 | seated posture  | [with David](https://doyogawithme.com/content/office-yoga-ii) |
 |      |                                                    |                            |
-|15 25 | yoga therapy for neck and feet with Erica          | https://vimeo.com/58212745 |
+|15 25 | morning stretches for neck and feet with Erica     | https://vimeo.com/58212745 |
 |      |                                                    |                            |
 |15 44 | :zap: after work yoga with Rachel <<<<<<<<<<<<<<<< | https://vimeo.com/91051304 |
 |      |                                                    |                            |
