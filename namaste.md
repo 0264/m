@@ -116,9 +116,7 @@
 |      |                                                    |                            |
 |23 06 | yoga with Melissa | [slow morning yoga](https://youtube.com/watch?v=HVwffh9hE7k)|
 |      |                                                    |                            |
-|23 14 |                    | [Guy Friswell](https://www.youtube.com/watch?v=ve2moLlx1XY)|
-|      |                                                    |                            |
-|23 33 | slow flow standing mountain pose with Satiya       | https://vimeo.com/250339948|
+|23 33 | :pushpin: slow flow standing pose with Satiya      | https://vimeo.com/250339948|
 |      |                                                    |                            |
 |23 37 | :zap: morning wake and move with Ron <<<<<<<<<<<<< | https://vimeo.com/196930083|
 |      |                                                    |                            |
@@ -509,4 +507,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                                  |
+|      |                                                    |                |
