@@ -40,7 +40,7 @@
 |      |                                                    |                            |
 |14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
 |      |                                                    |                            |
-|15 06 | focus on core! and low back with Rachel            | https://vimeo.com/155082780|
+|15 06 | focus on core, low back on floor, slow, with Rachel| https://vimeo.com/155082780|
 |      |                                                    |                            |
 |15 22 | seated posture  | [with David](https://doyogawithme.com/content/office-yoga-ii) |
 |      |                                                    |                            |
