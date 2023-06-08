@@ -296,7 +296,7 @@
 |      |                                                    |                            |
 |41 36 | Ashtanga yoga with Jeff                            | https://vimeo.com/247214065|
 |      |                                                    |                            |
-|41 50 | yoga for sciatica with David                       | https://vimeo.com/154271371|
+|41 50 | slow leg and hip stretches for sciatica with David | https://vimeo.com/154271371|
 |      |                                                    |                            |
 |42 00 | :zap: slow extended holds, Sarah Jane - pillow <<< | https://vimeo.com/171049915|
 |      |                                                    |                            |
