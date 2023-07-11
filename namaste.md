@@ -1,5 +1,7 @@
 |      |                                                    |                            |
 | ---- | -------------------------------------------------- | -------------------------- |
+|      | https://vimeo.com/search/sort:popularity?q=doyogawithme |                       |
+|      |                                                    |                            |
 | 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
 |      |                                                    |                            |
 | 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
@@ -360,7 +362,7 @@
 |      |                                                    |                            |
 |48 09 | stability and mobility with FIJI                   | https://vimeo.com/221323437|
 |      |                                                    |                            |
-|48 44 | foundations in flow with FIJI                      | https://vimeo.com/19376421 |
+|48 44 | :pushpin: foundations in flow with FIJI            | https://vimeo.com/19376421 |
 |      |                                                    |                            |
 |48 52 | boundaries with Rachel                             | https://vimeo.com/96113037 |
 |      |                                                    |                            |
@@ -505,4 +507,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                  |
+|      |                                                    |                |
