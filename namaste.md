@@ -136,6 +136,8 @@
 |      |                                                    |                            |
 |24 42 | | [slow flow Sarah Holmes](https://doyogawithme.com/content/reclining-flow-rest)|
 |      |                                                    |                            |
+|24 55 | light within with FIJI                             | https://vimeo.com/344154768|
+|      |                                                    |                            |
 |25 13 | flow to side crow with Rachel                      | https://vimeo.com/137794750|
 |      |                                                    |                            |
 |25 15 | :zap: create heat and flow with Tracey <<<<<<<<<<< | https://vimeo.com/174732366|
@@ -243,6 +245,8 @@
 |36 08 |         | [move and twist with Ron](https://www.youtube.com/watch?v=tPiNhvwtazQ)|
 |      |                                                    |                            |
 |36 10 | moon dance with FIJI                               | https://vimeo.com/807743622|
+|      |                                                    |                            |
+|36 10 | yoga for longer runs with FIJI                     | https://vimeo.com/854741332|
 |      |                                                    |                            |
 |36 12 | :zap: birds of a feather with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/198289713|
 |      |                                                    |                            |
@@ -356,9 +360,9 @@
 |      |                                                    |                            |
 |47 14 | flow yoga to energize with Melissa                 | https://vimeo.com/157894548|
 |      |                                                    |                            |
-|47 32 | :zap: hip hamstring low back with David <<<<<<<<<< | https://vimeo.com/35122022 |
+|47 32 | :zap: hips, hamstring and low back with David  <<< | https://vimeo.com/35122022 |
 |      |                                                    |                            |
-|47 32 |                                                  | https://youtu.be/gDQNqZMv1V0 |
+|47 32 |                                                    |https://youtu.be/gDQNqZMv1V0|
 |      |                                                    |                            |
 |48 09 | stability and mobility with FIJI                   | https://vimeo.com/221323437|
 |      |                                                    |                            |
@@ -507,4 +511,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                |
+|      |                                                    |                            |
