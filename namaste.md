@@ -294,7 +294,7 @@
 |      |                                                    |                            |
 |40 07 | expand your horizon with Tracey                    | https://vimeo.com/139755648|
 |      |                                                    |                            |
-|40 31 | :zap: happy feet and balance with Rachel <<<<<<<<< | https://vimeo.com/82018631 |
+|40 31 | :zap: feet and balance with Rachel <<<<<<<<<<<<<<< | https://vimeo.com/82018631 |
 |      |                                                    |                            |
 |40 34 | forces and spaces in us, with FIJI                 | https://vimeo.com/266429171|
 |      |                                                    |                            |
