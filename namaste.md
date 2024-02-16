@@ -436,9 +436,7 @@
 |      |                                                    |                            |
 |57 26 | connect to core with FIJI                          | https://vimeo.com/67765930 |
 |      |                                                    |                            |
-|58 12 | :zap: yoga for cyclists with David <<<<<<<<<<<<<<< | https://vimeo.com/190592588|
-|      |                                                    |                            |
-|58 12 | | [yoga for cyclists with David](https://doyogawithme.com/content/yoga-cyclists)|
+|58 12 | :zap: yoga for bicycle training with David <<<<<<< | https://vimeo.com/190592588|
 |      |                                                    |                            |
 |58 24 | wheel pose with FIJI                               | https://vimeo.com/192216565|
 |      |                                                    |                            |
@@ -511,4 +509,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                            |
+|      |                                                    |                                  |
