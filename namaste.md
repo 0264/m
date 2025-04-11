@@ -24,6 +24,8 @@
 |      |                                                    |                            |
 | 7 47 | sun salute with Crista                             | https://vimeo.com/199919691|
 |      |                                                    |                            |
+| 9 29 | chair assisted yoga with David                     | https://vimeo.com/333662474|
+|      |                                                    |                            |
 | 9 39 | seated neck and shoulder stretches with David      | https://vimeo.com/14470372 |
 |      |                                                    |                            |
 | 9 50 | slow flow, meditate; David and Satiya - pillow     | https://vimeo.com/184603406|
@@ -424,7 +426,7 @@
 |      |                                                    |                            |
 |54 50 |    | [with Melissa](https://doyogawithme.com/content/core-strength-and-stretch) |
 |      |                                                    |                            |
-|54 52 | ocean yoga to restore with Melissa                 | https://vimeo.com/37443329 |
+|54 52 | yoga to restore with Melissa                       | https://vimeo.com/37443329 |
 |      |                                                    |                            |
 |55 01 | slow yoga with Sarah Holmes                        | https://vimeo.com/211762347|
 |      |                                                    |                            |
@@ -509,4 +511,4 @@
 |105 31| restore the body with David                        | https://vimeo.com/53295560 |
 |      |                                                    |                            |
 |106 29| flow for courage with Tracey                       | https://vimeo.com/67007304 |
-|      |                                                    |                                  |
+|      |                                                    |                            |
