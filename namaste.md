@@ -22,7 +22,11 @@
 |      |                                                    |                            |
 | 5 07 | leg stretches, resting on back with David - strap  | https://vimeo.com/13164788 |
 |      |                                                    |                            |
+| 5 59 | office, work day yoga with David - strap           | https://vimeo.com/333494144|
+|      |                                                    |                            |
 | 7 47 | sun salute with Crista                             | https://vimeo.com/199919691|
+|      |                                                    |                            |
+| 8 06 | standing desk relief with Rachel Scott             | https://vimeo.com/293192492|
 |      |                                                    |                            |
 | 9 29 | chair assisted yoga with David                     | https://vimeo.com/333662474|
 |      |                                                    |                            |
