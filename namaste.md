@@ -2,7 +2,7 @@
 | ---- | -------------------------------------------------- | -------------------------- |
 |      | | [search vimeo](https://vimeo.com/search/sort:popularity?q=doyogawithme)       |
 |      |                                                    |                            |
-|      | | [search vimeo](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc   |
+|      | | [search vimeo](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)  |
 |      |                                                    |                            |
 | 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
 |      |                                                    |                            |
