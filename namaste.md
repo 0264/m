@@ -1,30 +1,30 @@
-|      |                                                    |                                  |
-| ---- | -------------------------------------------------- | -------------------------------- |
-|      | search vimeo          |[link](https://vimeo.com/search/sort:popularity?q=doyogawithme)|
-|      |                                                    |                                  |
-|      | search vimeo     |[link](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)|
-|      |                                                    |                                  |
-| 1 20 | toe hold seated with David                         |[link](https://vimeo.com/13128664)|
-|      |                                                    |                                  |
-| 1 21 | seated twist with David                            |[link](https://vimeo.com/13128300)|
-|      |                                                    |                                  |
-| 1 44 | extended child pose with David                     |[link](https://vimeo.com/13130756)|
-|      |                                                    |                                  |
-| 2 11 | seated hip stretch with David                      |[link](https://vimeo.com/13127937)|
-|      |                                                    |                                  |
-| 2 27 | one leg folded forward bend with David - *pillow*  |[link](https://vimeo.com/13153816)|
-|      |                                                    |                                  |
-| 2 32 | eagle pose with David                              |[link](https://vimeo.com/13130251)|
-|      |                                                    |                                  |
-| 2 45 | head beyond knee pose with David                   |[link](https://vimeo.com/13133590)|
-|      |                                                    |                                  |
-| 2 52 | inverted v pose with David                         |[link](https://vimeo.com/13129482)|
-|      |                                                    |                                  |
-| 3 03 | Marichi pose, seated with David                    |[link](https://vimeo.com/13154895)|
-|      |                                                    |                                  |
-| 5 07 | leg stretches, resting on back with David - *strap*|[link](https://vimeo.com/13164788)|
-|      |                                                    |                                  |
-| 5 59 | office, work day yoga with David - *strap*        |[link](https://vimeo.com/333494144)|
+|      |                                                       |                                  |
+| ---- | ----------------------------------------------------- | -------------------------------- |
+|      | search vimeo             |[link](https://vimeo.com/search/sort:popularity?q=doyogawithme)|
+|      |                                                       |                                  |
+|      | search vimeo        |[link](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)|
+|      |                                                       |                                  |
+| 1 20 | toe hold seated with David                            |[link](https://vimeo.com/13128664)|
+|      |                                                       |                                  |
+| 1 21 | seated twist with David                               |[link](https://vimeo.com/13128300)|
+|      |                                                       |                                  |
+| 1 44 | extended child pose with David                        |[link](https://vimeo.com/13130756)|
+|      |                                                       |                                  |
+| 2 11 | seated hip stretch with David                         |[link](https://vimeo.com/13127937)|
+|      |                                                       |                                  |
+| 2 27 | one leg folded forward bend with David - *pillow*     |[link](https://vimeo.com/13153816)|
+|      |                                                       |                                  |
+| 2 32 | eagle pose with David                                 |[link](https://vimeo.com/13130251)|
+|      |                                                       |                                  |
+| 2 45 | head beyond knee pose with David                      |[link](https://vimeo.com/13133590)|
+|      |                                                       |                                  |
+| 2 52 | inverted v pose with David                            |[link](https://vimeo.com/13129482)|
+|      |                                                       |                                  |
+| 3 03 | Marichi pose, seated with David                       |[link](https://vimeo.com/13154895)|
+|      |                                                       |                                  |
+| 5 07 | leg stretches, resting on back with David - *strap*   |[link](https://vimeo.com/13164788)|
+|      |                                                       |                                  |
+| 5 59 | office, work day yoga with David - *strap*           |[link](https://vimeo.com/333494144)|
 |      |                                                    |                            |
 | 7 47 | sun salute with Crista                             | https://vimeo.com/199919691|
 |      |                                                    |                            |
