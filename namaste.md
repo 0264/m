@@ -6,19 +6,19 @@
 |      |                                                    |                            |
 | 1 20 | [toe hold seated with David](https://vimeo.com/13128664)                      | |
 |      |                                                    |                            |
-| 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
+| 1 21 | [seated twist with David](https://vimeo.com/13128300)                         | |
 |      |                                                    |                            |
-| 1 44 | extended child pose with David                     | https://vimeo.com/13130756 |
+| 1 44 | [extended child pose with David](https://vimeo.com/13130756)                  | |
 |      |                                                    |                            |
-| 2 11 | seated hip stretch with David                      | https://vimeo.com/13127937 |
+| 2 11 | [seated hip stretch with David](https://vimeo.com/13127937)                   | |
 |      |                                                    |                            |
-| 2 27 | one leg folded forward bend with David - pillow    | https://vimeo.com/13153816 |
+| 2 27 | [one leg folded forward bend with David - pillow](https://vimeo.com/13153816) | |
 |      |                                                    |                            |
-| 2 32 | eagle pose with David                              | https://vimeo.com/13130251 |
+| 2 32 | [eagle pose with David](https://vimeo.com/13130251)                           | |
 |      |                                                    |                            |
-| 2 45 | head beyond knee pose with David                   | https://vimeo.com/13133590 |
+| 2 45 | [head beyond knee pose with David](https://vimeo.com/13133590)                | |
 |      |                                                    |                            |
-| 2 52 | inverted v pose with David                         | https://vimeo.com/13129482 |
+| 2 52 | [inverted v pose with David](https://vimeo.com/13129482)                      | |
 |      |                                                    |                            |
 | 3 03 | Marichi pose, seated with David                    | https://vimeo.com/13154895 |
 |      |                                                    |                            |
@@ -286,7 +286,7 @@
 |      |                                                    |                            |
 |38 57 | focused on Prana life force with FIJI              | https://vimeo.com/260074147|
 |      |                                                    |                            |
-|39 08 | [back to the mat yoga with FIJI](https://vimeo.com/191071769)                 | |
+|39 08 | [back to the mat yoga with Fiji](https://vimeo.com/191071769)                 | |
 |      |                                                    |                            |
 |39 10 | flow to restore with Tianne                        | https://vimeo.com/34615329 |
 |      |                                                    |                            |
@@ -466,7 +466,7 @@
 |      |                                                    |                            |
 |61 53 | yoga for the spine with Anastasia                  | https://vimeo.com/193263846|
 |      |                                                    |                            |
-|62 24 | [yoga for shoulders and arms with FIJI](https://vimeo.com/82303463)           | |
+|62 24 | [yoga for shoulders and arms with Fiji](https://vimeo.com/82303463)           | |
 |      |                                                    |                            |
 |63 18 | prana pulse power flow with Tianne                 | https://vimeo.com/59744414 |
 |      |                                                    |                            |
