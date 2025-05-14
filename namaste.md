@@ -34,24 +34,24 @@
 |      |                                                      |                                   |
 | 9 39 | seated neck and shoulder stretches with David        |[link](https://vimeo.com/14470372) |
 |      |                                                      |                                   |
-| 9 50 | slow flow, meditate; David and Satiya - pillow       |[link](https://vimeo.com/184603406)|
-|      |                                                    |                            |
-|10 46 | create heat and focus on arm muscle! with FIJI     | https://vimeo.com/240932617|
-|      |                                                    |                            |
-|11 41 | shoulder and upper back with Erica                 | https://vimeo.com/58200656 |
-|      |                                                    |                            |
-|12 53 | stretch neck and shoulder with David - strap       | https://vimeo.com/14057532 |
-|      |                                                    |                            |
-|13 11 |                    | [Guy Friswell](https://www.youtube.com/watch?v=UxFhUj2h1KU)|
-|      |                                                    |                            |
-|13 43 | seated slow flow and restore with Satiya           | https://vimeo.com/214109888|
-|      |                                                    |                            |
-|14 35 | yoga with Crista                                   | https://vimeo.com/186502370|
-|      |                                                    |                            |
-|14 49 | slow stretch shoulder and spine with David - strap | https://vimeo.com/14061311 |
-|      |                                                    |                            |
-|15 06 | focus on core, low back on floor, slow, with Rachel| https://vimeo.com/155082780|
-|      |                                                    |                            |
+| 9 50 | slow flow, meditate; David and Satiya - *pillow*     |[link](https://vimeo.com/184603406)|
+|      |                                                      |                                   |
+|10 46 | create heat and focus on arm muscle! with Fiji       |[link](https://vimeo.com/240932617)|
+|      |                                                      |                                   |
+|11 41 | shoulder and upper back with Erica                   |[link](https://vimeo.com/58200656) |
+|      |                                                      |                                   |
+|12 53 | stretch neck and shoulder with David - *strap*       |[link](https://vimeo.com/14057532) |
+|      |                                                      |                                   |
+|13 11 | Guy Friswell                         |[link](https://www.youtube.com/watch?v=UxFhUj2h1KU)|
+|      |                                                      |                                   |
+|13 43 | seated slow flow and restore with Satiya             |[link](https://vimeo.com/214109888)|
+|      |                                                      |                                   |
+|14 35 | yoga with Crista                                     |[link](https://vimeo.com/186502370)|
+|      |                                                      |                                   |
+|14 49 | slow stretch shoulder and spine with David - *strap* |[link](https://vimeo.com/14061311) |
+|      |                                                      |                                   |
+|15 06 | focus on core, low back on floor, slow, with Rachel  |[link](https://vimeo.com/155082780)|
+|      |                                                      |                                   |
 |15 22 | seated posture  | [with David](https://doyogawithme.com/content/office-yoga-ii) |
 |      |                                                    |                            |
 |15 25 | morning stretches for neck and feet with Erica     | https://vimeo.com/58212745 |
