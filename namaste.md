@@ -1,10 +1,10 @@
 |      |                                                    |                            |
 | ---- | -------------------------------------------------- | -------------------------- |
-|      | | [search vimeo](https://vimeo.com/search/sort:popularity?q=doyogawithme)       |
+|      | [search vimeo](https://vimeo.com/search/sort:popularity?q=doyogawithme)       | |
 |      |                                                    |                            |
-|      | | [search vimeo](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)  |
+|      | [search vimeo](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)  | |
 |      |                                                    |                            |
-| 1 20 | toe hold seated with David                         | https://vimeo.com/13128664 |
+| 1 20 | [toe hold seated with David](https://vimeo.com/13128664)                      | |
 |      |                                                    |                            |
 | 1 21 | seated twist with David                            | https://vimeo.com/13128300 |
 |      |                                                    |                            |
@@ -286,7 +286,7 @@
 |      |                                                    |                            |
 |38 57 | focused on Prana life force with FIJI              | https://vimeo.com/260074147|
 |      |                                                    |                            |
-|39 08 | yoga with FIJI                                     | https://vimeo.com/191071769|
+|39 08 | [back to the mat yoga with FIJI](https://vimeo.com/191071769)                 | |
 |      |                                                    |                            |
 |39 10 | flow to restore with Tianne                        | https://vimeo.com/34615329 |
 |      |                                                    |                            |
@@ -466,7 +466,7 @@
 |      |                                                    |                            |
 |61 53 | yoga for the spine with Anastasia                  | https://vimeo.com/193263846|
 |      |                                                    |                            |
-|62 24 | yoga for shoulders and arms with FIJI              | https://vimeo.com/82303463 |
+|62 24 | [yoga for shoulders and arms with FIJI](https://vimeo.com/82303463)           | |
 |      |                                                    |                            |
 |63 18 | prana pulse power flow with Tianne                 | https://vimeo.com/59744414 |
 |      |                                                    |                            |
