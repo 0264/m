@@ -56,7 +56,7 @@
 |      |                                                      |                                   |
 |15 25 | morning stretches for neck and feet with Erica       |[link](https://vimeo.com/58212745) |
 |      |                                                      |                                   |
-|15 44 | :zap: after work yoga with Rachel <<<<<<<<<<<<<<<<<< |[link](https://vimeo.com/91051304) |
+|15 44 | :zap: after work yoga with Rachel                    |[link](https://vimeo.com/91051304) |
 |      |                                                      |                                   |
 |15 46 | yoga for lower body with David - *strap, chair*      |[link](https://vimeo.com/81885273) |
 |      |                                                      |                                   |
@@ -68,7 +68,7 @@
 |      |                                                      |                                   |
 |16 28 | sun salute continuous flow not slow with Tracey      |[link](https://vimeo.com/131774878)|
 |      |                                                      |                                   |
-|17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<<<< |[link](https://vimeo.com/200081746)|
+|17 39 | :zap: sun rise slow flow with Melissa                |[link](https://vimeo.com/200081746)|
 |      |                                                      |                                   |
 |17 56 | standing flow and twist with David                   |[link](https://vimeo.com/111564293)|
 |      |                                                      |                                   |
