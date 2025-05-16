@@ -52,26 +52,26 @@
 |      |                                                      |                                   |
 |15 06 | focus on core, low back on floor, slow, with Rachel  |[link](https://vimeo.com/155082780)|
 |      |                                                      |                                   |
-|15 22 | seated posture  | [with David](https://doyogawithme.com/content/office-yoga-ii) |
-|      |                                                    |                            |
-|15 25 | morning stretches for neck and feet with Erica     | https://vimeo.com/58212745 |
-|      |                                                    |                            |
-|15 44 | :zap: after work yoga with Rachel <<<<<<<<<<<<<<<< | https://vimeo.com/91051304 |
-|      |                                                    |                            |
-|15 46 | yoga for lower body with David - strap, chair      | https://vimeo.com/81885273 |
-|      |                                                    |                            |
-|15 52 | seated hand and wrist stretches with David         | https://vimeo.com/182120878|
-|      |                                                    |                            |
-|16 08 | seated neck stretches with David                   | https://vimeo.com/111533613|
-|      |                                                    |                            |
-|16 22 | bend and advanced binds with David - strap, pillow | https://vimeo.com/112958856|
-|      |                                                    |                            |
-|16 28 | sun salute continuous flow not slow with Tracey    | https://vimeo.com/131774878|
-|      |                                                    |                            |
-|17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<< | https://vimeo.com/200081746|
-|      |                                                    |                            |
-|17 56 | standing flow and twist with David                 | https://vimeo.com/111564293|
-|      |                                                    |                            |
+|15 22 | seated posture with David        |[link](https://doyogawithme.com/content/office-yoga-ii)|
+|      |                                                      |                                   |
+|15 25 | morning stretches for neck and feet with Erica       |[link](https://vimeo.com/58212745) |
+|      |                                                      |                                   |
+|15 44 | :zap: after work yoga with Rachel <<<<<<<<<<<<<<<<<< |[link](https://vimeo.com/91051304) |
+|      |                                                      |                                   |
+|15 46 | yoga for lower body with David - *strap, chair*      |[link](https://vimeo.com/81885273) |
+|      |                                                      |                                   |
+|15 52 | seated hand and wrist stretches with David           |[link](https://vimeo.com/182120878)|
+|      |                                                      |                                   |
+|16 08 | seated neck stretches with David                     |[link](https://vimeo.com/111533613)|
+|      |                                                      |                                   |
+|16 22 | bend and advanced binds with David - *strap, pillow* |[link](https://vimeo.com/112958856)|
+|      |                                                      |                                   |
+|16 28 | sun salute continuous flow not slow with Tracey      |[link](https://vimeo.com/131774878)|
+|      |                                                      |                                   |
+|17 39 | :zap: sun rise slow flow with Melissa <<<<<<<<<<<<<< |[link](https://vimeo.com/200081746)|
+|      |                                                      |                                   |
+|17 56 | standing flow and twist with David                   |[link](https://vimeo.com/111564293)|
+|      |                                                      |                                   |
 |18 42 | morning slow flow with Satiya                      | https://vimeo.com/188230830|
 |      |                                                    |                            |
 |19 13 |      | [slow flow with Josh](https://doyogawithme.com/content/evening-wind-down)|
