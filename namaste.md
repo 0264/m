@@ -72,16 +72,16 @@
 |      |                                                      |                                   |
 |17 56 | standing flow and twist with David                   |[link](https://vimeo.com/111564293)|
 |      |                                                      |                                   |
-|18 42 | morning slow flow with Satiya                      | https://vimeo.com/188230830|
-|      |                                                    |                            |
-|19 13 |      | [slow flow with Josh](https://doyogawithme.com/content/evening-wind-down)|
-|      |                                                    |                            |
-|19 17 | arm balance power flow with FIJI - pillow          | https://vimeo.com/130555671|
-|      |                                                    |                            |
-|19 19 | :zap: seated leg + low back stretch with David <<< | https://vimeo.com/182615304|
-|      |                                                    |                            |
-|19 46 | :zap: vigorous vinyasa for vitality with FIJI <<<< | https://vimeo.com/140254357|
-|      |                                                    |                            |
+|18 42 | morning slow flow with Satiya                        |[link](https://vimeo.com/188230830)|
+|      |                                                      |                                   |
+|19 13 | slow flow with Josh           |[link](https://doyogawithme.com/content/evening-wind-down)|
+|      |                                                      |                                   |
+|19 17 | arm balance power flow with Fiji - *pillow*          |[link](https://vimeo.com/130555671)|
+|      |                                                      |                                   |
+|19 19 | :zap: seated leg + low back stretch with David       |[link](https://vimeo.com/182615304)|
+|      |                                                      |                                   |
+|19 46 | :zap: vigorous vinyasa for vitality with Fiji        |[link](https://vimeo.com/140254357)|
+|      |                                                      |                                   |
 |19 51 | quick flow, end slow, after work yoga with Rachel  | https://vimeo.com/121058388|
 |      |                                                    |                            |
 |19 52 | sun salutations with Melissa                       | https://vimeo.com/109174450|
