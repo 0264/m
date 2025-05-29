@@ -82,22 +82,22 @@
 |      |                                                      |                                   |
 |19 46 | :zap: vigorous vinyasa for vitality with Fiji        |[link](https://vimeo.com/140254357)|
 |      |                                                      |                                   |
-|19 51 | quick flow, end slow, after work yoga with Rachel  | https://vimeo.com/121058388|
-|      |                                                    |                            |
-|19 52 | sun salutations with Melissa                       | https://vimeo.com/109174450|
-|      |                                                    |                            |
-|19 59 | morning yoga flow with Rachel                      | https://vimeo.com/136258366|
-|      |                                                    |                            |
-|20 01 | :zap: morning wake up and flow, not slow, with FIJI| https://vimeo.com/198281418|
-|      |                                                    |                            |
-|20 01 | hatha yoga with Sarah Jane                         | https://vimeo.com/174611606|
-|      |                                                    |                            |
-|20 02 | slow flow ashtanga yoga sequence with Jeff         | https://vimeo.com/250350874|
-|      |                                                    |                            |
-|20 35 | :zap: hands arms shoulder stretch with David <<<<< | https://vimeo.com/182477550|
-|      |                                                    |                            |
-|20 38 | :zap: yoga for runner post-run with FIJI <<<<<<<<< | https://vimeo.com/26623677 |
-|      |                                                    |                            |
+|19 51 | quick flow, end slow, after work yoga with Rachel    |[link](https://vimeo.com/121058388)|
+|      |                                                      |                                   |
+|19 52 | sun salutations with Melissa                         |[link](https://vimeo.com/109174450)|
+|      |                                                      |                                   |
+|19 59 | morning yoga flow with Rachel                        |[link](https://vimeo.com/136258366)|
+|      |                                                      |                                   |
+|20 01 | :zap: morning wake up and flow, not slow, with Fiji  |[link](https://vimeo.com/198281418)|
+|      |                                                      |                                   |
+|20 01 | hatha yoga with Sarah Jane                           |[link](https://vimeo.com/174611606)|
+|      |                                                      |                                   |
+|20 02 | slow flow ashtanga yoga sequence with Jeff           |[link](https://vimeo.com/250350874)|
+|      |                                                      |                                   |
+|20 35 | :zap: hands arms shoulder stretch with David         |[link](https://vimeo.com/182477550)|
+|      |                                                      |                                   |
+|20 38 | :zap: yoga for runner post-run with Fiji             |[link](https://vimeo.com/26623677) |
+|      |                                                      |                                   |
 |20 38 | morning slow flow with Josh            |[youtu.be](https://youtu.be/nEdm88qIHRc)|
 |      |                                                    |                            |
 |20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
