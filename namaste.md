@@ -98,20 +98,20 @@
 |      |                                                      |                                   |
 |20 38 | :zap: yoga for runner post-run with Fiji             |[link](https://vimeo.com/26623677) |
 |      |                                                      |                                   |
-|20 38 | morning slow flow with Josh            |[youtu.be](https://youtu.be/nEdm88qIHRc)|
-|      |                                                    |                            |
-|20 56 | move and stretch with David - strap                | https://vimeo.com/14054968 |
-|      |                                                    |                            |
-|21 34 | slow flow and balance poses with Melissa           | https://vimeo.com/36525606 |
-|      |                                                    |                            |
-|21 38 | deep stretches with FIJI                           | https://vimeo.com/138860167|
-|      |                                                    |                            |
-|21 47 | balance and back bends with FIJI                   | https://vimeo.com/128276677|
-|      |                                                    |                            |
-|21 50 | :zap: stretch hamstrings with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/71550868 |
-|      |                                                    |                            |
-|21 52 | low back and leg with David - strap bolster 8m 30s | https://vimeo.com/138163409|
-|      |                                                    |                            |
+|20 38 | morning slow flow with Josh                         |[link](https://youtu.be/nEdm88qIHRc)|
+|      |                                                      |                                   |
+|20 56 | move and stretch with David *strap*                  |[link](https://vimeo.com/14054968) |
+|      |                                                      |                                   |
+|21 34 | slow flow and balance poses with Melissa             |[link](https://vimeo.com/36525606) |
+|      |                                                      |                                   |
+|21 38 | deep stretches with Fiji                             |[link](https://vimeo.com/138860167)|
+|      |                                                      |                                   |
+|21 47 | balance and back bends with Fiji                     |[link](https://vimeo.com/128276677)|
+|      |                                                      |                                   |
+|21 50 | :zap: stretch hamstrings with Fiji                   |[link](https://vimeo.com/71550868) |
+|      |                                                      |                                   |
+|21 52 | low back and leg with David - *strap bolster* 8m 30s |[link](https://vimeo.com/138163409)|
+|      |                                                      |                                   |
 |22 08 | :zap: yoga for runner pre-run with FIJI            | https://vimeo.com/26634653 |
 |      |                                                    |                            |
 |22 29 | power yoga to wake up with Crista                  | https://vimeo.com/168710172|
