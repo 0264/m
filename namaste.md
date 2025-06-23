@@ -1,160 +1,160 @@
 |      |                                                      |                                   |
 | ---- | ---------------------------------------------------- | --------------------------------- |
-|      | search vimeo             |[link](https://vimeo.com/search/sort:popularity?q=doyogawithme)|
+|      | search vimeo            |[vimeo](https://vimeo.com/search/sort:popularity?q=doyogawithme)|
 |      |                                                      |                                   |
-|      | search vimeo        |[link](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)|
+|      | search vimeo       |[vimeo](https://vimeo.com/search?q=doyogawithme&sort=popularity_desc)|
 |      |                                                      |                                   |
-| 1 20 | toe hold seated with David                           |[link](https://vimeo.com/13128664) |
+| 1 20 | toe hold seated with David                           |[vimeo](https://vimeo.com/13128664)|
 |      |                                                      |                                   |
-| 1 21 | seated twist with David                              |[link](https://vimeo.com/13128300) |
+| 1 21 | seated twist with David                              |[vimeo](https://vimeo.com/13128300)|
 |      |                                                      |                                   |
-| 1 44 | extended child pose with David                       |[link](https://vimeo.com/13130756) |
+| 1 44 | extended child pose with David                       |[vimeo](https://vimeo.com/13130756)|
 |      |                                                      |                                   |
-| 2 11 | seated hip stretch with David                        |[link](https://vimeo.com/13127937) |
+| 2 11 | seated hip stretch with David                        |[vimeo](https://vimeo.com/13127937)|
 |      |                                                      |                                   |
-| 2 27 | one leg folded forward bend with David - *pillow*    |[link](https://vimeo.com/13153816) |
+| 2 27 | one leg folded forward bend with David - *pillow*    |[vimeo](https://vimeo.com/13153816)|
 |      |                                                      |                                   |
-| 2 32 | eagle pose with David                                |[link](https://vimeo.com/13130251) |
+| 2 32 | eagle pose with David                                |[vimeo](https://vimeo.com/13130251)|
 |      |                                                      |                                   |
-| 2 45 | head beyond knee pose with David                     |[link](https://vimeo.com/13133590) |
+| 2 45 | head beyond knee pose with David                     |[vimeo](https://vimeo.com/13133590)|
 |      |                                                      |                                   |
-| 2 52 | inverted v pose with David                           |[link](https://vimeo.com/13129482) |
+| 2 52 | inverted v pose with David                           |[vimeo](https://vimeo.com/13129482)|
 |      |                                                      |                                   |
-| 3 03 | Marichi pose, seated with David                      |[link](https://vimeo.com/13154895) |
+| 3 03 | Marichi pose, seated with David                      |[vimeo](https://vimeo.com/13154895)|
 |      |                                                      |                                   |
-| 5 07 | leg stretches, resting on back with David - *strap*  |[link](https://vimeo.com/13164788) |
+| 5 07 | leg stretches, resting on back with David - *strap*  |[vimeo](https://vimeo.com/13164788)|
 |      |                                                      |                                   |
-| 5 59 | office, work day yoga with David - *strap*           |[link](https://vimeo.com/333494144)|
+| 5 59 | office, work day yoga with David - *strap*          |[vimeo](https://vimeo.com/333494144)|
 |      |                                                      |                                   |
-| 7 47 | sun salute with Crista                               |[link](https://vimeo.com/199919691)|
+| 7 47 | sun salute with Crista                              |[vimeo](https://vimeo.com/199919691)|
 |      |                                                      |                                   |
-| 8 06 | standing desk relief with Rachel Scott               |[link](https://vimeo.com/293192492)|
+| 8 06 | standing desk relief with Rachel Scott              |[vimeo](https://vimeo.com/293192492)|
 |      |                                                      |                                   |
-| 9 29 | chair assisted yoga with David                       |[link](https://vimeo.com/333662474)|
+| 9 29 | chair assisted yoga with David                      |[vimeo](https://vimeo.com/333662474)|
 |      |                                                      |                                   |
-| 9 39 | seated neck and shoulder stretches with David        |[link](https://vimeo.com/14470372) |
+| 9 39 | seated neck and shoulder stretches with David        |[vimeo](https://vimeo.com/14470372)|
 |      |                                                      |                                   |
-| 9 50 | slow flow, meditate; David and Satiya - *pillow*     |[link](https://vimeo.com/184603406)|
+| 9 50 | slow flow, meditate; David and Satiya - *pillow*    |[vimeo](https://vimeo.com/184603406)|
 |      |                                                      |                                   |
-|10 46 | create heat and focus on arm muscle! with Fiji       |[link](https://vimeo.com/240932617)|
+|10 46 | create heat and focus on arm muscle! with Fiji      |[vimeo](https://vimeo.com/240932617)|
 |      |                                                      |                                   |
-|11 41 | shoulder and upper back with Erica                   |[link](https://vimeo.com/58200656) |
+|11 41 | shoulder and upper back with Erica                   |[vimeo](https://vimeo.com/58200656)|
 |      |                                                      |                                   |
-|12 53 | stretch neck and shoulder with David - *strap*       |[link](https://vimeo.com/14057532) |
+|12 53 | stretch neck and shoulder with David - *strap*       |[vimeo](https://vimeo.com/14057532)|
 |      |                                                      |                                   |
-|13 11 | Guy Friswell                         |[link](https://www.youtube.com/watch?v=UxFhUj2h1KU)|
+|13 11 | Guy Friswell                                        |[goog](https://youtu.be/UxFhUj2h1KU)|
 |      |                                                      |                                   |
-|13 43 | seated slow flow and restore with Satiya             |[link](https://vimeo.com/214109888)|
+|13 43 | seated slow flow and restore with Satiya            |[vimeo](https://vimeo.com/214109888)|
 |      |                                                      |                                   |
-|14 35 | yoga with Crista                                     |[link](https://vimeo.com/186502370)|
+|14 35 | yoga with Crista                                    |[vimeo](https://vimeo.com/186502370)|
 |      |                                                      |                                   |
-|14 49 | slow stretch shoulder and spine with David - *strap* |[link](https://vimeo.com/14061311) |
+|14 49 | slow stretch shoulder and spine with David - *strap* |[vimeo](https://vimeo.com/14061311)|
 |      |                                                      |                                   |
-|15 06 | focus on core, low back on floor, slow, with Rachel  |[link](https://vimeo.com/155082780)|
+|15 06 | focus on core, low back on floor, slow, with Rachel |[vimeo](https://vimeo.com/155082780)|
 |      |                                                      |                                   |
-|15 22 | seated posture with David        |[link](https://doyogawithme.com/content/office-yoga-ii)|
+|15 22 | seated posture with David        |[doyo](https://doyogawithme.com/content/office-yoga-ii)|
 |      |                                                      |                                   |
-|15 25 | morning stretches for neck and feet with Erica       |[link](https://vimeo.com/58212745) |
+|15 25 | morning stretches for neck and feet with Erica       |[vimeo](https://vimeo.com/58212745)|
 |      |                                                      |                                   |
-|15 44 | :zap: after work yoga with Rachel                    |[link](https://vimeo.com/91051304) |
+|15 44 | :zap: after work yoga with Rachel                    |[vimeo](https://vimeo.com/91051304)|
 |      |                                                      |                                   |
-|15 46 | yoga for lower body with David - *strap, chair*      |[link](https://vimeo.com/81885273) |
+|15 46 | yoga for lower body with David - *strap, chair*      |[vimeo](https://vimeo.com/81885273)|
 |      |                                                      |                                   |
-|15 52 | seated hand and wrist stretches with David           |[link](https://vimeo.com/182120878)|
+|15 52 | seated hand and wrist stretches with David          |[vimeo](https://vimeo.com/182120878)|
 |      |                                                      |                                   |
-|16 08 | seated neck stretches with David                     |[link](https://vimeo.com/111533613)|
+|16 08 | seated neck stretches with David                    |[vimeo](https://vimeo.com/111533613)|
 |      |                                                      |                                   |
-|16 22 | bend and advanced binds with David - *strap, pillow* |[link](https://vimeo.com/112958856)|
+|16 22 | bend and advanced binds with David - *strap, pillow*|[vimeo](https://vimeo.com/112958856)|
 |      |                                                      |                                   |
-|16 28 | sun salute continuous flow not slow with Tracey      |[link](https://vimeo.com/131774878)|
+|16 28 | sun salute continuous flow not slow with Tracey     |[vimeo](https://vimeo.com/131774878)|
 |      |                                                      |                                   |
-|17 39 | :zap: sun rise slow flow with Melissa                |[link](https://vimeo.com/200081746)|
+|17 39 | :zap: sun rise slow flow with Melissa               |[vimeo](https://vimeo.com/200081746)|
 |      |                                                      |                                   |
-|17 56 | standing flow and twist with David                   |[link](https://vimeo.com/111564293)|
+|17 56 | standing flow and twist with David                  |[vimeo](https://vimeo.com/111564293)|
 |      |                                                      |                                   |
-|18 42 | morning slow flow with Satiya                        |[link](https://vimeo.com/188230830)|
+|18 42 | morning slow flow with Satiya                       |[vimeo](https://vimeo.com/188230830)|
 |      |                                                      |                                   |
-|19 13 | slow flow with Josh           |[link](https://doyogawithme.com/content/evening-wind-down)|
+|19 13 | slow flow with Josh           |[doyo](https://doyogawithme.com/content/evening-wind-down)|
 |      |                                                      |                                   |
-|19 17 | arm balance power flow with Fiji - *pillow*          |[link](https://vimeo.com/130555671)|
+|19 17 | arm balance power flow with Fiji - *pillow*         |[vimeo](https://vimeo.com/130555671)|
 |      |                                                      |                                   |
-|19 19 | :zap: seated leg + low back stretch with David       |[link](https://vimeo.com/182615304)|
+|19 19 | :zap: seated leg + low back stretch with David      |[vimeo](https://vimeo.com/182615304)|
 |      |                                                      |                                   |
-|19 46 | :zap: vigorous vinyasa for vitality with Fiji        |[link](https://vimeo.com/140254357)|
+|19 46 | :zap: vigorous vinyasa for vitality with Fiji       |[vimeo](https://vimeo.com/140254357)|
 |      |                                                      |                                   |
-|19 51 | quick flow, end slow, after work yoga with Rachel    |[link](https://vimeo.com/121058388)|
+|19 51 | quick flow, end slow, after work yoga with Rachel   |[vimeo](https://vimeo.com/121058388)|
 |      |                                                      |                                   |
-|19 52 | sun salutations with Melissa                         |[link](https://vimeo.com/109174450)|
+|19 52 | sun salutations with Melissa                        |[vimeo](https://vimeo.com/109174450)|
 |      |                                                      |                                   |
-|19 59 | morning yoga flow with Rachel                        |[link](https://vimeo.com/136258366)|
+|19 59 | morning yoga flow with Rachel                       |[vimeo](https://vimeo.com/136258366)|
 |      |                                                      |                                   |
-|20 01 | :zap: morning wake up and flow, not slow, with Fiji  |[link](https://vimeo.com/198281418)|
+|20 01 | :zap: morning wake up and flow, not slow, with Fiji |[vimeo](https://vimeo.com/198281418)|
 |      |                                                      |                                   |
-|20 01 | hatha yoga with Sarah Jane                           |[link](https://vimeo.com/174611606)|
+|20 01 | hatha yoga with Sarah Jane                          |[vimeo](https://vimeo.com/174611606)|
 |      |                                                      |                                   |
-|20 02 | slow flow ashtanga yoga sequence with Jeff           |[link](https://vimeo.com/250350874)|
+|20 02 | slow flow ashtanga yoga sequence with Jeff          |[vimeo](https://vimeo.com/250350874)|
 |      |                                                      |                                   |
-|20 35 | :zap: hands arms shoulder stretch with David         |[link](https://vimeo.com/182477550)|
+|20 35 | :zap: hands arms shoulder stretch with David        |[vimeo](https://vimeo.com/182477550)|
 |      |                                                      |                                   |
-|20 38 | :zap: yoga for runner post-run with Fiji             |[link](https://vimeo.com/26623677) |
+|20 38 | :zap: yoga for runner post-run with Fiji             |[vimeo](https://vimeo.com/26623677)|
 |      |                                                      |                                   |
-|20 38 | morning slow flow with Josh                         |[link](https://youtu.be/nEdm88qIHRc)|
+|20 38 | morning slow flow with Josh                         |[goog](https://youtu.be/nEdm88qIHRc)|
 |      |                                                      |                                   |
-|20 56 | move and stretch with David *strap*                  |[link](https://vimeo.com/14054968) |
+|20 56 | move and stretch with David *strap*                  |[vimeo](https://vimeo.com/14054968)|
 |      |                                                      |                                   |
-|21 34 | slow flow and balance poses with Melissa             |[link](https://vimeo.com/36525606) |
+|21 34 | slow flow and balance poses with Melissa             |[vimeo](https://vimeo.com/36525606)|
 |      |                                                      |                                   |
-|21 38 | deep stretches with Fiji                             |[link](https://vimeo.com/138860167)|
+|21 38 | deep stretches with Fiji                            |[vimeo](https://vimeo.com/138860167)|
 |      |                                                      |                                   |
-|21 47 | balance and back bends with Fiji                     |[link](https://vimeo.com/128276677)|
+|21 47 | balance and back bends with Fiji                    |[vimeo](https://vimeo.com/128276677)|
 |      |                                                      |                                   |
-|21 50 | :zap: stretch hamstrings with Fiji                   |[link](https://vimeo.com/71550868) |
+|21 50 | :zap: stretch hamstrings with Fiji                   |[vimeo](https://vimeo.com/71550868)|
 |      |                                                      |                                   |
-|21 52 | low back and leg with David - *strap bolster* 8m 30s |[link](https://vimeo.com/138163409)|
+|21 52 | low back and leg with David - *strap bolster* 8m 30s|[vimeo](https://vimeo.com/138163409)|
 |      |                                                      |                                   |
-|22 08 | :zap: yoga for runner pre-run with Fiji              |[link](https://vimeo.com/26634653) |
+|22 08 | :zap: yoga for runner pre-run with Fiji              |[vimeo](https://vimeo.com/26634653)|
 |      |                                                      |                                   |
-|22 29 | power yoga to wake up with Crista                    |[link](https://vimeo.com/168710172)|
+|22 29 | power yoga to wake up with Crista                   |[vimeo](https://vimeo.com/168710172)|
 |      |                                                      |                                   |
-|22 45 | :zap: arm strength with Melissa - *pillow*           |[link](https://vimeo.com/36428350) |
+|22 45 | :zap: arm strength with Melissa - *pillow*           |[vimeo](https://vimeo.com/36428350)|
 |      |                                                      |                                   |
-|22 46 | :zap: morning flow not slow with Sarah Jane          |[link](https://vimeo.com/199863587)|
+|22 46 | :zap: morning flow not slow with Sarah Jane         |[vimeo](https://vimeo.com/199863587)|
 |      |                                                      |                                   |
-|22 48 | :pushpin: slow sun salutations with David            |[link](https://vimeo.com/217843142)|
+|22 48 | :pushpin: slow sun salutations with David           |[vimeo](https://vimeo.com/217843142)|
 |      |                                                      |                                   |
-|23 01 |:zap: vigorous, create heat and stronger arms, Fiji   |[link](https://vimeo.com/134311766)|
+|23 01 |:zap: vigorous, create heat and stronger arms, Fiji  |[vimeo](https://vimeo.com/134311766)|
 |      |                                                      |                                   |
-|23 06 | slow morning yoga with Melissa           |[link](https://youtube.com/watch?v=HVwffh9hE7k)|
+|23 06 | slow morning yoga with Melissa                      |[goog](https://youtu.be/HVwffh9hE7k)|
 |      |                                                      |                                   |
-|23 37 | :zap: morning wake and move with Ron                 |[link](https://vimeo.com/196930083)|
+|23 37 | :zap: morning wake and move with Ron                |[vimeo](https://vimeo.com/196930083)|
 |      |                                                      |                                   |
-|23 41 | neck shoulder wrists with David - *strap*            |[link](https://vimeo.com/17230341) |
+|23 41 | neck shoulder wrists with David - *strap*            |[vimeo](https://vimeo.com/17230341)|
 |      |                                                      |                                   |
-|23 47 | strong core and arm balance with Fiji - *block*      |[link](https://vimeo.com/221339254)|
+|23 47 | strong core and arm balance with Fiji - *block*     |[vimeo](https://vimeo.com/221339254)|
 |      |                                                      |                                   |
-|23 49 | :zap: sweet stretches for runner with Fiji           |[link](https://vimeo.com/27568754) |
+|23 49 | :zap: sweet stretches for runner with Fiji           |[vimeo](https://vimeo.com/27568754)|
 |      |                                                      |                                   |
-|24 11 | Guy Friswell                         |[link](https://www.youtube.com/watch?v=r9TlN5NYMhA)|
+|24 11 | Guy Friswell                                        |[goog](https://youtu.be/r9TlN5NYMhA)|
 |      |                                                      |                                   |
-|24 22 | rhythm routine with Fiji     |[link](https://doyogawithme.com/content/rhythm-and-routine)|
+|24 22 | rhythm routine with Fiji     |[doyo](https://doyogawithme.com/content/rhythm-and-routine)|
 |      |                                                      |                                   |
-|24 38 | slow flow and long holds with Sarah Jane Steele      |[link](https://vimeo.com/184207366)|
+|24 38 | slow flow and long holds with Sarah Jane Steele     |[vimeo](https://vimeo.com/184207366)|
 |      |                                                      |                                   |
-|24 42 | slow flow and prepare for sleep with Sarah Holmes    |[link](https://vimeo.com/279348199)|
+|24 42 | slow flow and prepare for sleep with Sarah Holmes   |[vimeo](https://vimeo.com/279348199)|
 |      |                                                      |                                   |
-|24 42 | slow flow Sarah Holmes      |[link](https://doyogawithme.com/content/reclining-flow-rest)|
+|24 42 | slow flow Sarah Holmes      |[doyo](https://doyogawithme.com/content/reclining-flow-rest)|
 |      |                                                      |                                   |
-|24 55 | light within with Fiji                               |[link](https://vimeo.com/344154768)|
+|24 55 | light within with Fiji                              |[vimeo](https://vimeo.com/344154768)|
 |      |                                                      |                                   |
-|25 13 | flow to side crow with Rachel                        |[link](https://vimeo.com/137794750)|
+|25 13 | flow to side crow with Rachel                       |[vimeo](https://vimeo.com/137794750)|
 |      |                                                      |                                   |
-|25 15 | :zap: create heat and flow with Tracey               |[link](https://vimeo.com/174732366)|
+|25 15 | :zap: create heat and flow with Tracey              |[vimeo](https://vimeo.com/174732366)|
 |      |                                                      |                                   |
-|26 32 | stretch IT band with David - *strap wall block*      |[link](https://vimeo.com/14698987) |
+|26 32 | stretch IT band with David - *strap wall block*      |[vimeo](https://vimeo.com/14698987)|
 |      |                                                      |                                   |
-|26 32 | stretch IT band with David           |[link](https://www.youtube.com/watch?v=cQ_7iCK6zRs)|
+|26 32 | stretch IT band with David                          |[goog](https://youtu.be/cQ_7iCK6zRs)|
 |      |                                                      |                                   |
-|26 37 | inspire the fire, stronger arms! with Fiji           |[link](https://vimeo.com/206652147)|
+|26 37 | inspire the fire, stronger arms! with Fiji          |[vimeo](https://vimeo.com/206652147)|
 |      |                                                      |                                   |
 |26 47 | slow flow for lower back with David - strap        | https://vimeo.com/196231487|
 |      |                                                    |                            |
@@ -288,7 +288,7 @@
 |      |                                                    |                            |
 |38 57 | focused on Prana life force with FIJI              | https://vimeo.com/260074147|
 |      |                                                    |                            |
-|39 08 | back to the mat yoga with Fiji                    |[link](https://vimeo.com/191071769)|
+|39 08 | back to the mat yoga with Fiji                    |[vimeo](https://vimeo.com/191071769)|
 |      |                                                    |                            |
 |39 10 | flow to restore with Tianne                        | https://vimeo.com/34615329 |
 |      |                                                    |                            |
@@ -468,7 +468,7 @@
 |      |                                                    |                            |
 |61 53 | yoga for the spine with Anastasia                  | https://vimeo.com/193263846|
 |      |                                                    |                            |
-|62 24 | yoga for shoulders and arms with Fiji              |[link](https://vimeo.com/82303463)|
+|62 24 | yoga for shoulders and arms with Fiji              |[vimeo](https://vimeo.com/82303463)|
 |      |                                                    |                            |
 |63 18 | prana pulse power flow with Tianne                 | https://vimeo.com/59744414 |
 |      |                                                    |                            |
