@@ -42,7 +42,7 @@
 |      |                                                      |                                   |
 |12 53 | stretch neck and shoulder with David - *strap*       |[vimeo](https://vimeo.com/14057532)|
 |      |                                                      |                                   |
-|13 11 | Guy Friswell                                        |[goog](https://youtu.be/UxFhUj2h1KU)|
+|13 11 | Guy Friswell                                        |[tube](https://youtu.be/UxFhUj2h1KU)|
 |      |                                                      |                                   |
 |13 43 | seated slow flow and restore with Satiya            |[vimeo](https://vimeo.com/214109888)|
 |      |                                                      |                                   |
@@ -98,7 +98,7 @@
 |      |                                                      |                                   |
 |20 38 | :zap: yoga for runner post-run with Fiji             |[vimeo](https://vimeo.com/26623677)|
 |      |                                                      |                                   |
-|20 38 | morning slow flow with Josh                         |[goog](https://youtu.be/nEdm88qIHRc)|
+|20 38 | morning slow flow with Josh                         |[tube](https://youtu.be/nEdm88qIHRc)|
 |      |                                                      |                                   |
 |20 56 | move and stretch with David *strap*                  |[vimeo](https://vimeo.com/14054968)|
 |      |                                                      |                                   |
@@ -124,7 +124,7 @@
 |      |                                                      |                                   |
 |23 01 |:zap: vigorous, create heat and stronger arms, Fiji  |[vimeo](https://vimeo.com/134311766)|
 |      |                                                      |                                   |
-|23 06 | slow morning yoga with Melissa                      |[goog](https://youtu.be/HVwffh9hE7k)|
+|23 06 | slow morning yoga with Melissa                      |[tube](https://youtu.be/HVwffh9hE7k)|
 |      |                                                      |                                   |
 |23 37 | :zap: morning wake and move with Ron                |[vimeo](https://vimeo.com/196930083)|
 |      |                                                      |                                   |
@@ -134,7 +134,7 @@
 |      |                                                      |                                   |
 |23 49 | :zap: sweet stretches for runner with Fiji           |[vimeo](https://vimeo.com/27568754)|
 |      |                                                      |                                   |
-|24 11 | Guy Friswell                                        |[goog](https://youtu.be/r9TlN5NYMhA)|
+|24 11 | Guy Friswell                                        |[tube](https://youtu.be/r9TlN5NYMhA)|
 |      |                                                      |                                   |
 |24 22 | rhythm routine with Fiji     |[doyo](https://doyogawithme.com/content/rhythm-and-routine)|
 |      |                                                      |                                   |
@@ -152,18 +152,18 @@
 |      |                                                      |                                   |
 |26 32 | stretch IT band with David - *strap wall block*      |[vimeo](https://vimeo.com/14698987)|
 |      |                                                      |                                   |
-|26 32 | stretch IT band with David                          |[goog](https://youtu.be/cQ_7iCK6zRs)|
+|26 32 | stretch IT band with David                          |[tube](https://youtu.be/cQ_7iCK6zRs)|
 |      |                                                      |                                   |
 |26 37 | inspire the fire, stronger arms! with Fiji          |[vimeo](https://vimeo.com/206652147)|
 |      |                                                      |                                   |
-|26 47 | slow flow for lower back with David - strap        | https://vimeo.com/196231487|
-|      |                                                    |                            |
-|26 48 | slow yoga for sleep with Sarah Jane                | https://vimeo.com/250332010|
-|      |                                                    |                            |
-|26 59 | :zap: hips hamstring spine with David <<<<<<<<<<<< | https://vimeo.com/13236790 |
-|      |                                                    |                            |
-|27 28 |                                                  | https://youtu.be/PojgMEUIy-4 |
-|      |                                                    |                            |
+|26 47 | slow flow for lower back with David *strap*         |[vimeo](https://vimeo.com/196231487)|
+|      |                                                      |                                   |
+|26 48 | slow yoga for sleep with Sarah Jane                 |[vimeo](https://vimeo.com/250332010)|
+|      |                                                      |                                   |
+|26 59 | :zap: hips hamstring spine with David                |[vimeo](https://vimeo.com/13236790)|
+|      |                                                      |                                   |
+|27 28 | hips hamstring spine with David                     |[tube](https://youtu.be/PojgMEUIy-4)|
+|      |                                                      |                                   |
 |27 01 | chair yoga with David                              | https://vimeo.com/82303464 |
 |      |                                                    |                            |
 |27 08 | | [Gratitude with Tracey](https://doyogawithme.com/content/gateway-to-gratitude)|
