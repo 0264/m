@@ -175,25 +175,25 @@
 |27 33 | slow yoga with Sarah Jane                           |[vimeo](https://vimeo.com/222280936)|
 |      |                                                     |                                    |
 |27 52 | seated slow move and stretch with Satiya            |[vimeo](https://vimeo.com/273991189)|
-|      |                                                    |                            |
-|28 07 | yoga for your spine    | [Guy Friswell](https://youtube.com/watch?v=hwKAYjo8Mlw)|
-|      |                                                    |                            |
-|28 27 | seated stretch hip leg spine with Satiya - pillow  | https://vimeo.com/159752410|
-|      |                                                    |                            |
-|28 36 |                   | [yoga with FIJI](https://www.doyogawithme.com/yummy-30-yoga)|
-|      |                                                    |                            |
-|28 36 |                  | [yoga with FIJI](https://www.youtube.com/watch?v=e-OWPACIMPM)|
-|      |                                                    |                            |
-|28 56 | slow seated postures with David - pillows          | https://vimeo.com/217112618|
-|      |                                                    |                            |
-|29 10 | yoga for lower back with David                     | https://vimeo.com/263227385|
-|      |                                                    |                            |
-|29 27 | seated slow flow for sleep with Melissa            | https://vimeo.com/133616675|
-|      |                                                    |                            |
-|29 37 | stretching hatha yoga | [Guy Friswell](https://youtube.com/watch?v=jUUGLkJrgMo) |
-|      |                                                    |                            |
-|30 03 |   | [slow standing poses with FIJI](https://www.youtube.com/watch?v=0RPXFmA-Tv8)|
-|      |                                                    |                            |
+|      |                                                     |                                    |
+|28 07 | yoga for your spine with Guy Friswell               |[tube](https://youtu.be/hwKAYjo8Mlw)|
+|      |                                                     |                                    |
+|28 27 | seated stretch hip leg spine with Satiya *pillow*   |[vimeo](https://vimeo.com/159752410)|
+|      |                                                     |                                    |
+|28 36 | yoga with Fiji                        |[doyo](https://www.doyogawithme.com/yummy-30-yoga)|
+|      |                                                     |                                    |
+|28 36 | yoga with Fiji                                      |[tube](https://youtu.be/e-OWPACIMPM)|
+|      |                                                     |                                    |
+|28 56 | slow seated postures with David *pillows*           |[vimeo](https://vimeo.com/217112618)|
+|      |                                                     |                                    |
+|29 10 | yoga for lower back with David                      |[vimeo](https://vimeo.com/263227385)|
+|      |                                                     |                                    |
+|29 27 | seated slow flow for sleep with Melissa             |[vimeo](https://vimeo.com/133616675)|
+|      |                                                     |                                    |
+|29 37 | stretching hatha yoga with Guy Friswell             |[tube](https://youtu.be/jUUGLkJrgMo)|
+|      |                                                     |                                    |
+|30 03 | slow standing poses with Fiji                       |[tube](https://youtu.be/0RPXFmA-Tv8)|
+|      |                                                     |                                    |
 |30 22 | slow flow for the spine with Sarah Jane            | https://vimeo.com/222297348|
 |      |                                                    |                            |
 |30 39 | :zap: strengthen and lengthen with Anastasia <<<<< | https://vimeo.com/99794823 |
