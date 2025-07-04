@@ -194,18 +194,18 @@
 |      |                                                     |                                    |
 |30 03 | slow standing poses with Fiji                       |[tube](https://youtu.be/0RPXFmA-Tv8)|
 |      |                                                     |                                    |
-|30 22 | slow flow for the spine with Sarah Jane            | https://vimeo.com/222297348|
-|      |                                                    |                            |
-|30 39 | :zap: strengthen and lengthen with Anastasia <<<<< | https://vimeo.com/99794823 |
-|      |                                                    |                            |
-|30 43 |                    | [Guy Friswell](https://www.youtube.com/watch?v=JljQ-bep1d0)|
-|      |                                                    |                            |
-|31 15 | find your footing | [Tracey](https://doyogawithme.com/content/find-your-footing)|
-|      |                                                    |                            |
-|31 36 | | [core and arms with Rachel](https://doyogawithme.com/content/30-minutes-power)|
-|      |                                                    |                            |
-|32 07 | stretch lower back with David - strap              | https://vimeo.com/266925551|
-|      |                                                    |                            |
+|30 22 | slow flow for the spine with Sarah Jane             |[vimeo](https://vimeo.com/222297348)|
+|      |                                                     |                                    |
+|30 39 | :zap: strengthen and lengthen with Anastasia        |[vimeo](https://vimeo.com/99794823) |
+|      |                                                     |                                    |
+|30 43 | Guy Friswell                                        |[tube](https://youtu.be/JljQ-bep1d0)|
+|      |                                                     |                                    |
+|31 15 | find your footing with Tracey |[doyo](https://doyogawithme.com/content/find-your-footing)|
+|      |                                                     |                                    |
+|31 36 | core and arms with Rachel      |[doyo](https://doyogawithme.com/content/30-minutes-power)|
+|      |                                                     |                                    |
+|32 07 | stretch lower back with David *strap*               |[vimeo](https://vimeo.com/266925551)|
+|      |                                                     |                                    |
 |32 28 | :zap: move! |[FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
 |      |                                                    |                            |
 |32 29 | inner dancer with Tracey - pillow                  | https://vimeo.com/128877500|
