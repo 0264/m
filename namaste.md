@@ -100,7 +100,7 @@
 |      |                                                     |                                    |
 |20 38 | morning slow flow with Josh                         |[tube](https://youtu.be/nEdm88qIHRc)|
 |      |                                                     |                                    |
-|20 56 | move and stretch with David *strap*                 |[vimeo](https://vimeo.com/14054968) |
+|20 56 | move and stretch with David - *strap*               |[vimeo](https://vimeo.com/14054968) |
 |      |                                                     |                                    |
 |21 34 | slow flow and balance poses with Melissa            |[vimeo](https://vimeo.com/36525606) |
 |      |                                                     |                                    |
@@ -156,7 +156,7 @@
 |      |                                                     |                                    |
 |26 37 | inspire the fire, stronger arms! with Fiji          |[vimeo](https://vimeo.com/206652147)|
 |      |                                                     |                                    |
-|26 47 | slow flow for lower back with David *strap*         |[vimeo](https://vimeo.com/196231487)|
+|26 47 | slow flow for lower back with David - *strap*       |[vimeo](https://vimeo.com/196231487)|
 |      |                                                     |                                    |
 |26 48 | slow yoga for sleep with Sarah Jane                 |[vimeo](https://vimeo.com/250332010)|
 |      |                                                     |                                    |
@@ -164,13 +164,13 @@
 |      |                                                     |                                    |
 |27 28 | hips hamstring spine with David                     |[tube](https://youtu.be/PojgMEUIy-4)|
 |      |                                                     |                                    |
-|27 01 | chair yoga with David *chair*                       |[vimeo](https://vimeo.com/82303464) |
+|27 01 | chair yoga with David - *chair*                     |[vimeo](https://vimeo.com/82303464) |
 |      |                                                     |                                    |
 |27 08 | gratitude with Tracey      |[doyo](https://doyogawithme.com/content/gateway-to-gratitude)|
 |      |                                                     |                                    |
 |27 12 | :zap: move, open up, stretch with Rachel            |[vimeo](https://vimeo.com/240331891)|
 |      |                                                     |                                    |
-|27 15 | stronger arms! with Anastasia *strap*               |[vimeo](https://vimeo.com/174776714)|
+|27 15 | stronger arms! with Anastasia - *strap*             |[vimeo](https://vimeo.com/174776714)|
 |      |                                                     |                                    |
 |27 33 | slow yoga with Sarah Jane                           |[vimeo](https://vimeo.com/222280936)|
 |      |                                                     |                                    |
@@ -178,13 +178,13 @@
 |      |                                                     |                                    |
 |28 07 | yoga for your spine with Guy Friswell               |[tube](https://youtu.be/hwKAYjo8Mlw)|
 |      |                                                     |                                    |
-|28 27 | seated stretch hip leg spine with Satiya *pillow*   |[vimeo](https://vimeo.com/159752410)|
+|28 27 | seated stretch hip leg spine with Satiya - *pillow* |[vimeo](https://vimeo.com/159752410)|
 |      |                                                     |                                    |
 |28 36 | yoga with Fiji                        |[doyo](https://www.doyogawithme.com/yummy-30-yoga)|
 |      |                                                     |                                    |
 |28 36 | yoga with Fiji                                      |[tube](https://youtu.be/e-OWPACIMPM)|
 |      |                                                     |                                    |
-|28 56 | slow seated postures with David *pillows*           |[vimeo](https://vimeo.com/217112618)|
+|28 56 | slow seated postures with David - *pillows*         |[vimeo](https://vimeo.com/217112618)|
 |      |                                                     |                                    |
 |29 10 | yoga for lower back with David                      |[vimeo](https://vimeo.com/263227385)|
 |      |                                                     |                                    |
@@ -204,20 +204,20 @@
 |      |                                                     |                                    |
 |31 36 | core and arms with Rachel      |[doyo](https://doyogawithme.com/content/30-minutes-power)|
 |      |                                                     |                                    |
-|32 07 | stretch lower back with David *strap*               |[vimeo](https://vimeo.com/266925551)|
+|32 07 | stretch lower back with David - *strap*             |[vimeo](https://vimeo.com/266925551)|
 |      |                                                     |                                    |
-|32 28 | :zap: move! |[FIJI](https://doyogawithme.com/content/activated-asana-whole-body)|
-|      |                                                    |                            |
-|32 29 | inner dancer with Tracey - pillow                  | https://vimeo.com/128877500|
-|      |                                                    |                            |
-|32 39 | flow for stretch after run or bike with Tracey     | https://vimeo.com/148039556|
-|      |                                                    |                            |
-|32 53 | twist and slow stretches with Melissa              | https://vimeo.com/155688285|
-|      |                                                    |                            |
-|33 03 | Ashtanga yoga with Jeff                            | https://vimeo.com/247237141|
-|      |                                                    |                            |
-|33 13 | :zap: slow flow with Ron - pillow, strap <<<<<<<<< | https://vimeo.com/147066588|
-|      |                                                    |                            |
+|32 28 | :zap: move! with Fiji|[doyo](https://doyogawithme.com/content/activated-asana-whole-body)|
+|      |                                                     |                                    |
+|32 29 | inner dancer with Tracey - *pillow*                 |[vimeo](https://vimeo.com/128877500)|
+|      |                                                     |                                    |
+|32 39 | flow for stretch after run or bike with Tracey      |[vimeo](https://vimeo.com/148039556)|
+|      |                                                     |                                    |
+|32 53 | twist and slow stretches with Melissa               |[vimeo](https://vimeo.com/155688285)|
+|      |                                                     |                                    |
+|33 03 | Ashtanga yoga with Jeff                             |[vimeo](https://vimeo.com/247237141)|
+|      |                                                     |                                    |
+|33 13 | :zap: slow flow with Ron - *pillow, strap*          |[vimeo](https://vimeo.com/147066588)|
+|      |                                                     |                                    |
 |33 17 | establish stronger core with David                 | https://vimeo.com/189874340|
 |      |                                                    |                            |
 |33 20 | half hour class for shoulders with David           | https://vimeo.com/17624804 |
