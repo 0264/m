@@ -227,16 +227,16 @@
 |33 41 | slow flow, grounded and rooted with Fiji            |[vimeo](https://vimeo.com/202971704)|
 |      |                                                     |                                    |
 |33 50 | slow flow with Guy         |[doyo](https://doyogawithme.com/content/slow-power-free-flow)|
-|      |                                                    |                            |
-|34 09 | yoga for shoulders with Sarah Jane                 | https://vimeo.com/156725592|
-|      |                                                    |                            |
-|34 34 | | [spine with Tianne](https://www.doyogawithme.com/content/strong-healthy-spine)|
-|      |                                                    |                            |
-|34 38 | slow stretches, extended shavasana with David      | https://vimeo.com/155916286|
-|      |                                                    |                            |
-|34 46 | :zap: rise and shine, high energy with FIJI - block| https://vimeo.com/98560546 |
-|      |                                                    |                            |
-|34 50 | :zap: slow flow stretch with Melissa - block <<<<< | https://vimeo.com/40336788 |
+|      |                                                     |                                    |
+|34 09 | yoga for shoulders with Sarah Jane                  |[vimeo](https://vimeo.com/156725592)|
+|      |                                                     |                                    |
+|34 34 | spine with Tianne          |[doyo](https://doyogawithme.com/content/strong-healthy-spine)|
+|      |                                                     |                                    |
+|34 38 | slow stretches, extended shavasana with David       |[vimeo](https://vimeo.com/155916286)|
+|      |                                                     |                                    |
+|34 46 | :zap: rise, shine, high energy with Fiji - *block*  |[vimeo](https://vimeo.com/98560546) |
+|      |                                                     |                                    |
+|34 50 | :zap: slow flow stretch with Melissa - *block*      |[vimeo](https://vimeo.com/40336788) |
 |      |                                                    |                            |
 |35 28 | shift perspective with Tracey                      | https://vimeo.com/129902941|
 |      |                                                    |                            |
