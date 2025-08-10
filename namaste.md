@@ -218,15 +218,15 @@
 |      |                                                     |                                    |
 |33 13 | :zap: slow flow with Ron - *pillow, strap*          |[vimeo](https://vimeo.com/147066588)|
 |      |                                                     |                                    |
-|33 17 | establish stronger core with David                 | https://vimeo.com/189874340|
-|      |                                                    |                            |
-|33 20 | half hour class for shoulders with David           | https://vimeo.com/17624804 |
-|      |                                                    |                            |
-|33 27 | post natal yoga and back to the mat with FIJI      | https://vimeo.com/106440999|
-|      |                                                    |                            |
-|33 41 | slow flow, grounded and rooted with FIJI           | https://vimeo.com/202971704|
-|      |                                                    |                            |
-|33 50 | |[slow flow with Guy](https://www.doyogawithme.com/content/slow-power-free-flow)|
+|33 17 | establish stronger core with David                  |[vimeo](https://vimeo.com/189874340)|
+|      |                                                     |                                    |
+|33 20 | half hour class for shoulders with David            |[vimeo](https://vimeo.com/17624804) |
+|      |                                                     |                                    |
+|33 27 | post natal yoga and back to the mat with Fiji       |[vimeo](https://vimeo.com/106440999)|
+|      |                                                     |                                    |
+|33 41 | slow flow, grounded and rooted with Fiji            |[vimeo](https://vimeo.com/202971704)|
+|      |                                                     |                                    |
+|33 50 | slow flow with Guy         |[doyo](https://doyogawithme.com/content/slow-power-free-flow)|
 |      |                                                    |                            |
 |34 09 | yoga for shoulders with Sarah Jane                 | https://vimeo.com/156725592|
 |      |                                                    |                            |
@@ -269,6 +269,8 @@
 |37 05 | yoga for upper back with David - 6m strap, pillow  | https://vimeo.com/101369379|
 |      |                                                    |                            |
 |37 09 | slow back bends with Anastasia                     | https://vimeo.com/236855148|
+|      |                                                    |                            |
+|37 27 | lift and shift with Fiji                           |[vimeo](https://vimeo.com/1090662729)|
 |      |                                                    |                            |
 |37 37 |  | [yoga with Tracey](https://doyogawithme.com/content/reset-recalibrate-revive)|
 |      |                                                    |                            |
