@@ -237,24 +237,24 @@
 |34 46 | :zap: rise, shine, high energy with Fiji - *block*  |[vimeo](https://vimeo.com/98560546) |
 |      |                                                     |                                    |
 |34 50 | :zap: slow flow stretch with Melissa - *block*      |[vimeo](https://vimeo.com/40336788) |
-|      |                                                    |                            |
-|35 28 | shift perspective with Tracey                      | https://vimeo.com/129902941|
-|      |                                                    |                            |
-|35 30 | hips after run with David - 4m 50s, pillow for knee| https://vimeo.com/105434474|
-|      |                                                    |                            |
-|35 33 | hip stretches and extended holds with Sarah Jane   | https://vimeo.com/167225617|
-|      |                                                    |                            |
-|35 42 | seated hip, low back stretch with Satiya - pillows | https://vimeo.com/212177907|
-|      |                                                    |                            |
-|35 49 | vinyasa to exhilarate with Tracey                  | https://vimeo.com/169304383|
-|      |                                                    |                            |
-|36 08 | slow stretch with David - strap, pillows, wall     | https://vimeo.com/25751154 |
-|      |                                                    |                            |
-|36 08 |  | [move and twist with Ron](https://www.doyogawithme.com/content/freedom-wings)|
-|      |                                                    |                            |
-|36 08 |         | [move and twist with Ron](https://www.youtube.com/watch?v=tPiNhvwtazQ)|
-|      |                                                    |                            |
-|36 10 | moon dance with FIJI                               | https://vimeo.com/807743622|
+|      |                                                     |                                    |
+|35 28 | shift perspective with Tracey                       |[vimeo](https://vimeo.com/129902941)|
+|      |                                                     |                                    |
+|35 30 | hips after run with David - *4m50s, pillow for knee*|[vimeo](https://vimeo.com/105434474)|
+|      |                                                     |                                    |
+|35 33 | hip stretches and extended holds with Sarah Jane    |[vimeo](https://vimeo.com/167225617)|
+|      |                                                     |                                    |
+|35 42 | seated hip, low back stretch with Satiya - *pillows*|[vimeo](https://vimeo.com/212177907)|
+|      |                                                     |                                    |
+|35 49 | vinyasa to exhilarate with Tracey                   |[vimeo](https://vimeo.com/169304383)|
+|      |                                                     |                                    |
+|36 08 | slow stretch with David - *strap, pillows, wall*    |[vimeo](https://vimeo.com/25751154) |
+|      |                                                     |                                    |
+|36 08 | move and twist with Ron           |[doyo](https://doyogawithme.com/content/freedom-wings)|
+|      |                                                     |                                    |
+|36 08 | move and twist with Ron                             |[tube](https://youtu.be/tPiNhvwtazQ)|
+|      |                                                     |                                    |
+|36 10 | moon dance with Fiji                                |[vimeo](https://vimeo.com/807743622)|
 |      |                                                    |                            |
 |36 10 | yoga for longer runs with FIJI                     | https://vimeo.com/854741332|
 |      |                                                    |                            |
