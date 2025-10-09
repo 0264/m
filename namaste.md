@@ -255,14 +255,14 @@
 |36 08 | move and twist with Ron                             |[tube](https://youtu.be/tPiNhvwtazQ)|
 |      |                                                     |                                    |
 |36 10 | moon dance with Fiji                                |[vimeo](https://vimeo.com/807743622)|
-|      |                                                    |                            |
-|36 10 | yoga for longer runs with FIJI                     | https://vimeo.com/854741332|
-|      |                                                    |                            |
-|36 12 | :zap: birds of a feather with FIJI <<<<<<<<<<<<<<< | https://vimeo.com/198289713|
-|      |                                                    |                            |
-|36 19 | bed time slow flow with Melissa                    | https://vimeo.com/111166166|
-|      |                                                    |                            |
-|36 30 | lower back with Sarah Jane - strap                 | https://vimeo.com/149038526|
+|      |                                                     |                                    |
+|36 10 | yoga for longer runs with Fiji                      |[vimeo](https://vimeo.com/854741332)|
+|      |                                                     |                                    |
+|36 12 | :zap: birds of a feather with Fiji                  |[vimeo](https://vimeo.com/198289713)|
+|      |                                                     |                                    |
+|36 19 | bed time slow flow with Melissa                     |[vimeo](https://vimeo.com/111166166)|
+|      |                                                     |                                    |
+|36 30 | lower back with Sarah Jane - *strap*                |[vimeo](https://vimeo.com/149038526)|
 |      |                                                    |                            |
 |36 57 | computer user class with David                     | https://vimeo.com/16580644 |
 |      |                                                    |                            |
