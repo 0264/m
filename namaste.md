@@ -263,25 +263,25 @@
 |36 19 | bed time slow flow with Melissa                     |[vimeo](https://vimeo.com/111166166)|
 |      |                                                     |                                    |
 |36 30 | lower back with Sarah Jane - *strap*                |[vimeo](https://vimeo.com/149038526)|
-|      |                                                    |                            |
-|36 57 | computer user class with David                     | https://vimeo.com/16580644 |
-|      |                                                    |                            |
-|37 05 | yoga for upper back with David - 6m strap, pillow  | https://vimeo.com/101369379|
-|      |                                                    |                            |
-|37 09 | slow back bends with Anastasia                     | https://vimeo.com/236855148|
-|      |                                                    |                            |
+|      |                                                     |                                    |
+|36 57 | computer user class with David                      |[vimeo](https://vimeo.com/16580644) |
+|      |                                                     |                                    |
+|37 05 | yoga for upper back with David - 6m *strap, pillow* |[vimeo](https://vimeo.com/101369379)|
+|      |                                                     |                                    |
+|37 09 | slow back bends with Anastasia                      |[vimeo](https://vimeo.com/236855148)|
+|      |                                                     |                                    |
 |37 27 | lift and shift with Fiji                           |[vimeo](https://vimeo.com/1090662729)|
-|      |                                                    |                            |
-|37 37 |  | [yoga with Tracey](https://doyogawithme.com/content/reset-recalibrate-revive)|
-|      |                                                    |                            |
-|37 51 | posture, foundations, twists, ohm with FIJI        | https://vimeo.com/260063345|
-|      |                                                    |                            |
-|38 06 | sun rise yoga with Melissa * REVIEW                | https://vimeo.com/131027707|
-|      |                                                    |                            |
-|38 06 |                       | [sun rise yoga](https://youtube.com/watch?v=eaO6DKNcMKk)|
-|      |                                                    |                            |
-|38 25 | flow for shoulders with Anastasia                  | https://vimeo.com/105307839|
-|      |                                                    |                            |
+|      |                                                     |                                    |
+|37 37 | yoga with Tracey       |[doyo](https://doyogawithme.com/content/reset-recalibrate-revive)|
+|      |                                                     |                                    |
+|37 51 | posture, foundations, twists, ohm with Fiji         |[vimeo](https://vimeo.com/260063345)|
+|      |                                                     |                                    |
+|38 06 | sun rise yoga with Melissa *review*                 |[vimeo](https://vimeo.com/131027707)|
+|      |                                                     |                                    |
+|38 06 | sun rise yoga                                       |[tube](https://youtu.be/eaO6DKNcMKk)|
+|      |                                                     |                                    |
+|38 25 | flow for shoulders with Anastasia                   |[vimeo](https://vimeo.com/105307839)|
+|      |                                                     |                                    |
 |38 42 | yoga with FIJI                                     | https://vimeo.com/254746199|
 |      |                                                    |                            |
 |38 43 | yoga with FIJI                                     | https://vimeo.com/228843338|
