@@ -266,7 +266,7 @@
 |      |                                                     |                                    |
 |36 57 | computer user class with David                      |[vimeo](https://vimeo.com/16580644) |
 |      |                                                     |                                    |
-|37 05 | yoga for upper back with David - 6m *strap, pillow* |[vimeo](https://vimeo.com/101369379)|
+|37 05 | yoga for upper back with David - *6m, strap, pillow*|[vimeo](https://vimeo.com/101369379)|
 |      |                                                     |                                    |
 |37 09 | slow back bends with Anastasia                      |[vimeo](https://vimeo.com/236855148)|
 |      |                                                     |                                    |
@@ -276,7 +276,7 @@
 |      |                                                     |                                    |
 |37 51 | posture, foundations, twists, ohm with Fiji         |[vimeo](https://vimeo.com/260063345)|
 |      |                                                     |                                    |
-|38 06 | sun rise yoga with Melissa *review*                 |[vimeo](https://vimeo.com/131027707)|
+|38 06 | sun rise yoga with Melissa - *review*               |[vimeo](https://vimeo.com/131027707)|
 |      |                                                     |                                    |
 |38 06 | sun rise yoga                                       |[tube](https://youtu.be/eaO6DKNcMKk)|
 |      |                                                     |                                    |
