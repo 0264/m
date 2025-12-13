@@ -292,8 +292,6 @@
 |      |                                                     |                                    |
 |39 08 | back to the mat yoga with Fiji                      |[vimeo](https://vimeo.com/191071769)|
 |      |                                                     |                                    |
-|39 10 | flow to restore with Tianne                         |[vimeo](https://vimeo.com/34615329) |
-|      |                                                     |                                    |
 |39 28 | back bends with Fiji                                |[vimeo](https://vimeo.com/35556162) |
 |      |                                                     |                                    |
 |39 28 | back bending from base intermediate yoga with Fiji  |[vimeo](https://vimeo.com/26729461) |
@@ -305,14 +303,14 @@
 |39 39 | flow with Fiji                                      |[vimeo](https://vimeo.com/122182133)|
 |      |                                                     |                                    |
 |40 07 | expand your horizon with Tracey                     |[vimeo](https://vimeo.com/139755648)|
-|      |                                                    |                            |
-|40 31 | :zap: feet and balance with Rachel <<<<<<<<<<<<<<< | https://vimeo.com/82018631 |
-|      |                                                    |                            |
-|40 34 | forces and spaces in us, with FIJI                 | https://vimeo.com/266429171|
-|      |                                                    |                            |
-|40 45 | |[slow flow with Guy](https://doyogawithme.com/content/slow-flow-creating-space)|
-|      |                                                    |                            |
-|41 36 | Ashtanga yoga with Jeff                            | https://vimeo.com/247214065|
+|      |                                                     |                                    |
+|40 31 | :zap: feet and balance with Rachel <<<<<<<<<<<<<<<  |[vimeo](https://vimeo.com/82018631) |
+|      |                                                     |                                    |
+|40 34 | forces and spaces in us, with Fiji                  |[vimeo](https://vimeo.com/266429171)|
+|      |                                                     |                                    |
+|40 45 | slow flow with Guy     |[doyo](https://doyogawithme.com/content/slow-flow-creating-space)|
+|      |                                                     |                                    |
+|41 36 | Ashtanga yoga with Jeff                             |[vimeo](https://vimeo.com/247214065)|
 |      |                                                    |                            |
 |41 50 | slow leg and hip stretches for sciatica with David | https://vimeo.com/154271371|
 |      |                                                    |                            |
