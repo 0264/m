@@ -311,14 +311,14 @@
 |40 45 | slow flow with Guy     |[doyo](https://doyogawithme.com/content/slow-flow-creating-space)|
 |      |                                                     |                                    |
 |41 36 | Ashtanga yoga with Jeff                             |[vimeo](https://vimeo.com/247214065)|
-|      |                                                    |                            |
-|41 50 | slow leg and hip stretches for sciatica with David | https://vimeo.com/154271371|
-|      |                                                    |                            |
-|42 00 | :zap: slow extended holds, Sarah Jane - pillow <<< | https://vimeo.com/171049915|
-|      |                                                    |                            |
-|42 03 | bed time yoga with Sarah Jane - pillow, bolster    | https://vimeo.com/199225832|
-|      |                                                    |                            |
-|42 05 | stretch hip flexor with Rachel                     | https://vimeo.com/237208952|
+|      |                                                     |                                    |
+|41 50 | slow leg and hip stretches for sciatica with David  |[vimeo](https://vimeo.com/154271371)|
+|      |                                                     |                                    |
+|42 00 | :zap: slow extended holds, Sarah Jane - *pillow* << |[vimeo](https://vimeo.com/171049915)|
+|      |                                                     |                                    |
+|42 03 | bed time yoga with Sarah Jane - *pillow, bolster*   |[vimeo](https://vimeo.com/199225832)|
+|      |                                                     |                                    |
+|42 05 | stretch hip flexor with Rachel                      |[vimeo](https://vimeo.com/237208952)|
 |      |                                                    |                            |
 |42 29 | stronger core and back with Anastasia              | https://vimeo.com/210001747|
 |      |                                                    |                            |
